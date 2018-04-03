@@ -1,12 +1,16 @@
 ### Survey Slides
 ##### Takahiro Itazuri (Waseda University)
 ---
-##### Social Scene Understanding: End-to-End Multi-Person Action Localization and Collective Activity Recognition
-
+##### Computer Visiona and Pattern Recognition 2016
 ---
-##### The World of Fast Moving Objects
+##### Computer Vision and Pattern Recognition 2017
++++
+###### Social Scene Understanding: End-to-End Multi-Person Action Localization and Collective Activity Recognition
 
----
-##### Deep Network Flow for Multi-Object Tracking
++++
+###### The World of Fast Moving Objects
 
----
++++
+###### Deep Network Flow for Multi-Object Tracking
+
++++
