@@ -22,8 +22,8 @@
     </ul>
   </div>
   <div class="col">
-    <img src="https://github.com/Takahiro-Itazuri/my-survey-slides/tree/master/assets/img/Social-Scene-Understanding-CVPR17-01.jpg">
-    <img src="https://github.com/Takahiro-Itazuri/my-survey-slides/tree/master/assets/img/Social-Scene-Understanding-CVPR17-02.jpg">
+    <img src="https://github.com/Takahiro-Itazuri/my-survey-slides/assets/img/Social-Scene-Understanding-CVPR17-01.jpg">
+    <img src="https://github.com/Takahiro-Itazuri/my-survey-slides/assets/img/Social-Scene-Understanding-CVPR17-02.jpg">
   </div>
 </div>
 
@@ -51,6 +51,6 @@
     <b>Links</b><br>
   </div>
   <div class="col">
-    <img src="https://github.com/Takahiro-Itazuri/my-survey-slides/tree/master/assets/img/">
+    <img src="https://github.com/Takahiro-Itazuri/my-survey-slides/assets/img/">
   </div>
 </div>
