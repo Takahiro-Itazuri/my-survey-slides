@@ -22,7 +22,7 @@
     </ul>
   </div>
   <div class="col">
-    <img src="assets/img/Social-Scene-Understanding-CVPR17-01.jpg">
+    ![image](assets/img/Social-Scene-Understanding-CVPR17-01.jpg)
     <img src="assets/img/Social-Scene-Understanding-CVPR17-02.jpg">
   </div>
 </div>
