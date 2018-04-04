@@ -7,12 +7,12 @@
 +++
 #### Social Scene Understanding: End-to-End Multi-Person Action Localization and Collective Activity Recognition
 ###### Timur Bagautdinov, Alexandre Alahi, Francois Fleuret, Pascal Fua, Silvio Savarese
-.left-column[
-  Column 1
-]
-.right-column[
-  Column 2
-]
+*** =left
+Column 1
+
+*** =right
+Column 2
+
 
 +++
 #### The World of Fast Moving Objects
