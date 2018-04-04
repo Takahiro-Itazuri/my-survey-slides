@@ -1,7 +1,10 @@
-.reveal .section {
+.reveal section {
   display: flex;
   flex-direction: column;
-  font-size: 14px;
+}
+
+.reveal div {
+  font-size: 16px;
 }
 
 .container {
@@ -11,7 +14,6 @@
 
 .col {
   flex-grow: 1;
-  font-size: 14px;
 }
 
 .reveal h1 {
