@@ -1,17 +1,20 @@
 # Survey Slides
 ### Takahiro Itazuri (Waseda University)
 ---
-### Computer Visiona and Pattern Recognition 2016
----
 ### Computer Vision and Pattern Recognition 2017
-+++ $twocol
++++
 #### Social Scene Understanding: End-to-End Multi-Person Action Localization and Collective Activity Recognition
 ###### Timur Bagautdinov, Alexandre Alahi, Francois Fleuret, Pascal Fua, Silvio Savarese
-*** =left
-Column 1
-
-*** =right
-Column 2
+<div class="container">
+  <div class="col">
+    <b>Abstract</b><br>
+    <b>Contribution</b><br>
+    <b>Links</b><br>
+  </div>
+  <div class="col">
+    <img src="">
+  </div>
+</div>
 
 
 +++
@@ -22,5 +25,21 @@ Column 2
 #### Deep Network Flow for Multi-Object Tracking
 ###### Samuel Schulter, Paul Vernaza, Wongun Choi, Manmohan Chandraker
 
+---
+### Computer Visiona and Pattern Recognition 2016
 
+---
+### Template
 +++
+#### Title
+###### Authors
+<div class="container">
+  <div class="col">
+    <b>Abstract</b><br>
+    <b>Contribution</b><br>
+    <b>Links</b><br>
+  </div>
+  <div class="col">
+    <img src="">
+  </div>
+</div>
