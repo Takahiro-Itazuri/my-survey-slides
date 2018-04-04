@@ -23,7 +23,7 @@
   </div>
   <div class="col">
     ![teaser](assets/img/Social-Scene-Understanding-CVPR17-01.jpg)
-    <img src="https://github.com/Takahiro-Itazuri/my-survey-slides/assets/img/Social-Scene-Understanding-CVPR17-02.jpg">
+    <img src="https://github.com/Takahiro-Itazuri/my-survey-slides/tree/master/assets/img/Social-Scene-Understanding-CVPR17-02.jpg">
   </div>
 </div>
 
