@@ -1,11 +1,19 @@
+* {
+  font-size: 14px;
+}
+
 .reveal .section {
   display: flex;
   flex-direction: column;
 }
 
-.flex div{
+.container {
   display: flex;
   flex-direction: row;
+}
+
+.col {
+  flex-grow: 1;
 }
 
 .reveal h1 {
