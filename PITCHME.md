@@ -22,8 +22,8 @@
     </ul>
   </div>
   <div class="col">
-    <img width="100%" src="https://raw.githubusercontent.com/Takahiro-Itazuri/my-survey-slides/master/assets/img/Social-Scene-Understanding-CVPR17-01.png">
-    <img width="100%" src="https://raw.githubusercontent.com/Takahiro-Itazuri/my-survey-slides/master/assets/img/Social-Scene-Understanding-CVPR17-02.png">
+    <img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/7d14700ea26a90eeba4e9cafbfc4ce8b6ec0e9fb/8-Figure4-1.png">
+    <img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/7d14700ea26a90eeba4e9cafbfc4ce8b6ec0e9fb/3-Figure2-1.png">
   </div>
 </div>
 
