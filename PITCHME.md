@@ -4,7 +4,7 @@
 ### Computer Visiona and Pattern Recognition 2016
 ---
 ### Computer Vision and Pattern Recognition 2017
-+++
++++ $twocol
 #### Social Scene Understanding: End-to-End Multi-Person Action Localization and Collective Activity Recognition
 ###### Timur Bagautdinov, Alexandre Alahi, Francois Fleuret, Pascal Fua, Silvio Savarese
 *** =left
