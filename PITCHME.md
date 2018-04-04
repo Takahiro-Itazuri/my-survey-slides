@@ -7,8 +7,6 @@
 ###### Timur Bagautdinov, Alexandre Alahi, Francois Fleuret, Pascal Fua, Silvio Savarese
 <div class="container">
   <div class="col">
-    <img width="100%" src="https://raw.githubusercontent.com/Takahiro-Itazuri/my-survey-slides/master/assets/img/Social-Scene-Understanding-CVPR17-01.png">
-    <img width="100%" src="https://raw.githubusercontent.com/Takahiro-Itazuri/my-survey-slides/master/assets/img/Social-Scene-Understanding-CVPR17-02.png">
     <u><b>Abstract</b></u><br>
     This method takes as input raw image sequences ad produces a comprehensive social scene interpretation: locations of individuals, thier individual social actions, and the collective activity.<br>
     <u><b>Contribution</b></u><br>
@@ -24,7 +22,8 @@
     </ul>
   </div>
   <div class="col">
-
+    <img width="100%" src="https://raw.githubusercontent.com/Takahiro-Itazuri/my-survey-slides/master/assets/img/Social-Scene-Understanding-CVPR17-01.png">
+    <img width="100%" src="https://raw.githubusercontent.com/Takahiro-Itazuri/my-survey-slides/master/assets/img/Social-Scene-Understanding-CVPR17-02.png">
   </div>
 </div>
 
