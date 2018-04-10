@@ -2,6 +2,32 @@
 ### Takahiro Itazuri (Waseda University)
 ---
 ### Computer Vision and Pattern Recognition 2017
+
++++
+#### A Low Power, Fully Event-Based Gesture Recognition System
+###### Arnon Amir, Brian Taba, David Berg, Timothy Melano, Jeffrey McKinstry, Carmelo Di Nolfo, Tapan Nayak, Alexander Andreopoulos, Guillaume Garreau, Marcela Mendoza, Jeff Kusnitz, Micheal Debole, Steve Esser, Tobi Delbruck, Myron Flickner, Dharmendra Modha
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    We present the first gesture recognition system implemented end-to-end on event-based hardware, using TrueNorth neurosynaptic processor to recognize hand gestures in real-time at lower power from events streamed live by a Dynamic Vision Sensor (DVS). TrueNorth, IBM's brain-like microprocessor, has been found to be exceptionally proficient at inference work for deep neural network.
+    <br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li>A gesture recognition system is implemented on event-based hardware that operates on live event streams in real-time.</li>
+      <li>A new hand-gesture dataset is collected with an event-based camera.</li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Amir_A_Low_Power_CVPR_2017_paper.pdf">paper</a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/19e32d6a4333f9dfbd73feaafdbecfa1bcbb6d16/3-Figure2-1.png">
+    <img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/19e32d6a4333f9dfbd73feaafdbecfa1bcbb6d16/5-Figure4-1.png">
+    <img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/19e32d6a4333f9dfbd73feaafdbecfa1bcbb6d16/5-Figure5-1.png">
+  </div>
+</div>
+
 +++
 #### Personalizing Gesture Recognition Using Hierarchical Bayesian Neural Networks
 ###### Ajjen Joshi, Soumya Ghosh, Margrit Betke, Stan Sclaroff, Hanspeter Pfister
@@ -171,9 +197,13 @@
     <u><b>Abstract</b></u><br>
     <br>
     <u><b>Contribution</b></u><br>
-    <br>
+    <ul>
+      <li></li>
+    </ul><br>
     <u><b>Links</b></u><br>
-    <br>
+    <ul>
+      <li></li>
+    </ul><br>
   </div>
   <div class="col">
     <img width="100%" src="https://raw.githubusercontent.com/Takahiro-Itazuri/my-survey-slides/master/assets/img/">
