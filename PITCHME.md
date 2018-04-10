@@ -8,7 +8,7 @@
 <div class="container">
   <div class="col">
     <u><b>Abstract</b></u><br>
-    We develop hierarchical Bayesian neural network to capture subject-specific variations and share statistical strength across subjects. We also develop methods for adapting our model to new subjects when a small number of subject-specific personalization data is available.
+    We develop hierarchical Bayesian neural network to capture subject-specific variations and share statistical strength across subjects. We also develop methods for adapting our model to new subjects when a small number of subject-specific personalization data is available.<br>
     <u><b>Contribution</b></u><br>
     <ul>
       <li>Develop hierarchical Bayesian neural networks for personalized gesture recognition in the presence of inter-subject variations</li>
@@ -17,11 +17,11 @@
     </ul>
     <u><b>Links</b></u><br>
     <ul>
-      <li><ah href="Personalizing Gesture Recognition Using Hierarchical Bayesian Neural Networks">paper</a></li>
+      <li><a href="Personalizing Gesture Recognition Using Hierarchical Bayesian Neural Networks">paper</a></li>
     </ul>
   </div>
   <div class="col">
-    <img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/36e0ba5f46d0eb0f75ed17b8776fa90c5ba83d43/1-Figure1-1.png">
+    <img width="60%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/36e0ba5f46d0eb0f75ed17b8776fa90c5ba83d43/1-Figure1-1.png">
     <img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/36e0ba5f46d0eb0f75ed17b8776fa90c5ba83d43/2-Figure2-1.png">
   </div>
 </div>
@@ -169,10 +169,13 @@
 <div class="container">
   <div class="col">
     <u><b>Abstract</b></u><br>
+    <br>
     <u><b>Contribution</b></u><br>
+    <br>
     <u><b>Links</b></u><br>
+    <br>
   </div>
   <div class="col">
-    <img src="https://raw.githubusercontent.com/Takahiro-Itazuri/my-survey-slides/master/assets/img/">
+    <img width="100%" src="https://raw.githubusercontent.com/Takahiro-Itazuri/my-survey-slides/master/assets/img/">
   </div>
 </div>
