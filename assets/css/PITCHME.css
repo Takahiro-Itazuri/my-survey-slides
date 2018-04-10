@@ -1,13 +1,13 @@
 .reveal div {
   font-size: 16px;
   text-align: left;
+  padding: 5%;
 }
 
 .container {
   display: flex;
   flex-direction: row;
   text-align: center;
-  padding: 5%;
 }
 
 .col {
