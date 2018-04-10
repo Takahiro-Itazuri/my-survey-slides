@@ -7,11 +7,11 @@
   display: flex;
   flex-direction: row;
   text-align: center;
+  padding: 5%;
 }
 
 .col {
-  width: 46%;
-  margin: 2%;
+  width: 49%;
 }
 
 .reveal h1 {
