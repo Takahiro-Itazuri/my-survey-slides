@@ -4,6 +4,31 @@
 ### Computer Vision and Pattern Recognition 2017
 
 +++
+#### Fine-grained recognition of thousands of object categories with single-example training
+###### Leonid Karlinsky, Joseph Shtok, Yochay Tzur, Asaf Tzadok
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    We propose an approach for the scenario of fine-grained object detection ad recognition with limited training data and large-scale datasets. The method consists of three main components: a fast initial detection and classification algorithm, Deep Neural Network (DNN) based fine-grained category refinement, and temporal integration for video inputs.<br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li>A non-parameteric probablistic model for multi-scale, fine-grained multi-class detection and recognition, capable of working in the challenging one-training-example per class setup. Accompanied by a sequential three-step inference approach to cope with a very large space of possible unobserved variable assignments: task specific objectness -> per hypothesis class short list prediction -> per hypothesis structured prediction and refinement.</li>
+      <li>A fast Nearest Neighbor (NN) search technique capable of searching for hundreds of thousands of image patch descriptors within a set of millions, in less than a second per mega-pixel.</li>
+      <li>A DNN combining the detected object images and their associated classification results in order to produce fine-grained classification refinement. The network is trained on synthetic data</li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Karlinsky_Fine-Grained_Recognition_of_CVPR_2017_paper.pdf">paper</a></li>
+      <li><a href="https://www.youtube.com/watch?v=V0lFpsfkMlE">presentation</a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="">
+    <img width="100%" src="">
+  </div>
+</div>
+
++++
 #### S3Pool: Pooling with Stochastic Spatial Sampling
 ###### Shuangfei Zhai, Hui Wu, Abhishek Kumar, Yu Cheng, Yongxi Lu, Zhongfei Zhang, Rogerio Feris
 <div class="container">
@@ -224,7 +249,7 @@
     </ul><br>
     <u><b>Links</b></u><br>
     <ul>
-      <li></li>
+      <li><a href=""></a></li>
     </ul><br>
   </div>
   <div class="col">
