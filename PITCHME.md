@@ -44,7 +44,7 @@
 <div class="container">
   <div class="col">
     <u><b>Abstract</b></u><br>
-    A novel approach for auto-curating sports highlights, showcasing its application in extracting golf play highlights. We measure the excitement lebel of video segments based on the following multimodal markers: player reaction, spectators, commentator. Our system is called High-Five (Highlights From Intelligent Video Engine), H5 in short.
+    A novel approach for auto-curating sports highlights, showcasing its application in extracting golf play highlights. We measure the excitement lebel of video segments based on the following multimodal markers: player reaction, spectators, commentator. Our system is called High-Five (Highlights From Intelligent Video Engine), H5 in short.<br>
     <u><b>Contribution</b></u><br>
     <ul>
       <li>a first-of-kind system for automatically extracting golf highlightings by uniquely fusing multimodal excitement measures from the player, spectators, and commentators. personalized highlight retrieval or alerts based on player name, hole number, location, and time.</li>
