@@ -3,6 +3,30 @@
 ---
 ### Computer Vision and Pattern Recognition 2017
 +++
+#### Personalizing Gesture Recognition Using Hierarchical Bayesian Neural Networks
+###### Ajjen Joshi, Soumya Ghosh, Margrit Betke, Stan Sclaroff, Hanspeter Pfister
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    We develop hierarchical Bayesian neural network to capture subject-specific variations and share statistical strength across subjects. We also develop methods for adapting our model to new subjects when a small number of subject-specific personalization data is available.
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li>Develop hierarchical Bayesian neural networks for personalized gesture recognition in the presence of inter-subject variations</li>
+      <li>Adapt reduced variance versions of stochastic variational inference for learning the posterior distribution over model parameters</li>
+      <li>Utilize that inferred posterior to drive an active learning procedure that consistently improves over naive personalization.</li>
+    </ul>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><ah href="Personalizing Gesture Recognition Using Hierarchical Bayesian Neural Networks">paper</a></li>
+    </ul>
+  </div>
+  <div class="col">
+    <img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/36e0ba5f46d0eb0f75ed17b8776fa90c5ba83d43/1-Figure1-1.png">
+    <img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/36e0ba5f46d0eb0f75ed17b8776fa90c5ba83d43/2-Figure2-1.png">
+  </div>
+</div>
+
++++
 #### Social Scene Understanding: End-to-End Multi-Person Action Localization and Collective Activity Recognition
 ###### Timur Bagautdinov, Alexandre Alahi, Francois Fleuret, Pascal Fua, Silvio Savarese
 <div class="container">
@@ -52,12 +76,13 @@
       <li>an extensive evaluation, showing the importance of each component in our proposed approach, and comparing our results with professionally curated highlights.</li>
     </ul>
     <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8014748">paper</a></li>
+    </ul>
   </div>
   <div class="col">
     <img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/2024c9e06c6e8082dadca2977ef0356a743b9905/1-Figure1-1.png">
     <img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/2024c9e06c6e8082dadca2977ef0356a743b9905/3-Figure2-1.png">
-    <img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/2024c9e06c6e8082dadca2977ef0356a743b9905/5-Figure3-1.png">
-    <img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/2024c9e06c6e8082dadca2977ef0356a743b9905/6-Figure5-1.png">
   </div>
 </div>
 
@@ -116,7 +141,23 @@
     <u><b>Links</b></u><br>
   </div>
   <div class="col">
-    <img src="https://raw.githubusercontent.com/Takahiro-Itazuri/my-survey-slides/master/assets/img/">
+    <img width="100%" src="http://www-scf.usc.edu/~zhan355/ke_eccv2016.pdf">
+  </div>
+</div>
+
+---
+### ACM Multimedia
++++
+#### 
+###### Authors
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    <u><b>Contribution</b></u><br>
+    <u><b>Links</b></u><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="http://delivery.acm.org/10.1145/2970000/2964286/p908-bettadapura.pdf?ip=133.9.4.18&id=2964286&acc=ACTIVE%20SERVICE&key=D2341B890AD12BFE%2EF9D920C4190321DF%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1523343437_56d3bdba4c80ff7bfa87563295a871b4">
   </div>
 </div>
 
