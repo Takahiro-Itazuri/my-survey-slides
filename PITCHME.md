@@ -89,7 +89,7 @@
     </ul>
     <u><b>Links</b></u><br>
     <ul>
-      <li><a href="Personalizing Gesture Recognition Using Hierarchical Bayesian Neural Networks">paper</a></li>
+      <li><a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Joshi_Personalizing_Gesture_Recognition_CVPR_2017_paper.pdf">paper</a></li>
     </ul>
   </div>
   <div class="col">
