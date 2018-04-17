@@ -23,7 +23,7 @@
     </ul><br>
   </div>
   <div class="col">
-    <a href="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/306f519c545396f429530dbf7e392baa2427d557/1-Figure1-1.png" target="_blank"><img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/306f519c545396f429530dbf7e392baa2427d557/1-Figure1-1.png"></a>
+    <img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/306f519c545396f429530dbf7e392baa2427d557/1-Figure1-1.png">
   </div>
 </div>
 
@@ -183,6 +183,151 @@
 </div>
 
 ---
+### CHI 2017
++++
+#### MakerWear: A Tangible Approach to Interactive Wearable Creation for Children
+###### Majeed Kazemitabaar, Jason McPeak, Alexander Jiao, Liang He, Thomas Outing, Jon E. Froehlich
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    We introduce <i>MakerWear</i>, a new wearable construcion kit for young children that use a tangible, 'plug-and-play' approach to wearable creation. MakerWear is comprised of two parts: (i) single-function, electronic modules and (ii) a flexible, magnetic socket mesh. Our findings reveal how children engage in wearable design, what they make (and want to make), and what challenges they face. We also explore age-related differences.
+    <br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li>the MakerWear system, including the 'plug-and-play' modules and custom socket design, which dramatically lowers barriers to wearable design</li>
+      <li>findings from pilot studies and single- and multi-session workshops characterizing how children engage in wearable design, what they make, and the challeges therein</li>
+      <li>an analysis of age-related differences in MakerWear creation and understanding</li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="http://delivery.acm.org/10.1145/3030000/3025887/p133-kazemitabaar.pdf?ip=133.9.4.12&id=3025887&acc=ACTIVE%20SERVICE&key=D2341B890AD12BFE%2EF9D920C4190321DF%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1523927714_86806945e02bb786459fabd326bcff35">paper</a></li>
+      <li><a href="https://www.youtube.com/watch?v=14Fa_VOJHIA">demo</a>
+      <li><a href="http://lianghe.me/makerwear.html">project</a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="http://lianghe.me/images/makerwear/fig1.png">
+    <img width="100%" src="http://lianghe.me/images/makerwear/fig3.png">
+    <img width="100%" src="http://lianghe.me/images/makerwear/fig2.png">
+  </div>
+</div>
+
++++
+#### Organic Primitives: Synthesis and Design of pH-Reactive Materials using Molecular I/O for Sensing, Actuation, and Interaction
+###### Viirj Kan, Emma Vargo, Noa Machover, Hiroshi Ishii, Serena Pan, Weixuan Chen, Yasuaki Kakehi
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    <br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li></li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="http://delivery.acm.org/10.1145/3030000/3025952/p989-kan.pdf?ip=133.9.4.12&id=3025952&acc=OA&key=D2341B890AD12BFE%2EF9D920C4190321DF%2E4D4702B0C3E38B35%2EBBF806CD760D4DF5&__acm__=1523927303_c4df2320f2d3a9d42c8593a800eef278">paper</a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="">
+    <img width="100%" src="">
+    <img width="100%" src="">
+  </div>
+</div>
+
++++
+#### Stories from Survivors: Privacy & Security Practices when Coping with Intimate Partner Abuse
+###### Tara Matthews, Kathleen O'Leary, Anna Turner, Manya Sleeper, Jill Palzkill Woelfer, Martin Shelton, Cori Manthorne, Elizabeth F. Churchill, Sunny Consolvo
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    <br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li></li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="http://delivery.acm.org/10.1145/3030000/3025875/p2189-matthews.pdf?ip=133.9.4.12&id=3025875&acc=OA&key=D2341B890AD12BFE%2EF9D920C4190321DF%2E4D4702B0C3E38B35%2E5945DC2EABF3343C&__acm__=1523928178_6901c4864fef0b0a5a49749ead91ae77">pdf</a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="">
+    <img width="100%" src="">
+    <img width="100%" src="">
+  </div>
+</div>
+
++++
+#### A Critical Lens on Dementia and Design in HCI
+###### Amanda Lazar, Caroline Edasis, Anne Marie Piper
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    <br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li></li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="http://delivery.acm.org/10.1145/3030000/3025522/p2175-lazar.pdf?ip=133.9.4.12&id=3025522&acc=ACTIVE%20SERVICE&key=D2341B890AD12BFE%2EF9D920C4190321DF%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1523928108_1e28d0804586321f4cf78f16053efc99">paper</a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="">
+    <img width="100%" src="">
+    <img width="100%" src="">
+  </div>
+</div>
+
++++
+#### Explaining the Gap: Visualizing One's Predictions Improves Recall and Comprehension of Data
+###### Yea-Suel Kim, Katharina Reinecke, Jessica Hullman
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    <br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li></li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="http://delivery.acm.org/10.1145/3030000/3025592/p1375-kim.pdf?ip=133.9.4.12&id=3025592&acc=ACTIVE%20SERVICE&key=D2341B890AD12BFE%2EF9D920C4190321DF%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1523927993_70102a7491016e5e5a03d157bbb140e6">paper</a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="">
+    <img width="100%" src="">
+    <img width="100%" src="">
+  </div>
+</div>
+
++++
+#### Empowered Participation: Exploring How Citizens Use Technology in Local Governance
+###### Sheena Erete, Jennifer O. Burrell
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    <br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li></li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="http://delivery.acm.org/10.1145/3030000/3025996/p2307-erete.pdf?ip=133.9.4.12&id=3025996&acc=ACTIVE%20SERVICE&key=D2341B890AD12BFE%2EF9D920C4190321DF%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1523927483_ae458fd3f43bf05be4e15e5e7cb7413b">paper</a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="">
+    <img width="100%" src="">
+    <img width="100%" src="">
+  </div>
+</div>
+
+---
 ### Computer Visiona and Pattern Recognition 2016
 +++
 #### Rethinking the Inception Architecture for Computer Vision
@@ -252,7 +397,8 @@
     </ul><br>
   </div>
   <div class="col">
-    <a href=""><img width="100%" src=""></a>
-    <a href=""><img width="100%" src=""></a>
+    <img width="100%" src="">
+    <img width="100%" src="">
+    <img width="100%" src="">
   </div>
 </div>
