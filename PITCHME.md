@@ -23,7 +23,7 @@
     </ul><br>
   </div>
   <div class="col">
-    <img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/306f519c545396f429530dbf7e392baa2427d557/1-Figure1-1.png">
+    <a href="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/306f519c545396f429530dbf7e392baa2427d557/1-Figure1-1.png"><img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/306f519c545396f429530dbf7e392baa2427d557/1-Figure1-1.png"></a>
   </div>
 </div>
 
@@ -252,7 +252,7 @@
     </ul><br>
   </div>
   <div class="col">
-    <img width="100%" src="">
-    <img width="100%" src="">
+    <a href=""><img width="100%" src=""></a>
+    <a href=""><img width="100%" src=""></a>
   </div>
 </div>
