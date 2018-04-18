@@ -1,5 +1,84 @@
 # Survey Slides
 ### Takahiro Itazuri (Waseda University)
+
+<!--
+  CHI 2018
+-->
+---
+### CHI 2018
+
++++
+#### Extending Manual Drawing Practices with Artist-Centric Programming Tools
+###### Jennifer Jacobs, Joel Brandt, Radomir Mech, Mitchel Resnick
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    <br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li></li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href=""></a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="">
+    <img width="100%" src="">
+    <img width="100%" src="">
+  </div>
+</div>
+
++++
+#### Voice Interfaces in Everyday Life
+###### Martin Porcheron, Joel E. Fischer, Stuart Reeves, Sarah Sharples
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    <br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li></li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href=""></a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="">
+    <img width="100%" src="">
+    <img width="100%" src="">
+  </div>
+</div>
+
++++
+#### Data Illustrator: Augumenting Vector Design Tools with Lazy Data Binding for Expressive Visualization Authoring
+###### Zhicheng Liu, John Thompson, Alan Wilson, Mira Dontcheva, James Delorey, Sam Grigg, Bernard Kerr, John Stasko
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    <br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li></li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href=""></a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="">
+    <img width="100%" src="">
+    <img width="100%" src="">
+  </div>
+</div>
+
+<!--
+  CVPR 2017
+-->
 ---
 ### Computer Vision and Pattern Recognition 2017
 
@@ -201,7 +280,8 @@
     <u><b>Links</b></u><br>
     <ul>
       <li><a href="https://dl.acm.org/citation.cfm?id=3025887">paper</a></li>
-      <li><a href="https://www.youtube.com/watch?v=14Fa_VOJHIA">demo</a>
+      <li><a href="https://www.youtube.com/watch?v=14Fa_VOJHIA">demo</a></li>
+      <li><a href="https://youtu.be/8t6du1RDDD4">presentation video</a></li>
       <li><a href="http://lianghe.me/makerwear.html">project</a></li>
     </ul><br>
   </div>
@@ -237,52 +317,6 @@
 </div>
 
 +++
-#### Stories from Survivors: Privacy & Security Practices when Coping with Intimate Partner Abuse
-###### Tara Matthews, Kathleen O'Leary, Anna Turner, Manya Sleeper, Jill Palzkill Woelfer, Martin Shelton, Cori Manthorne, Elizabeth F. Churchill, Sunny Consolvo
-<div class="container">
-  <div class="col">
-    <u><b>Abstract</b></u><br>
-    <br>
-    <u><b>Contribution</b></u><br>
-    <ul>
-      <li></li>
-    </ul><br>
-    <u><b>Links</b></u><br>
-    <ul>
-      <li><a href="http://delivery.acm.org/10.1145/3030000/3025875/p2189-matthews.pdf?ip=133.9.4.12&id=3025875&acc=OA&key=D2341B890AD12BFE%2EF9D920C4190321DF%2E4D4702B0C3E38B35%2E5945DC2EABF3343C&__acm__=1523928178_6901c4864fef0b0a5a49749ead91ae77">pdf</a></li>
-    </ul><br>
-  </div>
-  <div class="col">
-    <img width="100%" src="">
-    <img width="100%" src="">
-    <img width="100%" src="">
-  </div>
-</div>
-
-+++
-#### A Critical Lens on Dementia and Design in HCI
-###### Amanda Lazar, Caroline Edasis, Anne Marie Piper
-<div class="container">
-  <div class="col">
-    <u><b>Abstract</b></u><br>
-    <br>
-    <u><b>Contribution</b></u><br>
-    <ul>
-      <li></li>
-    </ul><br>
-    <u><b>Links</b></u><br>
-    <ul>
-      <li><a href="http://delivery.acm.org/10.1145/3030000/3025522/p2175-lazar.pdf?ip=133.9.4.12&id=3025522&acc=ACTIVE%20SERVICE&key=D2341B890AD12BFE%2EF9D920C4190321DF%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1523928108_1e28d0804586321f4cf78f16053efc99">paper</a></li>
-    </ul><br>
-  </div>
-  <div class="col">
-    <img width="100%" src="">
-    <img width="100%" src="">
-    <img width="100%" src="">
-  </div>
-</div>
-
-+++
 #### Explaining the Gap: Visualizing One's Predictions Improves Recall and Comprehension of Data
 ###### Yea-Suel Kim, Katharina Reinecke, Jessica Hullman
 <div class="container">
@@ -305,6 +339,53 @@
   <div class="col">
     <img width="100%" src="https://cdn-images-1.medium.com/max/1200/0*uo20g3jspjjM9k1t.">
     <img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/3c12818c5a714044e1f9a0d26636b53b7c7831ce/3-Figure1-1.png">
+  </div>
+</div>
+
++++
+#### A Critical Lens on Dementia and Design in HCI
+###### Amanda Lazar, Caroline Edasis, Anne Marie Piper
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    <br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li>four key ways in which the critical dementia perspective resonates with recent epistemological shifts in HCI</li>
+      <li>a case analysis of the design and use of technology within a context that enbraces this perspective: art therapy</li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="https://dl.acm.org/citation.cfm?id=3025522">paper</a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="">
+    <img width="100%" src="">
+    <img width="100%" src="">
+  </div>
+</div>
+
++++
+#### Stories from Survivors: Privacy & Security Practices when Coping with Intimate Partner Abuse
+###### Tara Matthews, Kathleen O'Leary, Anna Turner, Manya Sleeper, Jill Palzkill Woelfer, Martin Shelton, Cori Manthorne, Elizabeth F. Churchill, Sunny Consolvo
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    <br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li></li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="http://delivery.acm.org/10.1145/3030000/3025875/p2189-matthews.pdf?ip=133.9.4.12&id=3025875&acc=OA&key=D2341B890AD12BFE%2EF9D920C4190321DF%2E4D4702B0C3E38B35%2E5945DC2EABF3343C&__acm__=1523928178_6901c4864fef0b0a5a49749ead91ae77">pdf</a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="">
+    <img width="100%" src="">
+    <img width="100%" src="">
   </div>
 </div>
 
@@ -350,6 +431,9 @@
   </div>
 </div>
 
+<!--
+  ECCV 2016
+-->
 ---
 ### European Conference on Computer Vision 2016
 +++
@@ -363,22 +447,6 @@
   </div>
   <div class="col">
     <img width="100%" src="http://www-scf.usc.edu/~zhan355/ke_eccv2016.pdf">
-  </div>
-</div>
-
----
-### ACM Multimedia
-+++
-#### 
-###### Authors
-<div class="container">
-  <div class="col">
-    <u><b>Abstract</b></u><br>
-    <u><b>Contribution</b></u><br>
-    <u><b>Links</b></u><br>
-  </div>
-  <div class="col">
-    <img width="100%" src="http://delivery.acm.org/10.1145/2970000/2964286/p908-bettadapura.pdf?ip=133.9.4.18&id=2964286&acc=ACTIVE%20SERVICE&key=D2341B890AD12BFE%2EF9D920C4190321DF%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1523343437_56d3bdba4c80ff7bfa87563295a871b4">
   </div>
 </div>
 
