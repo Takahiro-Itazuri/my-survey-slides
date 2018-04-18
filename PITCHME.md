@@ -500,13 +500,10 @@
 ### Database of Databse
 +++
 #### UCF101
-###### Authors
+###### Khurram Soomro, Amir Roshan Zamir, Mubarak Shah
 <div class="container">
   <div class="col">
-    <u><b>What</b></u><br>
-    UCF101 is an action recognition dataset of realistic action videos, collected from YouTube, having 101 action categories. The action categories can be divided into five types: 1) Human-Object Interaction 2) Body-Motion Only 3) Human-Human Interaction 4) Playing Musical Instruments 5) Sports.<br>
-    <u><b>How many</b></u><br>
-    13320 videos from 101 action categories.<br>
+    UCF101 is an action recognition dataset of realistic action videos, collected from YouTube, having 101 action categories. The action categories can be divided into five types: 1) Human-Object Interaction 2) Body-Motion Only 3) Human-Human Interaction 4) Playing Musical Instruments 5) Sports. UCF101 contains 13,320 videos from 101 action categories.<br>
     <u><b>Links</b></u><br>
     <ul>
       <li><a href="http://crcv.ucf.edu/data/UCF101.php">project</a></li>
@@ -514,9 +511,22 @@
     </ul><br>
   </div>
   <div class="col">
-    <img width="100%" src="">
-    <img width="100%" src="">
-    <img width="100%" src="">
+  </div>
+</div>
+
++++
+#### Sports-1M
+###### Andrej Karpathy, George Toderici, Sanketh Shetty, Thomas Leung, Rahul Sukthankar, Li Fei-Fei
+<div class="container">
+  <div class="col">
+    Sports-1M dataset is licensed under Creative Commons 3.0 and contains 1,133,158 video URLs which have been annotated automatically with 487 Sports Labels using the YouTube Topics API.<br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="https://cs.stanford.edu/people/karpathy/deepvideo/">project</a></li>
+      <li><a href="https://github.com/gtoderici/sports-1m-dataset/blob/wiki/ProjectHome.md">github</a></li>
+    </ul><br>
+  </div>
+  <div class="col">
   </div>
 </div>
 
