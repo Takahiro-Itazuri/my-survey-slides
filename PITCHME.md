@@ -445,6 +445,37 @@
 </div>
 
 <!--
+  arXiv 2017
+-->
+---
+### arXiv 2017
++++
+#### Large-scale, Fast and Accurate Shot Boundary Detection through Spatio-temporal Convolutional Neural Networks
+###### Ahmed Hassanien, Mohamed Elgharib, Ahmed Selim, Sung-Ho Bae, Mohamed Hefeeda, Wojciech Matusik
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    We present a SBD technique based on spatio-temporal Convolutional Neural Networks (CNN). We are the first to present a very large SBD dataset that allows deep neural networks techniques to be effectively applied.<br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li>The first CNN SBD technique. We outperform dissolve gradual detection, generate competitive performance for sharp detections and produce significant improvement in wipes. In addition, we are up to 11 times faster than the state of the art.</li>
+      <li>Introduction of a new very large SBD dataset for training an accurate CNN model. Our dataset contains 3.5 million frames of synthetic transitions and 70,000 frames of hard negative no-transitions.</li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="http://cfg.mit.edu/sites/cfg.mit.edu/files/large_scale_shot_boundary_detection.pdf">paper</a></li>
+      <li><a href="http://ds.qcri.org/projects/deepsbd/">project</a></li>
+      <li><a href="https://github.com/melgharib/DSBD">code</a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="">
+    <img width="100%" src="">
+    <img width="100%" src="">
+  </div>
+</div>
+
+<!--
   ECCV 2016
 -->
 ---
