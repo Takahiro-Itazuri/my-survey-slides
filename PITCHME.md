@@ -30,7 +30,6 @@
   </div>
   <div class="col">
     <img width="100%" src="http://web.media.mit.edu/~jacobsj/images/dynamic_brushes/dynamic_brushes.004.png">
-    <img width="100%" src="http://web.media.mit.edu/~jacobsj/images/dynamic_brushes/dynamic_brushes.003.png">
   </div>
 </div>
 
