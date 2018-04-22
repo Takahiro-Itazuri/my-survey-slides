@@ -488,7 +488,6 @@
     </ul><br>
   </div>
   <div class="col">
-    <img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/0216ea56ae8764bc5bc632a3c1dde1135ea9473a/5-Figure2-1.png">
     <img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/0216ea56ae8764bc5bc632a3c1dde1135ea9473a/8-Figure3-1.png">
   </div>
 </div>
