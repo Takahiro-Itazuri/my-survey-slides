@@ -356,49 +356,23 @@
 </div>
 
 +++
-#### A Critical Lens on Dementia and Design in HCI
-###### Amanda Lazar, Caroline Edasis, Anne Marie Piper
-<div class="container">
-  <div class="col">
-    <u><b>Abstract</b></u><br>
-    <br>
-    <u><b>Contribution</b></u><br>
-    <ul>
-      <li>four key ways in which the critical dementia perspective resonates with recent epistemological shifts in HCI</li>
-      <li>a case analysis of the design and use of technology within a context that enbraces this perspective: art therapy</li>
-    </ul><br>
-    <u><b>Links</b></u><br>
-    <ul>
-      <li><a href="https://dl.acm.org/citation.cfm?id=3025522">paper</a></li>
-    </ul><br>
-  </div>
-  <div class="col">
-    <img width="100%" src="">
-    <img width="100%" src="">
-    <img width="100%" src="">
-  </div>
-</div>
-
-+++
 #### Stories from Survivors: Privacy & Security Practices when Coping with Intimate Partner Abuse
 ###### Tara Matthews, Kathleen O'Leary, Anna Turner, Manya Sleeper, Jill Palzkill Woelfer, Martin Shelton, Cori Manthorne, Elizabeth F. Churchill, Sunny Consolvo
 <div class="container">
   <div class="col">
     <u><b>Abstract</b></u><br>
-    <br>
+    We present a qualitative study of the digital privacy and security motivations, practices, and challenges of a specific population facing higher levels of risk in their daily lives: survivors of intimate partner abuse (IPA). Results of our study were used to develop a framewor organizing suvivor technology practices and challenges into three-phases of intimate partner abuse: physical control, escape, and life apart.<br>
     <u><b>Contribution</b></u><br>
     <ul>
-      <li></li>
+      <li>a three-phase framework for organizing suvivors' techonology practices and challenges. This framework provides rmpirically sound, foundational guidance for technology creators to consier how new and existing technologies may be designed to help survivors of IPA.</li>
     </ul><br>
     <u><b>Links</b></u><br>
     <ul>
-      <li><a href="http://delivery.acm.org/10.1145/3030000/3025875/p2189-matthews.pdf?ip=133.9.4.12&id=3025875&acc=OA&key=D2341B890AD12BFE%2EF9D920C4190321DF%2E4D4702B0C3E38B35%2E5945DC2EABF3343C&__acm__=1523928178_6901c4864fef0b0a5a49749ead91ae77">pdf</a></li>
+      <li><a href="https://dl.acm.org/citation.cfm?id=3025875">paper</a></li>
     </ul><br>
   </div>
   <div class="col">
-    <img width="100%" src="">
-    <img width="100%" src="">
-    <img width="100%" src="">
+    <img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/1c0852f8658c2e63320008a3fcb44c3dcdac2036/5-Figure1-1.png">
   </div>
 </div>
 
@@ -408,39 +382,23 @@
 <div class="container">
   <div class="col">
     <u><b>Abstract</b></u><br>
-    <br>
+    We examine the research question: <i>How do ICTs affect political engagement and interactions with city officials around crime prevention in diverse neighbothoods?</i> In this paper, we describe how citizens use ICTs to influence local policy, particularly amoung law enforcement and local government officials.<br>
     <u><b>Contribution</b></u><br>
     <ul>
-      <li></li>
+      <li>Our findings provide insignts into the usage of ICTs to support local governance for crime prevention, extending prior HCI research focused on the use of technology to support local engagement.</li>
+      <li>Our results add to the conversation that technology alone cannot equitably empower citizens to solve deep-seated social problems such as crime without addressing the underlying inequities across communities.</li>
+      <li>Our study builds on prior work in HCI that provides insights into designing for traditionally marginalized groups.</li>
     </ul><br>
     <u><b>Links</b></u><br>
     <ul>
-      <li><a href="http://delivery.acm.org/10.1145/3030000/3025996/p2307-erete.pdf?ip=133.9.4.12&id=3025996&acc=ACTIVE%20SERVICE&key=D2341B890AD12BFE%2EF9D920C4190321DF%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1523927483_ae458fd3f43bf05be4e15e5e7cb7413b">paper</a></li>
+      <li><a href="https://dl.acm.org/citation.cfm?id=3025996">paper</a></li>
+      <li><a href="https://youtu.be/ggf31o5Ync0">presentation</a></li>
     </ul><br>
   </div>
   <div class="col">
     <img width="100%" src="">
     <img width="100%" src="">
     <img width="100%" src="">
-  </div>
-</div>
-
----
-### Computer Visiona and Pattern Recognition 2016
-+++
-#### Rethinking the Inception Architecture for Computer Vision
-###### Christian Szegedy, Vincent Vanhoucke, Sergey Ioffe, Jon Shlens
-<div class="container">
-  <div class="col">
-    <u><b>Abstract</b></u><br>
-    <u><b>Contribution</b></u><br>
-    <u><b>Links</b></u><br>
-    <ul>
-      <li><a href="https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.pdf">paper</a></li>
-    </ul>
-  </div>
-  <div class="col">
-    <img src="https://raw.githubusercontent.com/Takahiro-Itazuri/my-survey-slides/master/assets/img/">
   </div>
 </div>
 
@@ -475,11 +433,35 @@
   </div>
 </div>
 
+
+<!--
+  CVPR 2016
+-->
+---
+### CVPR 2016
++++
+#### Rethinking the Inception Architecture for Computer Vision
+###### Christian Szegedy, Vincent Vanhoucke, Sergey Ioffe, Jon Shlens
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    <u><b>Contribution</b></u><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.pdf">paper</a></li>
+    </ul>
+  </div>
+  <div class="col">
+    <img src="https://raw.githubusercontent.com/Takahiro-Itazuri/my-survey-slides/master/assets/img/">
+  </div>
+</div>
+
+
 <!--
   ECCV 2016
 -->
 ---
-### European Conference on Computer Vision 2016
+### ECCV 2016
 +++
 #### Video Summarization with Long Short-term Memory
 ###### Ke Zhang, Wei-Lun Chao, Fei Sha, and Kristen Grauman
