@@ -476,43 +476,20 @@
 <div class="container">
   <div class="col">
     <u><b>Abstract</b></u><br>
-    <br>
+    To better understand the forms of empathy experienced by people observing animal-computer interaction, we designed and studied an interactive installation for orangutans at a zoo. We deployed a prototype installation, and observed and interviewed visitors who watched orangutans use the installation. Analysis of observations and interviews revealed that visitors responded with cognitive, affective and motor empathy for the animals.<br>
     <u><b>Contribution</b></u><br>
     <ul>
-      <li></li>
+      <li>This paper contributes new evidence and understanding of people's empathetic responses to observing animal-computer interaction and confirms the value of designing for empathy in its various forms.</li>
     </ul><br>
     <u><b>Links</b></u><br>
     <ul>
-      <li><a href="paper">https://dl.acm.org/citation.cfm?doid=3025453.3025729</a></li>
+      <li><a href="https://dl.acm.org/citation.cfm?doid=3025453.3025729">paper</a></li>
+      <li><a href="https://youtu.be/Iu03LNciKL8">demo</a></li>
     </ul><br>
   </div>
   <div class="col">
-    <img width="100%" src="">
-    <img width="100%" src="">
-    <img width="100%" src="">
-  </div>
-</div>
-
-+++
-#### Supporting the Use of User Generated Content in Journalistic Practice
-###### Peter Tolmie, Rob Procter, David William Randall, Mark Rouncefield, Christian Burger, Geraldine Wong Sak Hoi, Arkaitz Zubiaga, Maria Liakata
-<div class="container">
-  <div class="col">
-    <u><b>Abstract</b></u><br>
-    <br>
-    <u><b>Contribution</b></u><br>
-    <ul>
-      <li></li>
-    </ul><br>
-    <u><b>Links</b></u><br>
-    <ul>
-      <li><a href="https://dl.acm.org/citation.cfm?id=3025892">paper</a></li>
-    </ul><br>
-  </div>
-  <div class="col">
-    <img width="100%" src="">
-    <img width="100%" src="">
-    <img width="100%" src="">
+    <img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/0216ea56ae8764bc5bc632a3c1dde1135ea9473a/5-Figure2-1.png">
+    <img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/0216ea56ae8764bc5bc632a3c1dde1135ea9473a/8-Figure3-1.png">
   </div>
 </div>
 
