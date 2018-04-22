@@ -399,6 +399,121 @@
   </div>
 </div>
 
++++
+#### What Can Be Predicted from Six Seconds of Driver Glances?
+###### Lex Fridman, Heishiro Toyoda, Sean Seaman, Bobbie Seppelt, Linda Angell, Joonbum Lee, Bruce Mehler, Bryan Reimer
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    We consider a large dataset of real-world, on-road driving from a 100-car naturalistic study to explore the predictive power of driver glances and, specifically, to answer the following question: what can be predicted about the state of the driver and the state of the driving environment from a 6-second sequence of macro-glances?<br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li>Just 6 seconds of coarse driver gaze regions can be used to predict a lot of things about the driver, the car, and the driving environment.</li>
+      <li>Drive gaze has been used to predict attention allocation, but not to predict everything else. We try to just that for the first time and show when it works and when it doesn't.</li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="https://dl.acm.org/citation.cfm?id=3025929">paper</a></li>
+      <li><a href="https://youtu.be/FKRuxvm6HlA">presentation</a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="https://i.ytimg.com/vi/FKRuxvm6HlA/maxresdefault.jpg">
+  </div>
+</div>
+
++++
+#### Designing Gamified Applications that Make Safe Driving More Engaging
+###### Fabius Steinberger, Ronald Schroeter, Marcus Foth, Daniel Johnson
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    <br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li></li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="https://dl.acm.org/citation.cfm?id=3025511">paper</a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="">
+    <img width="100%" src="">
+    <img width="100%" src="">
+  </div>
+</div>
+
++++
+#### Modelling Learning of New Keyboard Layouts
+###### JUssi P.P. Jokinen, Sayan Sarcar, Antti Oulasvirta, Chaklam Silpasuwanchai, Zhenxin Wang, Xiangshi Ren
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    <br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li></li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="https://dl.acm.org/citation.cfm?id=3025580">paper</a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="">
+    <img width="100%" src="">
+    <img width="100%" src="">
+  </div>
+</div>
+
++++
+#### Kinecting with Orangutans: Zoo Visitors' Empathetic Responses to Animals? Use Interactive Technology
+###### Sarah Webber, Marcus Carter, Sally Sherwen, Wally Smith, Zaher Joukhadar, Frank Vetere
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    <br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li></li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="paper">https://dl.acm.org/citation.cfm?doid=3025453.3025729</a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="">
+    <img width="100%" src="">
+    <img width="100%" src="">
+  </div>
+</div>
+
++++
+#### Supporting the Use of User Generated Content in Journalistic Practice
+###### Peter Tolmie, Rob Procter, David William Randall, Mark Rouncefield, Christian Burger, Geraldine Wong Sak Hoi, Arkaitz Zubiaga, Maria Liakata
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    <br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li></li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="https://dl.acm.org/citation.cfm?id=3025892">paper</a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="">
+    <img width="100%" src="">
+    <img width="100%" src="">
+  </div>
+</div>
+
 <!--
   arXiv 2017
 -->
