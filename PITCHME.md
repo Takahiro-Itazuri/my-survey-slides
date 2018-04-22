@@ -428,20 +428,21 @@
 <div class="container">
   <div class="col">
     <u><b>Abstract</b></u><br>
-    <br>
+    The research aim was to study how to design gamiied applications that make safe driving more engaging. To address this research aim, we present a user study, our interative design process, and two prototype evaluations. We discussed how the six design lenses data, presentation, time, interface, social context and road conditions are useful to bring into focus user needs and contextual requirements throughout the entire design process.<br>
     <u><b>Contribution</b></u><br>
     <ul>
-      <li></li>
+      <li>We offer six lenses through which to view the design of gamified driving applications.</li>
+      <li>We present new empirical data from a user study and ten design recommendations derived from it.</li>
+      <li>Through two prototype evaluations, we show how these lenses and recommendations can help to implement concrete applications that successfully increase task engagement.</li>
     </ul><br>
     <u><b>Links</b></u><br>
     <ul>
       <li><a href="https://dl.acm.org/citation.cfm?id=3025511">paper</a></li>
+      <li><a href="https://youtu.be/VGmotlIIIeU">presentation</a></li>
     </ul><br>
   </div>
   <div class="col">
-    <img width="100%" src="">
-    <img width="100%" src="">
-    <img width="100%" src="">
+    <img width="100%" src="https://i.ytimg.com/vi/VGmotlIIIeU/maxresdefault.jpg">
   </div>
 </div>
 
@@ -451,20 +452,21 @@
 <div class="container">
   <div class="col">
     <u><b>Abstract</b></u><br>
-    <br>
+    Predicting how users learn new or changed interfaces is a long-standing objective in HCI research. This paper contributes to understanding of visual search and learning in text entry. This paper presents a model of positional learning for keyboards.<br>
     <u><b>Contribution</b></u><br>
     <ul>
-      <li></li>
+      <li>Our model clarifies the problem by operationalising layout learning and relearning as a dynamic system consisting of visual search, visual short-term memory, long-term memory, and utility learning.</li>
+      <li>The model can assist designers and decisionmakers by predicting 1) how changes in layouts influence relearning times; 2) that large changes in layouts are possible when some maximum acceptable relearning cost is assumed; and 3) how to change one layout into another subtly.</li>
     </ul><br>
     <u><b>Links</b></u><br>
     <ul>
       <li><a href="https://dl.acm.org/citation.cfm?id=3025580">paper</a></li>
+      <li><a href="https://youtu.be/t8YbiCRsf5M">presentation</a></li>
+      <li><a href="https://youtu.be/Zvm50g1YU7c">demo</a></li>
     </ul><br>
   </div>
   <div class="col">
-    <img width="100%" src="">
-    <img width="100%" src="">
-    <img width="100%" src="">
+    <img width="100%" src="http://userinterfaces.aalto.fi/wp-content/uploads/learning.png">
   </div>
 </div>
 
