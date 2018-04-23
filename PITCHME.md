@@ -441,7 +441,7 @@
     </ul><br>
   </div>
   <div class="col">
-    <iframe width="100%" src="https://www.youtube.com/embed/VGmotlIIIeU" frameborder="0"></iframe>
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/VGmotlIIIeU" frameborder="0"></iframe>
   </div>
 </div>
 
