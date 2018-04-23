@@ -539,6 +539,7 @@
   </div>
   <div class="col">
     <img width="100%" src="https://i.vimeocdn.com/video/552359086.jpg?mw=700&mh=426">
+    <img width="70%" src="https://dam-prod.media.mit.edu/thumb/2017/04/04/floral.jpg.1400x1400.jpg">
   </div>
 </div>
 
