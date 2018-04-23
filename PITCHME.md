@@ -441,7 +441,7 @@
     </ul><br>
   </div>
   <div class="col">
-    <img width="100%" src="https://i.ytimg.com/vi/VGmotlIIIeU/maxresdefault.jpg">
+    <iframe width="100%" src="https://youtu.be/VGmotlIIIe" frameborder="0">
   </div>
 </div>
 
@@ -540,6 +540,52 @@
   <div class="col">
     <img width="100%" src="https://i.vimeocdn.com/video/552359086.jpg?mw=700&mh=426">
     <img width="70%" src="https://dam-prod.media.mit.edu/thumb/2017/04/04/floral.jpg.1400x1400.jpg">
+  </div>
+</div>
+
++++
+#### Illumination Aesthetics: Light as a Creative Material within Computational Design
+###### Cesar Torres, Jasper O'Leary, Molly Nicholas, Eric Paulos
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    <br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li></li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href=""></a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="">
+    <img width="100%" src="">
+    <img width="100%" src="">
+  </div>
+</div>
+
++++
+#### ShareVR: Enabling Co-Located Experiences for Virtual Reality netween HMD and Non-HMD Users
+###### Jan Gugenheimer, Evgeny Stemasov, Julian Frommel, Enrico Rukzio
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    <br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li></li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href=""></a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="">
+    <img width="100%" src="">
+    <img width="100%" src="">
   </div>
 </div>
 
