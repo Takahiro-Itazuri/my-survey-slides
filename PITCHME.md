@@ -417,8 +417,7 @@
     </ul><br>
   </div>
   <div class="col">
-    <img width="100%" src="https://i.ytimg.com/vi/FKRuxvm6HlA/maxresdefault.jpg">
-  </div>
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/FKRuxvm6HlA" frameborder="0"></iframe>  </div>
 </div>
 
 +++
