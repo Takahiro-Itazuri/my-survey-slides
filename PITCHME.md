@@ -492,7 +492,7 @@
 </div>
 
 +++
-#### Fingertrip Tactile Devices for Virtual Object Manipulation and Exploration
+#### Fingertip Tactile Devices for Virtual Object Manipulation and Exploration
 ###### Samuel B. Schorr, Allison M. Okamura
 <div class="container">
   <div class="col">
@@ -500,7 +500,7 @@
     One of the main barriers to immersivity during object manipulation in virtual reality is the lack of realisitc haptic feedback. Our new devices have 3 purely translational degrees o freedom, making them particularly well suited for rendering forces that act in multiple directions during object manipulation, such as weight, friction, and stiffness.<br>
     <u><b>Contribution</b></u><br>
     <ul>
-      <li>We developed fingertrip devices to investigate how cutaneous skin deformation could contribute to a compelling, immersive haptics experience for virtual reality without bulk of trasitional kinesthetic haptic devices.</li>
+      <li>We developed fingertip devices to investigate how cutaneous skin deformation could contribute to a compelling, immersive haptics experience for virtual reality without bulk of trasitional kinesthetic haptic devices.</li>
       <li>We show how naive users perceive changes of a virtual object's physical properties when we use skin deformation to render objects with varying mass, friction, and stiffness.</li>
     </ul><br>
     <u><b>Links</b></u><br>
@@ -512,6 +512,33 @@
   <div class="col">
     <img width="70%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/ea5fe0b6fd7b2c8158f48c72f44a381ab25d953a/2-Figure1-1.png">
     <img width="70%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/ea5fe0b6fd7b2c8158f48c72f44a381ab25d953a/2-Figure2-1.png">
+  </div>
+</div>
+
++++
+#### Supporting Expressive Procedural Art Creation through Direct Manipulation
+###### Jannifer Jacobs, Sumit Gogia, Radmir Mech, Joel Brandt
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    Contrasting the creative opportunities of procedural art with the challenges of programming raises our research question: <i>Can we support accessible and expressive procedural art by enabling people to describe procedural relationships through direct manipulation?</i> Our approach is to augment the conventions of graphic art software to support the creation and modification of procedural relationships exclusively through manipulation of concrete artwork. We developed Para, a digital illustration tool that supports the creation of declarative constraints in vector artwork.<br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li>We introduce Para, a new direct-manipulation tool that supports procedural art through live, non-linerar, and continuous manipulation.</li>
+      <li>We demonstrate core declarative procedural operations that can be expressed through direct manipulation, are easy to use, and enable diverse creative outcomes.</li>
+      <li>We provide evidence for how the direct manipulation of procedural relationships can extend manual practice through two open-ended studies.</li>
+      <li>We provide recommendations for building expressive direct manipulation procedural tools, as gleaned from evaluation.</li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="https://dl.acm.org/citation.cfm?id=3025927">paper</a></li>
+      <li><a href="https://youtu.be/-slflVG4wUQ">short demo</a></li>
+      <li><a href="https://vimeo.com/142400876">long demo</a></li>
+      <li><a href="https://www.media.mit.edu/projects/active-drawing/overview/">project</a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="https://i.vimeocdn.com/video/552359086.jpg?mw=700&mh=426">
   </div>
 </div>
 
