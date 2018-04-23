@@ -510,8 +510,8 @@
     </ul><br>
   </div>
   <div class="col">
-    <img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/ea5fe0b6fd7b2c8158f48c72f44a381ab25d953a/2-Figure1-1.png">
-    <img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/ea5fe0b6fd7b2c8158f48c72f44a381ab25d953a/2-Figure2-1.png">
+    <img width="70%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/ea5fe0b6fd7b2c8158f48c72f44a381ab25d953a/2-Figure1-1.png">
+    <img width="70%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/ea5fe0b6fd7b2c8158f48c72f44a381ab25d953a/2-Figure2-1.png">
   </div>
 </div>
 
