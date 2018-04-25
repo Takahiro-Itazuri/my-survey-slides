@@ -8,6 +8,57 @@
 ### CHI 2018
 
 +++
+#### Agile 3D Sketching with Air Scaffolding
+###### Yongkwan Kim, Sang-Gyun An, Joon Hyub Lee, Seok-Hyung Bae
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    3D sketching using hand motion is rapid but rough, and 3D sketching using pen drawing is delicate but tedious. Our new 3D sketching workflow combines these two ina complementary manner. The user makes quick hand motions in the air to generate approximate 3D shapes, and uses them as scaffolds on which to add details via pen-based 3D sketching on a tablet device. Our air scaffolding technique and corresponding algorithm extract only the intended shapes from unconstrained hand motion.<br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li>Propose a 3D sketching workflow combining strengths of hand and pen input.</li>
+      <li>Devise an algorithm to indentify descriptive hand motions from transitory and extract air scaffolds from the identified motions.</li>
+      <li>Integrate the air scaffolding technique with pen-based 3D sketching into a practical system.</li>
+      <li>Evaluate our system with users to verify that air scaffolding facilities idea exploration through agile 3D sketching.</li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="https://dl.acm.org/citation.cfm?id=3173812">paper</a></li>
+      <li><a href="https://youtu.be/Nh1cD9woB2M">short demo</a></li>
+      <li><a href="https://youtu.be/CiKWnfbNjUY">long demo</a></li>
+      <li><a href="http://i2dea.kaist.ac.kr/publications/2018_chi_agile_air_scaffolding">project</a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="http://i2dea.kaist.ac.kr/images/publications/2018_chi_agile_air_scaffolding.jpg">
+  </div>
+</div>
+
++++
+#### Expressive Time Series Querying with Human-Drawn Scale-Free Sketching
+###### Miro Mannino, Azza Abouzied
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    We present Qetch, a tool where users freely sketch patterns on a scale-less canvas to query time series data without specifying query length or amplitude. We study how humans sketch time series patterns and we develop a novel matching algorithm that accounts for human sketching errors. Qetch enables the easy construction of complex and expressive queries with two key features: <i>regular expressions over sketches</i> and <i>relative positioning of sketches</i> to query multiple time-aligned series.<br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li>We present Qetch, a tool where users freely sketch patterns on a scale-kess canvas to query time series data without specifying query length or amplitude.</li>
+      <li>We develop a novel matching algorithm that tolerantes the absence of time and amplitude scales on a sketch.</li>
+      <li>Qetch outperforms commonly-used time series algorithms like dynamic time warping (DTW) and Euclidean distance (ED).</li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="https://dl.acm.org/citation.cfm?id=3173962">paper</a></li>
+      <li><a href="https://youtu.be/g4uI_TGl3UI">demo</a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="https://i.ytimg.com/vi/g4uI_TGl3UI/maxresdefault.jpg">
+  </div>
+</div>
+
++++
 #### Extending Manual Drawing Practices with Artist-Centric Programming Tools
 ###### Jennifer Jacobs, Joel Brandt, Radomir Mech, Mitchel Resnick
 <div class="container">
@@ -496,7 +547,7 @@
 <div class="container">
   <div class="col">
     <u><b>Abstract</b></u><br>
-    One of the main barriers to immersivity during object manipulation in virtual reality is the lack of realisitc haptic feedback. Our new devices have 3 purely translational degrees o freedom, making them particularly well suited for rendering forces that act in multiple directions during object manipulation, such as weight, friction, and stiffness.<br>
+    One of the main barriers to immersivity during object manipulation in virtual reality is the lack of realisitc haptic feedback. Our new devices have 3 purely translational degrees of freedom, making them particularly well suited for rendering forces that act in multiple directions during object manipulation, such as weight, friction, and stiffness.<br>
     <u><b>Contribution</b></u><br>
     <ul>
       <li>We developed fingertip devices to investigate how cutaneous skin deformation could contribute to a compelling, immersive haptics experience for virtual reality without bulk of trasitional kinesthetic haptic devices.</li>
