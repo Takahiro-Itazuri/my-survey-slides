@@ -25,7 +25,7 @@
     </ul><br>
   </div>
   <div class="col">
-    `$$ \mathop{\rm arg~min}\limits_{\bf f} \frac{1}{2}  $$`
+    `$$ \mathop{\rm arg~min}\limits_{\bf f} \frac{1}{2} \| {\bf x}_{t}^{d} \| $$`
   </div>
 </div>
 
