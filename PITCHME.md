@@ -24,12 +24,9 @@
       <li><a href="http://www4.comp.polyu.edu.hk/~cslzhang/paper/CVPR18_Tracking.pdf">paper</a></li>
     </ul><br>
   </div>
-  <div class="col">
-    <div>
-      \[ ma = F \]
-    </div>
-  </div>
 </div>
+
+\[ ma = F \]
 
 <!--
   CHI 2018
