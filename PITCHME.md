@@ -25,9 +25,9 @@
     </ul><br>
   </div>
   <div class="col">
-    \[
-      ma = F  
-    \]
+    <div>
+      \[ ma = F \]
+    </div>
   </div>
 </div>
 
