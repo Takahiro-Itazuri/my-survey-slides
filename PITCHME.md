@@ -25,9 +25,9 @@
     </ul><br>
   </div>
   <div class="col">
-    \begin{align}
-      ma = F
-    \end{align}
+    \[
+      ma = F  
+    \]
   </div>
 </div>
 
