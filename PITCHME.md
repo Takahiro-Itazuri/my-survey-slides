@@ -25,7 +25,7 @@
     </ul><br>
   </div>
   <div class="col">
-    $$ {\mathop{\rm arg~min}\limits}_{f} $$
+    $$ \mathop{\rm arg~min}\limits_{f} $$
   </div>
 </div>
 
