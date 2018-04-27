@@ -25,11 +25,9 @@
     </ul><br>
   </div>
   <div class="col">
-    $$ ma = F $$
+    $$ {\mathop{\rm arg~min}\limits}_{f} $$
   </div>
 </div>
-
-$$ ma = F $$
 
 <!--
   CHI 2018
