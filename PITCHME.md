@@ -25,7 +25,7 @@
     </ul><br>
   </div>
   <div class="col">
-    $$ \mathop{\rm arg~min}\limits_{\mathbf{f}} \frac{1}{2} { \| \sum_{d=1}^{D} \mathbf{x}_t^d \ast \mathbf{f}^d - \mathbf{y} \| }^2 $$
+    $$ \mathop{\rm arg~min}\limits_{{\bf f}} \frac{1}{2} { \| \sum_{d=1}^{D} {\bf x}_t^d \ast {\bf f}^d - {\bf y} \| }^2 $$
   </div>
 </div>
 
