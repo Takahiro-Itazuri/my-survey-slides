@@ -8,6 +8,86 @@
 ### CHI 2018
 
 +++
+#### Hoarding and Minimalism: Tendencies in Digital Data Preservation
+###### Francesco Vitale, Izabelle Janzen, Joanna McGrenere
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+     We focused on a main, broad research question: how do people approach digital data preservation in the cloud age? How do they decide what to keep and discard? We interviewed 23 participants with diverse backgrounds, asking them about their perceived digital data. I an interative analysis process, we uncovered a spectrum of tendencies that drive preservation strategies, with two extremes: hoarding (where participants accumulated large amounts of data, even if considered of little value) and minimalism (where they kept as little as possible, regularly clearning their data). We contrast and compare the two extremes of the spectrum, characterize their nuanced nature, and discuss how our categorization compares to previously reported behaviors. We conclude with broad implications for shaping technology.<br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li>bringing to light a spectrum of tendencies with hoarding and minimalism on two ends, characterizing them in depth</li>
+      <li>comparing and contrasting different user behaviors, showing their common role for identity construction</li>
+      <li>putting them in context compared to previously reported behaviors in the literature</li>
+      <li>giving implications for shaping technology, opening rich possibilities for future work.</li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="https://dl.acm.org/citation.cfm?doid=3173574.3174161">paper</a></li>
+      <li><a href="https://youtu.be/cyBI77VsUM4">demo</a></li>
+      <li><a href="http://www.francescovitale.com/">Francesco Vitale's web page</a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/cyBI77VsUM4" frameborder="0"></iframe>
+  </div>
+</div>
+
++++
+#### Pinpointing: Precise Head- and Eye-Based Target Selection for Augmented Reality
+###### Authors
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    It is important to design interaction techniques that allow precise selection and manipulation of virtual objects, without bulky input devices. This paper explores Pinpointing: multimodal head and eye gaze pointing techniques for wearable AR. A comparison of speed and poiting accuracy reveals the relative merits of each method, including the achievable target size for robust selection. We demonstrate and discuss example applications for augmented reality, including compact menus wth deep structure, and a proof-of-concept method for on-line correction of calibration drift.<br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li>A broad comparison of target selection accuracy and speed for eye gaze, head pointing, and several multimodal techniques for improved accuracy.</li>
+      <li>Adoption of multimodal techniques for wearable AR, resulting in several previously unexplored implementations that refine coarse eye gaze and head pointing with fine hand gesture, device gyro and head motion input.</li>
+      <li>Two example applications that demonstrate the potential of Pinpointing for improving wearable AR interaction: GazeBrowser uses gaze interaction with high precision pointing to navigate compact smart object menus. SmartPupil shows a novel online method for mitigating calibration drift of wearable eye trackers.</li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="https://dl.acm.org/citation.cfm?id=3173655">paper</a></li>
+      <li><a href="https://youtu.be/nCX8zIEmv0s">short demo</a></li>
+      <li><a href="https://youtu.be/q9cbAfxKAPI">long demo</a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="https://www.researchgate.net/profile/Mikko_Kytoe/publication/323970135/figure/fig4/AS:607431939854342@1521834468613/Compact-fractal-radial-menus-with-deep-structure-in-GazeBrowser-a-Example-application_big.png">
+    <img width="100%" src="https://www.researchgate.net/profile/Robert_Teather/publication/320315146/figure/fig3/AS:616365635420162@1523964427750/Error-rate-by-target-size-and-target-depth-for-each-input-method-Note-m-depth.png">
+  </div>
+</div>
+
++++
+#### Wall++: Room-Scale Interactive and Context-Aware Sensing
+###### Authors
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    We present Wall++, a low-cost sensing approach that allows walls to become a smart infrastructure. Instead of merely separating spaces, walls can now enhance rooms with sensing and interactivity. Our wall treatment and sesing hardware can track users' touch and gesture, as well as estimate body pose if they are close. By capturing ariborne electromagnetic noise, we can also detect what appliances are active and where they are located. Through a series of evaluations, we demonstrate Wall++ can enable robust room-scale interative and context-aware applications.<br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li></li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="http://www.yang-zhang.me/research/Wall/Wall.pdf">paper</a></li>
+      <li><a href="https://youtu.be/HSPdcuDT5fU">short demo</a></li>
+      <li><a href="https://youtu.be/P7htrEO9kJo">long demo</a></li>
+      <li><a href="http://yang-zhang.me.s3-website-us-east-1.amazonaws.com/research/Wall/Wall.html">project</a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="http://yang-zhang.me.s3-website-us-east-1.amazonaws.com/research/Wall/images/paint3.jpg">
+    <img width="49%" src="http://yang-zhang.me.s3-website-us-east-1.amazonaws.com/research/Wall/images/single_touch.jpg">
+    <img width="49%" src="http://yang-zhang.me.s3-website-us-east-1.amazonaws.com/research/Wall/images/both_arm.jpg">
+    <img width="49%" src="http://yang-zhang.me.s3-website-us-east-1.amazonaws.com/research/Wall/images/iPad.jpg">
+    <img width="49%" src="http://yang-zhang.me.s3-website-us-east-1.amazonaws.com/research/Wall/images/trackpad.jpg">
+  </div>
+</div>
+
++++
 #### Agile 3D Sketching with Air Scaffolding
 ###### Yongkwan Kim, Sang-Gyun An, Joon Hyub Lee, Seok-Hyung Bae
 <div class="container">
@@ -90,20 +170,18 @@
 <div class="container">
   <div class="col">
     <u><b>Abstract</b></u><br>
-    <br>
+    Research that empirically examines the social and interactional issues of Voice User Interfaces (VUIs) in everyday use is lacking. Our study documents the methodical practices of VUI users, and how that use is accomplished in the complex social life of the home. We discuss how the VUI is finely coordinated with the sequential organisation of talk. Finally, we locate implications for the accountability of VUI interaction, request and response design, and raise conceptual challenges to the motion of designing 'conversational' interfaces.<br>
     <u><b>Contribution</b></u><br>
     <ul>
-      <li></li>
+      <li>The analysis presented here explicates how VUI use is routinely accounted for and embedded in talk-in-interaction.</li>
+      <li>We turned to transferring our findings from that of matters of interaction to conceptual discussion points, to inform and shape future research and design on the use of VUIs.</li>
     </ul><br>
     <u><b>Links</b></u><br>
     <ul>
-      <li><a href=""></a></li>
+      <li><a href="https://dl.acm.org/citation.cfm?id=2504391">paper</a></li>
     </ul><br>
   </div>
   <div class="col">
-    <img width="100%" src="">
-    <img width="100%" src="">
-    <img width="100%" src="">
   </div>
 </div>
 
@@ -113,20 +191,23 @@
 <div class="container">
   <div class="col">
     <u><b>Abstract</b></u><br>
-    <br>
+    We present a novel framework that describes the generation of visualizations from the perspective of graphic design. Based on the framework, we design and build Data Illustrator, a system that augments vector design tools with lazy data binding for visualization authoring.<br>
     <u><b>Contribution</b></u><br>
     <ul>
-      <li></li>
+      <li>We propose a novel framwork for visualiaztion authoring based on the lazy data encoding approach. This framework describes components in a visualization using graphic design concepts such as <i>shape, anchor point, segment</i>, and <i>group</i>. Two operators, <i>repeat</i> and <i>partition</i>, generates shapes and anchor points, and attach data to them.</li>
+      <li>We augment interactive techniques in modern vector design tools for direct manipulation of visualization configurations and parameters.</li>
     </ul><br>
     <u><b>Links</b></u><br>
     <ul>
-      <li><a href=""></a></li>
+      <li><a href="https://dl.acm.org/citation.cfm?id=3173697">paper</a></li>
+      <li><a href="https://youtu.be/cjX9QA7fC0s">short demo</a></li>
+      <li><a href="https://vimeo.com/234587002">long demo</a></li>
+      <li><a href="http://www.zcliu.org/di/">project</a></li>
+      <li><a href="http://data-illustrator.com/app/index.html">app</a></li>
     </ul><br>
   </div>
   <div class="col">
-    <img width="100%" src="">
-    <img width="100%" src="">
-    <img width="100%" src="">
+    <img width="100%" src="http://www.zcliu.org/di/di2.png">
   </div>
 </div>
 
