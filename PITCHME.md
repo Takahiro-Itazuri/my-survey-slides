@@ -80,10 +80,7 @@
   </div>
   <div class="col">
     <img width="100%" src="http://yang-zhang.me.s3-website-us-east-1.amazonaws.com/research/Wall/images/paint3.jpg">
-    <img width="49%" src="http://yang-zhang.me.s3-website-us-east-1.amazonaws.com/research/Wall/images/single_touch.jpg">
-    <img width="49%" src="http://yang-zhang.me.s3-website-us-east-1.amazonaws.com/research/Wall/images/both_arm.jpg">
-    <img width="49%" src="http://yang-zhang.me.s3-website-us-east-1.amazonaws.com/research/Wall/images/iPad.jpg">
-    <img width="49%" src="http://yang-zhang.me.s3-website-us-east-1.amazonaws.com/research/Wall/images/trackpad.jpg">
+    <img width="100%" src="http://yang-zhang.me.s3-website-us-east-1.amazonaws.com/research/Wall/images/single_touch.jpg">
   </div>
 </div>
 
