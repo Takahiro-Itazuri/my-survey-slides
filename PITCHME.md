@@ -25,7 +25,7 @@
     </ul><br>
   </div>
   <div class="col">
-    $$ \mathop{\rm arg~min}\limits_{\bf f} \frac{1}{2} \sum_{d=1}^{D} {\bf x}_{t}^{d} {\bf f}^{d} - {\bf y}  $$
+    `$$ \mathop{\rm arg~min}\limits_{\bf f} \frac{1}{2} \sum_{d=1}^{D} {\bf x}_{t}^{d} {\bf f}^{d} - {\bf y}  `$$
   </div>
 </div>
 
