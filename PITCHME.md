@@ -61,7 +61,7 @@
 
 +++
 #### Wall++: Room-Scale Interactive and Context-Aware Sensing
-###### Authors
+###### Yang Zhang, Chouchang Yang, Scott E. Hudson, Chris Harrison, Alanson Sample
 <div class="container">
   <div class="col">
     <u><b>Abstract</b></u><br>
