@@ -25,8 +25,7 @@
     </ul><br>
   </div>
   <div class="col">
-    `$$ \mathop{\rm arg~min}\limits_{\bf f} \frac{1}{2} { \| \sum_{d=1}^{D} {\bf x}_{t}^{d} \ast {\bf f}^{d} - {\bf y} \| }^{2} $$`
-    `$$ + \frac{1}{2} \sum_{d=1}^{D} {\| {\bf w} \cdot {\bf f}^{d} \|}^{2} + \frac{\mu}{2} {\| {\bf f} - {\bf f}_{t-1} \|}^{2} $$`
+    `$$ \mathop{\rm arg~min}\limits_{\bf f} \frac{1}{2} { \| \sum_{d=1}^{D} {\bf x}_{t}^{d} \ast {\bf f}^{d} - {\bf y} \| }^{2} + \frac{1}{2} \sum_{d=1}^{D} {\| {\bf w} \cdot {\bf f}^{d} \|}^{2} + \frac{\mu}{2} {\| {\bf f} - {\bf f}_{t-1} \|}^{2} $$`
   </div>
 </div>
 
