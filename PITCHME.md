@@ -2,6 +2,34 @@
 ### Takahiro Itazuri (Waseda University)
 
 <!--
+  CVPR 2018
+-->
+---
+### CVPR 2018
++++
+#### Learning Spatial-Temporal Regularized Correlation Filters for Visual Tracking
+###### Feng Li, Cheng Tian, Wangmeng Zuo, Lei Zhang, Ming-Hsuan Yang
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    In this work, by introducing temporal regularization to Spatially Regularized Discriminative Correlation Filter (SRDCF) with single sample, we present our spatial-temporal regularized correlation filters (STRCF). The STRCF formulation can not only serve as a reasonable approximation to SRDCF with multiple training smaples, but also provide a more robust appearance model than SRDCF in the case of large appearance ariations. Besides, it can be efficiently solved via the alternating direction method of multipliers (ADMM). By incorporating both temporal and spatial regularization, our STRCF can handle boundary effects without much loss in efficiency and achieve superior performance over SRDCF in terms of accuracy and speed.<br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li>A STRCF model is presented by incorporating both spatial and temporal reguralization into the DCF framework. Based on online PA, STRCF can not only serve as a rational approximation of the SRDCF formulation on multiple training images, but also provide a more robust appearance model than SRDCF in the case of large appearance variations.</li>
+      <li>An ADMM algorithm is developed for solving STRCF efficiently, where each sub-problem has the closed-form solution. And our algorithm can empirically converge within very few iteractions.</li>
+      <li>Our STRCF with hand-crafted feature can run in real-time, achieves notable improvements over SRDCF by tracking accuracy. Furthermore, our STRCF with deep features performs favorably in comparison with the state-of-the-art trackers.</li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="http://www4.comp.polyu.edu.hk/~cslzhang/paper/CVPR18_Tracking.pdf">paper</a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    $ argmin $
+  </div>
+</div>
+
+<!--
   CHI 2018
 -->
 ---
