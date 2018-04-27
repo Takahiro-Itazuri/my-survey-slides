@@ -30,6 +30,7 @@
     Augmented Lagrangian form
     `$$ L({\bf w}, {\bf g}, {\bf s}) = \frac{1}{2} {\| \sum_{d=1}^{D} {\bf x}^{d}_{t} \ast {\bf f}^{d} - {\bf y} \|}^{2} + \frac{1}{2} \sum_{d=1}^{D} {\| {\bf w} \cdot {\bf g}^d \|}^{2} $$`
     `$$ + \sum_{d=1}^{D} \left( {\bf f}^{d} - {\bf g}^{d} \right)^{T} {\bf s}^{d} + \frac{\gamma}{2} \sum_{d=1}^{D} {\| {\bf f}^{d} - {\bf g}^{d} \|}^{2} + \frac{\mu}{2} {\| {\bf f} - {\bf f}_{t-1} \|}^{2} $$`
+    By introducing `$ {\bf h} $`
   </div>
 </div>
 
