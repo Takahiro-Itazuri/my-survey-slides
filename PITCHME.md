@@ -25,7 +25,9 @@
     </ul><br>
   </div>
   <div class="col">
-    $ argmin $
+    \begin{align}
+      ma = F
+    \end{align}
   </div>
 </div>
 
