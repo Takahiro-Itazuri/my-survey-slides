@@ -195,7 +195,7 @@
     </ul><br>
   </div>
   <div class="col">
-    <img width="100%" src="http://i2dea.kaist.ac.kr/images/publications/2018_chi_agile_air_scaffolding.jpg">
+    <img width="100%" src="https://i.ytimg.com/vi/CiKWnfbNjUY/maxresdefault.jpg">
   </div>
 </div>
 
