@@ -24,7 +24,7 @@
 +++?include=slides/CHI2018/Data_Illustrator.md
 
 ---
-### Computer Vision and Pattern Recognition 2017
+### CVPR 2017
 
 +++
 #### End-To-End Representation Learning for Correlation Filter Based Tracking
@@ -180,61 +180,13 @@
 #### Deep Network Flow for Multi-Object Tracking
 ###### Samuel Schulter, Paul Vernaza, Wongun Choi, Manmohan Chandraker
 
-<!--
-  CVPRW 2017
--->
 ---
 ### Computer Vision and Pattern Recognition Workshops 2017
-+++
-#### Automatic Curation of Golf Highlighting using Multimodal Excitement Features
-###### Michele Merler, Dhiraj Joshi, Quoc-Bao Nguyen, Stephen Hammer, John Kent, John R. Smith, Rogerio S. Feris
-<div class="container">
-  <div class="col">
-    <u><b>Abstract</b></u><br>
-    A novel approach for auto-curating sports highlights, showcasing its application in extracting golf play highlights. We measure the excitement lebel of video segments based on the following multimodal markers: player reaction, spectators, commentator. Our system is called High-Five (Highlights From Intelligent Video Engine), H5 in short.<br>
-    <u><b>Contribution</b></u><br>
-    <ul>
-      <li>a first-of-kind system for automatically extracting golf highlightings by uniquely fusing multimodal excitement measures from the player, spectators, and commentators. personalized highlight retrieval or alerts based on player name, hole number, location, and time.</li>
-      <li>novel techniques are introduced for learning our multimodal classifiers without requiring costly manual training data annotation.</li>
-      <li>an extensive evaluation, showing the importance of each component in our proposed approach, and comparing our results with professionally curated highlights.</li>
-    </ul>
-    <u><b>Links</b></u><br>
-    <ul>
-      <li><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8014748">paper</a></li>
-    </ul>
-  </div>
-  <div class="col">
-    <img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/2024c9e06c6e8082dadca2977ef0356a743b9905/1-Figure1-1.png">
-    <img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/2024c9e06c6e8082dadca2977ef0356a743b9905/3-Figure2-1.png">
-  </div>
-</div>
++++?include=slides/CVPRW2017/Automatic_Curation_of_Golf_Highlighting using_Multimodal_Excitement_Features.md
 
-<!--
-  SIGGRAPH 2017
--->
 ---
 ### SIGGRAPH 2017
-+++
-#### VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera
-###### Dushyant Mehta, S
-<div class="container">
-  <div class="col">
-    <u><b>Abstract</b></u><br>
-    Real-time method to capture the full global 3D skeltal pose of a human in a stable, temporally consistent manner using a single RGB camera.
-    <u><b>Contribution</b></u><br>
-    <u><b>Links</b></u><br>
-    <ul>
-      <li><a href="https://dl.acm.org/citation.cfm?id=3073596">Paper</a></li>
-      <li><a href="http://gvv.mpi-inf.mpg.de/projects/VNect/">Project Page</a></li>
-      <li><a href="https://www.youtube.com/watch?v=W1ZNFfftx2E">Demo Video</a></li>
-      <li><a href="https://www.youtube.com/watch?v=m3KG_Z0P_nU">Presentation Video</a></li>
-      <li><a href="https://github.com/timctho/VNect-tensorflow">GitHub</a></li>
-    </ul>
-  </div>
-  <div class="col">
-    <img src="https://raw.githubusercontent.com/Takahiro-Itazuri/my-survey-slides/master/assets/img/">
-  </div>
-</div>
+<!--+++?include=slides/SIGGRAPH2017/VNect.md-->
 
 <!--
   CHI 2017
@@ -560,108 +512,17 @@
   </div>
 </div>
 
-<!--
-  arXiv 2017
--->
----
-### arXiv 2017
-+++
-#### Large-scale, Fast and Accurate Shot Boundary Detection through Spatio-temporal Convolutional Neural Networks
-###### Ahmed Hassanien, Mohamed Elgharib, Ahmed Selim, Sung-Ho Bae, Mohamed Hefeeda, Wojciech Matusik
-<div class="container">
-  <div class="col">
-    <u><b>Abstract</b></u><br>
-    We present a SBD technique based on spatio-temporal Convolutional Neural Networks (CNN). We are the first to present a very large SBD dataset that allows deep neural networks techniques to be effectively applied.<br>
-    <u><b>Contribution</b></u><br>
-    <ul>
-      <li>The first CNN SBD technique. We outperform dissolve gradual detection, generate competitive performance for sharp detections and produce significant improvement in wipes. In addition, we are up to 11 times faster than the state of the art.</li>
-      <li>Introduction of a new very large SBD dataset for training an accurate CNN model. Our dataset contains 3.5 million frames of synthetic transitions and 70,000 frames of hard negative no-transitions.</li>
-    </ul><br>
-    <u><b>Links</b></u><br>
-    <ul>
-      <li><a href="http://cfg.mit.edu/sites/cfg.mit.edu/files/large_scale_shot_boundary_detection.pdf">paper</a></li>
-      <li><a href="http://ds.qcri.org/projects/deepsbd/">project</a></li>
-      <li><a href="https://github.com/melgharib/DSBD">code</a></li>
-    </ul><br>
-  </div>
-  <div class="col">
-    <img width="100%" src="">
-    <img width="100%" src="">
-    <img width="100%" src="">
-  </div>
-</div>
-
-
-<!--
-  CVPR 2016
--->
 ---
 ### CVPR 2016
-+++
-#### Rethinking the Inception Architecture for Computer Vision
-###### Christian Szegedy, Vincent Vanhoucke, Sergey Ioffe, Jon Shlens
-<div class="container">
-  <div class="col">
-    <u><b>Abstract</b></u><br>
-    <u><b>Contribution</b></u><br>
-    <u><b>Links</b></u><br>
-    <ul>
-      <li><a href="https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.pdf">paper</a></li>
-    </ul>
-  </div>
-  <div class="col">
-    <img src="https://raw.githubusercontent.com/Takahiro-Itazuri/my-survey-slides/master/assets/img/">
-  </div>
-</div>
+<!--+++?include=slides/CVPR2016/Rethinking_the_Inception_Architecture_for_Computer_Vision.md-->
 
-
-<!--
-  ECCV 2016
--->
 ---
 ### ECCV 2016
-+++
-#### Video Summarization with Long Short-term Memory
-###### Ke Zhang, Wei-Lun Chao, Fei Sha, and Kristen Grauman
-<div class="container">
-  <div class="col">
-    <u><b>Abstract</b></u><br>
-    <u><b>Contribution</b></u><br>
-    <u><b>Links</b></u><br>
-  </div>
-  <div class="col">
-    <img width="100%" src="http://www-scf.usc.edu/~zhan355/ke_eccv2016.pdf">
-  </div>
-</div>
+<!--+++?include=slides/ECCV2016/Video_Summarization_with_Long_Short-term_Memory.md-->
 
 ---
 ### ECCVW 2016
-+++
-#### Fully-Convolutional Siamese Networks for Object Tracking
-###### Authors
-<div class="container">
-  <div class="col">
-    <u><b>Abstract</b></u><br>
-    <br>
-    <u><b>Contribution</b></u><br>
-    <ul>
-      <li></li>
-    </ul><br>
-    <u><b>Links</b></u><br>
-    <ul>
-      <li><a href="https://arxiv.org/pdf/1606.09549.pdf">paper</a></li>
-      <li><a href="https://www.robots.ox.ac.uk/~luca/siamese-fc.html">project</a></li>
-      <li><a href="https://github.com/bertinetto/cfnet">code</a></li>
-      <li><a href="https://youtu.be/jZoUalMMZ_0">presentation</a></li>
-      <li><a href="https://pdfs.semanticscholar.org/presentation/4c91/827cceb97183c4d48ca09e1c7587577c8d54.pdf">slide</a></li>
-    </ul><br>
-  </div>
-  <div class="col">
-    <img width="100%" src="">
-    <img width="100%" src="">
-    <img width="100%" src="">
-  </div>
-</div>
+<!--+++?include=slides/ECCVW2016/Fully-Convolutional_Siamese_Networks_for_Object_Tracking.md-->
 
 <!--
   ICCV 2015
@@ -722,110 +583,13 @@
 
 ---
 ### TPAMI 2015
-+++
-#### High-speed tracking with kernelized correlation filters
-###### Authors
-<div class="container">
-  <div class="col">
-    <u><b>Abstract</b></u><br>
-    <br>
-    <u><b>Contribution</b></u><br>
-    <ul>
-      <li></li>
-    </ul><br>
-    <u><b>Links</b></u><br>
-    <ul>
-      <li><a href="https://arxiv.org/pdf/1404.7584.pdf">paper</a></li>
-      <li><a href="https://github.com/foolwood/KCF">code</a></li>
-    </ul><br>
-  </div>
-  <div class="col">
-    <img width="100%" src="">
-    <img width="100%" src="">
-    <img width="100%" src="">
-  </div>
-</div>
+<!--+++?include=slides/TPAMI2015/High-Speed_Tracking_with_Kernelized_Correlation_Filters.md-->
 
 ---
 ### CVPR 2010
-+++
-#### Visual Object Tracking using Adaptive Correlation Filters
-###### Authors
-<div class="container">
-  <div class="col">
-    <u><b>Abstract</b></u><br>
-    <br>
-    <u><b>Contribution</b></u><br>
-    <ul>
-      <li></li>
-    </ul><br>
-    <u><b>Links</b></u><br>
-    <ul>
-      <li><a href=""></a></li>
-    </ul><br>
-  </div>
-  <div class="col">
-    <img width="100%" src="">
-    <img width="100%" src="">
-    <img width="100%" src="">
-  </div>
-</div>
+<!--+++?include=slides/CVPR2010/Visual_Object_Tracking_using_Adaptive_Correlation_Filters.md-->
 
 ---
 ### Database of Databse
-+++
-#### UCF101
-###### Khurram Soomro, Amir Roshan Zamir, Mubarak Shah
-<div class="container">
-  <div class="col">
-    UCF101 is an action recognition dataset of realistic action videos, collected from YouTube, having 101 action categories. The action categories can be divided into five types: 1) Human-Object Interaction 2) Body-Motion Only 3) Human-Human Interaction 4) Playing Musical Instruments 5) Sports. UCF101 contains 13,320 videos from 101 action categories.<br>
-    <u><b>Links</b></u><br>
-    <ul>
-      <li><a href="http://crcv.ucf.edu/data/UCF101.php">project</a></li>
-      <li><a href="https://arxiv.org/abs/1212.0402">paper</a></li>
-    </ul><br>
-  </div>
-  <div class="col">
-  </div>
-</div>
-
-+++
-#### Sports-1M
-###### Andrej Karpathy, George Toderici, Sanketh Shetty, Thomas Leung, Rahul Sukthankar, Li Fei-Fei
-<div class="container">
-  <div class="col">
-    Sports-1M dataset is licensed under Creative Commons 3.0 and contains 1,133,158 video URLs which have been annotated automatically with 487 Sports Labels using the YouTube Topics API.<br>
-    <u><b>Links</b></u><br>
-    <ul>
-      <li><a href="https://cs.stanford.edu/people/karpathy/deepvideo/">project</a></li>
-      <li><a href="https://github.com/gtoderici/sports-1m-dataset/blob/wiki/ProjectHome.md">github</a></li>
-    </ul><br>
-  </div>
-  <div class="col">
-  </div>
-</div>
-
----
-### Template
-+++
-#### Title
-###### Authors
-<div class="container">
-  <div class="col">
-    <u><b>Abstract</b></u><br>
-    <br>
-    <u><b>Contribution</b></u><br>
-    <ul>
-      <li></li>
-    </ul><br>
-    <u><b>Links</b></u><br>
-    <ul>
-      <li><a href=""></a></li>
-    </ul><br>
-  </div>
-  <div class="col">
-    <img width="100%" src="">
-    <img width="100%" src="">
-    <img width="100%" src="">
-  </div>
-</div>
++++?include=slides/Database/UCF101.md
++++?include=slides/Database/Sports-1M.md
