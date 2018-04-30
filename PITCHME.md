@@ -96,6 +96,69 @@
 ### CHI 2018
 
 +++
+#### HARK No More: On the Preregistration of CHI Experiments
+###### Authors
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    When experimental intentions are preregistered, reviewers and readers can be confident that experimental evidence in support of reported hypothesis is not the result of HARKing, which stands for Hypothesising After Results are Known. We review the motivation and outcomes of experimental preregistration across a variety of disciplines, as well as previous work commenting on the role of evaluation in HCI research. We then discuss how experimental preregistration could be adapted to the distinctive characteristics of Human-Computer Intreaction empirical research, to the betterment of the discipline.<br>
+  </div>
+  <div class="col">
+    <u><b>Discussion</b></u><br>
+    <ul>
+      <li>Infrastructure: What can ACM do?</li>
+      <li>Use: What can researchers do?</li>
+      <li>Expectations: What can journals and conferences do?</li>
+      <li>Potetial drawbacks of preregistration</li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="https://dl.acm.org/citation.cfm?id=3173574.3173715">paper</a></li>
+    </ul><br>
+  </div>
+</div>
+
++++
+#### Examining Wikipedia With a Broader Lens: Quantifying the Value of Wikipedia's Relationships with Other Large-Scale Online Communities
+###### Nicholas Vincent, Isaac Jhonson, Brent Hecht
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    Wikipedia has likely become one of the most important datasets and research environments in modern computing. However, the extensive Wikipedia literature has largely considered Wikipedia in isolation, outside of the context of its broader Internet ecosystem. This paper examines Wikipedia's relationships with two large-scale online communities: Stack Overflow and Reddit. This paper asks two overarching research questions. <i>RQ1: What value is Wikipedia providing to other large-scale online communities? RQ2: What value do these large-scale online communities provide to Wikipedia</i> For Wikipedia and its editors, RQ1's results further demonstrate the critical role the Wikipedia Community plays in the broader online ecosystem outside of Wikipedia. However, our RQ2 results present more challenging implications for the Wikipedia community: these results highlight the need for further research on soltuions to the paradox of re-use.<br>
+  </div>
+  <div class="col">
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li>This paper examines Wikipedia's relationships with large-scale online communities.</li>
+      <li>We find evidence of consequential, albeit unidirectional relationships. Wikipedia provides substantial value to both comunities, with Wikipedia content increasing visitation, engagement, and revenue, but we find little evidence that these websites contribute to Wikipedia in return.</li>
+      <li>Overall, these findings highlight important connections between Wikipedia and its broader ecosystem that should be considered by researchers studying Wikipedia.</li>
+      <li>Critically, our results also emphasize the key role that volunteer-created Wikipedia content plays in improving other websites, even contributing to revenue generation.</li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="https://dl.acm.org/citation.cfm?id=3173574.3174140">paper</a></li>
+      <li><a href="http://nickmvincent.com/#/">Nickolas Vincent's web page</a></li>
+    </ul><br>
+  </div>
+</div>
+
++++
+#### From Her Story, to Our Story: Digital Storytelling as Public Engagement around Abortion Rights Advocacy in Ireland
+###### Lydia Michie, Madeline Balaam, John McCarthy, Timur Osadchiy, Kellie Morrissey
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    This research explores the potential for abortion storytelling platforms to effectively raise awareness and promote public engagement around abortion rights advocacy in the Republic of Ireland and Northern Ireland. Within this paper, we define advocacy as any attempt to raise awareness and shift perceptions of abortion - not only in the political sphere, but also in the private and public spheres. This research addresses a current dearth in HCI for Reproductive Rights and responded to calls for activist design that simulates critical conversations around contested issues. We point to desig opportunities for digital storytelling to be effectively curated as an advocacy tool. Specifically, we present opportunities to: raise awareenss and challenge stigma through the exposing of hidden realities; foster empathy and polyvocality as a means of expanding the collective community; and provide stepping stone to activism that allow for engagement at different levels. In doing so, we respond to calls for further-understanding of how digital storytelling might be used beyond catharsis, and contribute insight into a gap in knowledge about the role online engagement plays in effecting tangible change.<br>
+  </div>
+  <div class="col">
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="https://dl.acm.org/citation.cfm?id=3173931">paper</a></li>
+    </ul><br>
+  </div>
+</div>
+
++++
 #### Hoarding and Minimalism: Tendencies in Digital Data Preservation
 ###### Francesco Vitale, Izabelle Janzen, Joanna McGrenere
 <div class="container">
@@ -301,6 +364,31 @@
 -->
 ---
 ### Computer Vision and Pattern Recognition 2017
+
++++
+#### End-To-End Representation Learning for Correlation Filter Based Tracking
+###### Authors
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    <br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li></li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="http://openaccess.thecvf.com/content_cvpr_2017/html/Valmadre_End-To-End_Representation_Learning_CVPR_2017_paper.html">paper</a></li>
+      <li><a href="https://github.com/bertinetto/cfnet">code</a></li>
+      <li><a href="https://www.robots.ox.ac.uk/~luca/cfnet.html">project</a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="">
+    <img width="100%" src="">
+    <img width="100%" src="">
+  </div>
+</div>
 
 +++
 #### Fine-grained recognition of thousands of object categories with single-example training
@@ -885,11 +973,64 @@
   </div>
 </div>
 
+---
+### ECCVW 2016
++++
+#### Fully-Convolutional Siamese Networks for Object Tracking
+###### Authors
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    <br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li></li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="https://arxiv.org/pdf/1606.09549.pdf">paper</a></li>
+      <li><a href="https://www.robots.ox.ac.uk/~luca/siamese-fc.html">project</a></li>
+      <li><a href="https://github.com/bertinetto/cfnet">code</a></li>
+      <li><a href="https://youtu.be/jZoUalMMZ_0">presentation</a></li>
+      <li><a href="https://pdfs.semanticscholar.org/presentation/4c91/827cceb97183c4d48ca09e1c7587577c8d54.pdf">slide</a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="">
+    <img width="100%" src="">
+    <img width="100%" src="">
+  </div>
+</div>
+
 <!--
   ICCV 2015
 -->
 ---
 ### ICCV 2015
+
++++
+#### Learning Spatially Regularized Correlation Filters for VIsual Tracking
+###### Authors
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    <br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li></li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a herf="https://ieeexplore.ieee.org/document/7410847/">paper</a></li>
+      <li><a href="https://www.cvl.isy.liu.se/en/research/objrec/visualtracking/regvistrack/">project</a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="">
+    <img width="100%" src="">
+    <img width="100%" src="">
+  </div>
+</div>
 
 +++
 #### Learning Spatiotemporal Features with 3D Convolutional Networks
@@ -915,6 +1056,57 @@
   <div class="col">
     <img width="100%" src="http://www.cs.dartmouth.edu/~dutran/images/c3d.jpg">
     <img width="100%" src="https://www.researchgate.net/profile/Tu_Phuong2/publication/319277488/figure/fig1/AS:544953893912576@1506938541233/2D-and-3D-convolution-operations-applied-to-multiple-frames-a-2D-convolution-results-in.png">
+  </div>
+</div>
+
+---
+### TPAMI 2015
++++
+#### High-speed tracking with kernelized correlation filters
+###### Authors
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    <br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li></li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href="https://arxiv.org/pdf/1404.7584.pdf">paper</a></li>
+      <li><a href="https://github.com/foolwood/KCF">code</a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="">
+    <img width="100%" src="">
+    <img width="100%" src="">
+  </div>
+</div>
+
+---
+### CVPR 2010
++++
+#### Visual Object Tracking using Adaptive Correlation Filters
+###### Authors
+<div class="container">
+  <div class="col">
+    <u><b>Abstract</b></u><br>
+    <br>
+    <u><b>Contribution</b></u><br>
+    <ul>
+      <li></li>
+    </ul><br>
+    <u><b>Links</b></u><br>
+    <ul>
+      <li><a href=""></a></li>
+    </ul><br>
+  </div>
+  <div class="col">
+    <img width="100%" src="">
+    <img width="100%" src="">
+    <img width="100%" src="">
   </div>
 </div>
 
