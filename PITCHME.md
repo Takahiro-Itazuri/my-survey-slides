@@ -181,7 +181,7 @@
 ###### Samuel Schulter, Paul Vernaza, Wongun Choi, Manmohan Chandraker
 
 ---
-### Computer Vision and Pattern Recognition Workshops 2017
+### CVPRW 2017
 +++?include=slides/CVPRW2017/Automatic_Curation_of_Golf_Highlighting using_Multimodal_Excitement_Features.md
 
 ---
