@@ -182,7 +182,7 @@
 
 ---
 ### CVPRW 2017
-+++?include=slides/CVPRW2017/Automatic_Curation_of_Golf_Highlighting using_Multimodal_Excitement_Features.md
++++?include=slides/CVPRW2017/Automatic_Curation_of_Golf_Highlighting_using_Multimodal_Excitement_Features.md
 
 ---
 ### SIGGRAPH 2017
