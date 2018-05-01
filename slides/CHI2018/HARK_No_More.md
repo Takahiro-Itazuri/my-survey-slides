@@ -1,5 +1,5 @@
 #### HARK No More: On the Preregistration of CHI Experiments
-###### Authors
+###### Andy Cockburn, Carl Gutwin, Alan Dix
 <div class="container">
   <div class="col">
     <u><b>Abstract</b></u><br>

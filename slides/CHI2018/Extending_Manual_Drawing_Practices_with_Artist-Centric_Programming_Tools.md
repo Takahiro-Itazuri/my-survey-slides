@@ -13,7 +13,7 @@
     </ul><br>
     <u><b>Links</b></u><br>
     <ul>
-      <li><a href="http://joelbrandt.com/publications/jacobs-chi2018-extending-manual-drawing.pdf">paper</a></li>
+      <li><a href="https://dl.acm.org/citation.cfm?id=3174164">paper</a></li>
       <li><a href="https://vimeo.com/241743740">demo</a></li>
       <li><a href="http://web.media.mit.edu/~jacobsj/#db">project</a></li>
     </ul><br>

@@ -10,7 +10,7 @@
     </ul><br>
     <u><b>Links</b></u><br>
     <ul>
-      <li><a href="http://www.yang-zhang.me/research/Wall/Wall.pdf">paper</a></li>
+      <li><a href="https://dl.acm.org/citation.cfm?id=3173847">paper</a></li>
       <li><a href="https://youtu.be/HSPdcuDT5fU">short demo</a></li>
       <li><a href="https://youtu.be/P7htrEO9kJo">long demo</a></li>
       <li><a href="http://yang-zhang.me.s3-website-us-east-1.amazonaws.com/research/Wall/Wall.html">project</a></li>
