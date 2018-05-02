@@ -1,4 +1,4 @@
-#### Data Illustrator: Augumenting Vector Design Tools with Lazy Data Binding for Expressive Visualization Authoring
+#### Data Illustrator: Augmenting Vector Design Tools with Lazy Data Binding for Expressive Visualization Authoring
 ###### Zhicheng Liu, John Thompson, Alan Wilson, Mira Dontcheva, James Delorey, Sam Grigg, Bernard Kerr, John Stasko
 <div class="container">
   <div class="col">

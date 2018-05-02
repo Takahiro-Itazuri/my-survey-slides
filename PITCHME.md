@@ -10,18 +10,17 @@
 
 ---
 ### CHI 2018
-
-+++?include=slides/CHI2018/HARK_No_More.md
-+++?include=slides/CHI2018/Examining_Wikipedia_With_a_Broader_Lens.md
-+++?include=slides/CHI2018/From_Her_Story_to_Our_Story.md
-+++?include=slides/CHI2018/Hoarding_and_Minimalism.md
-+++?include=slides/CHI2018/Pinpointing.md
-+++?include=slides/CHI2018/Wall++.md
 +++?include=slides/CHI2018/Agile_3D_Sketching_with_Air_Scaffolding.md
++++?include=slides/CHI2018/Data_Illustrator.md
++++?include=slides/CHI2018/Examining_Wikipedia_With_a_Broader_Lens.md
 +++?include=slides/CHI2018/Expressive_Time_Series_Querying_with_Human-Drawn_Scale-Free_Sketching.md
 +++?include=slides/CHI2018/Extending_Manual_Drawing_Practices_with_Artist-Centric_Programming_Tools.md
++++?include=slides/CHI2018/From_Her_Story_to_Our_Story.md
++++?include=slides/CHI2018/HARK_No_More.md
++++?include=slides/CHI2018/Hoarding_and_Minimalism.md
++++?include=slides/CHI2018/Pinpointing.md
 +++?include=slides/CHI2018/Voice_Interfaces_in_Everyday_Life.md
-+++?include=slides/CHI2018/Data_Illustrator.md
++++?include=slides/CHI2018/Wall++.md
 
 ---
 ### CVPR 2017
