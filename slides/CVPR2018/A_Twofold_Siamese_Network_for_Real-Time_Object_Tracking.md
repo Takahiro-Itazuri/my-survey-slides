@@ -3,7 +3,7 @@
 <div class="container">
   <div class="col">
     <u><b>Abstract</b></u><br>
-    Observing that Semenatic features learned in an image classification task and Appearance features learned in a similarity matching task complement each other, we build a twofold Siamese network, named SA-Siam, for real-time object tracking. SA-Siam is composed of a semantic branck and an appearance branch. Each branch is a similarity-learning Siamese network. An important design choice in SA-Siam is to seperately train the two branches to keep heterogeneity of the two types of features. In addition, we propose a chanle attention mechanism for the semantic branch.<br>
+    Observing that Semenatic features learned in an image classification task and Appearance features learned in a similarity matching task complement each other, we build a twofold Siamese network, named <b>SA-Siam</b>, for real-time object tracking. SA-Siam is composed of a semantic branck and an appearance branch. Each branch is a similarity-learning Siamese network. An important design choice in SA-Siam is to seperately train the two branches to keep heterogeneity of the two types of features. In addition, we propose a chanle attention mechanism for the semantic branch.<br>
     <u><b>Contribution</b></u><br>
     <ul>
       <li>We present the design of a twofold Siamese network for real-time object tracking.</li>

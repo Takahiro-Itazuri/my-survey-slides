@@ -3,10 +3,12 @@
 
 ---
 ### CVPR 2018
-
-+++?include=slides/CVPR2018/Learning_Spatial-Aware_Regressions_for_Visual_Tracking.md
 +++?include=slides/CVPR2018/A_Twofold_Siamese_Network_for_Real-Time_Object_Tracking.md
++++?include=slides/CVPR2018/Context-aware_Deep_Feature_Compression_for_High-speed_Visual_Tracking.md
++++?include=slides/CVPR2018/End-to-End_Flow_Correlaion_Tracking_with_Spatial-temporal_Attention.md
++++?include=slides/CVPR2018/Learning_Spatial-Aware_Regressions_for_Visual_Tracking.md
 +++?include=slides/CVPR2018/Learning_Spatial-Temporal_Regularized_Correlation_Filters_for_Visual_Tracking.md
++++?include=slides/CVPR2018/VITAL.md
 
 ---
 ### CHI 2018
@@ -285,5 +287,5 @@
 
 ---
 ### Database of Databse
-+++?include=slides/Database/UCF101.md
 +++?include=slides/Database/Sports-1M.md
++++?include=slides/Database/UCF101.md
