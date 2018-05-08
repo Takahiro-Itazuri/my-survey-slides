@@ -1,5 +1,5 @@
 +++
-#### VITAL VIsual Tracking via Adversarial Learning
+#### VITAL: VIsual Tracking via Adversarial Learning
 ###### Yibing Song, Chao Ma, Xiaohe Wu, Lijun Gong, Linchao Bao, Wangmeng Zuo, Chunhua Shen, Rynson Lau, Ming-Hsuan Yang
 <div class="container">
   <div class="col">
