@@ -1,4 +1,3 @@
-+++
 #### End-to-End Flow Correlation Tracking with Spatial-temporal Attention
 ###### Zheng Zhu, Wei Wu, Wei Zou, Junjie Yan
 <div class="container">

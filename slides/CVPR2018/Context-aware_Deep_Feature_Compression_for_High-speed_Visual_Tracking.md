@@ -1,4 +1,3 @@
-+++
 #### Context-aware Deep Feature Compression for High-speed Visual Tracking
 ###### Jongwon Choi, Hyung Jin Chang, Tobias Fischer, Sangdoo Yun, Kyuewang Lee, Jiyeoup Jeong, Yiannis Demiris, Jin Young Choi
 <div class="container">
