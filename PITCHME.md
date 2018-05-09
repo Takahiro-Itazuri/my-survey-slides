@@ -282,6 +282,10 @@
 <!--+++?include=slides/TPAMI2015/High-Speed_Tracking_with_Kernelized_Correlation_Filters.md-->
 
 ---
+### NIPS 2014
++++include=slides/NIPS2014/Generative_Adversarial_Nets.md
+
+---
 ### CVPR 2010
 <!--+++?include=slides/CVPR2010/Visual_Object_Tracking_using_Adaptive_Correlation_Filters.md-->
 

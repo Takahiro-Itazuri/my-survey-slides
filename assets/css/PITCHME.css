@@ -1,7 +1,6 @@
 .reveal div {
   font-size: 16px;
   text-align: justify;
-  padding: 1%;
 }
 
 .container {
@@ -16,6 +15,7 @@ li {
 
 .col {
   width: 49%;
+  padding: 1%;
 }
 
 .reveal h1 {

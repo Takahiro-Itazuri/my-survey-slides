@@ -1,4 +1,3 @@
-+++
 #### Title
 ###### Authors
 <div class="container">
