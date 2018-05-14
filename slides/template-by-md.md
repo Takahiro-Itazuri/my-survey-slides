@@ -13,7 +13,7 @@ __手法・新規性__<br>
 
 @div[right]
 
-![](path/to/img =full)
+![](path/to/img =full)<br>
 
 __リンク__<br>
 ・[](url)<br>
