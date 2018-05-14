@@ -1,3 +1,4 @@
+@title
 #### Fully-Convolutional Siamese Networks for Object Tracking
 ###### Luca Bertinetto, Jack Valmadre, Joao F. Henriques, Andrea Vedaldi, Philip H. S. Toor
 
@@ -20,16 +21,13 @@ __リンク__
 
 @div[right]
 
-@h6[]
-Hello World
-@h6end
+
 
 Hello World
 
-@ul
 - Hello
 - World
-@ulend
+
 <!-- ![](path/to/img =full) -->
 
 @divend
