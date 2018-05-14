@@ -4,10 +4,10 @@
 ---
 @title[test slide]
 ## two column slide
-@div[left-48]
+@div[left-50]
 Left Column
 @divend
-@div[left-48]
+@div[left-50]
 Right Column
 @divend
 
