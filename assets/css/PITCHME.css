@@ -19,29 +19,35 @@
 
 .reveal h1 {
   font-size: 36px;
+  text-transform: none;
 }
 
 .reveal h2 {
   font-size: 32px;
+  text-transform: none;
 }
 
 .reveal h3 {
   font-size: 28px;
+  text-transform: none;
 }
 
 .reveal h4 {
   font-size: 24px;
+  text-transform: none;
 }
 
 .reveal h5 {
   font-size: 20px;
+  text-transform: none;
 }
 
 .reveal h6 {
   font-size: 16px;
+  text-transform: none;
 }
 
-.reveal a img {
+img {
   background: none;
   border: none;
   box-shadow: none;
