@@ -1,4 +1,3 @@
-@title
 #### Title
 ###### Authors
 
@@ -15,5 +14,7 @@ __リンク__
 @divend
 
 @div[right]
+
 ![](path/to/img =full)
+
 @divend
