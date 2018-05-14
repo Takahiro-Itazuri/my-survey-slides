@@ -18,7 +18,6 @@ __リンク__
 
 @divend
 
-![](http://hirokatsukataoka.net/project/cc/image/itazuri.jpg)
 
 @div[right]
 
