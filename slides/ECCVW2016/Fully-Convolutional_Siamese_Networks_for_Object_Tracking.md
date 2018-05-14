@@ -20,13 +20,16 @@ __リンク__
 
 @div[right]
 
-@h6
+@h6[]
 Hello World
 @h6end
+
 Hello World
-<br>
+
+@ul
 - Hello
 - World
+@ulend
 <!-- ![](path/to/img =full) -->
 
 @divend
