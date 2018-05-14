@@ -8,14 +8,14 @@ __概要__
 __手法・新規性__  
 
 __リンク__  
-* list1
-* list2
+@ul
+- [論文](https://arxiv.org/pdf/1606.09549.pdf)  
+- [プロジェクト](https://www.robots.ox.ac.uk/~luca/siamese-fc.html)  
+- [GitHub](https://github.com/bertinetto/cfnet)  
+- [発表動画](https://youtu.be/jZoUalMMZ_0)  
+- [スライド](https://pdfs.semanticscholar.org/presentation/4c91/827cceb97183c4d48ca09e1c7587577c8d54.pdf)  
+@ulend
 
-* [論文](https://arxiv.org/pdf/1606.09549.pdf)  
-* [プロジェクト](https://www.robots.ox.ac.uk/~luca/siamese-fc.html)  
-* [GitHub](https://github.com/bertinetto/cfnet)  
-* [発表動画](https://youtu.be/jZoUalMMZ_0)  
-* [スライド](https://pdfs.semanticscholar.org/presentation/4c91/827cceb97183c4d48ca09e1c7587577c8d54.pdf)  
 @divend
 
 @div[right-50]
