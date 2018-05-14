@@ -1,6 +1,13 @@
 # Survey Slides
 ### Takahiro Itazuri (Waseda University)
 
+--- &twocol
+## two column slide
+*** =left
+Left Column
+*** =right
+Right Column
+
 ---
 ### CVPR 2018
 +++?include=slides/CVPR2018/A_Twofold_Siamese_Network_for_Real-Time_Object_Tracking.md
