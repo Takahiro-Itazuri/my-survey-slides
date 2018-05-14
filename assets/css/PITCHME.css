@@ -42,6 +42,7 @@
 }
 
 .reveal img {
-  border: 0;
+  background: none;
+  border: none;
   box-shadow: none;
 }
