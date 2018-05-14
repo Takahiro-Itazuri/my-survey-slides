@@ -2,11 +2,14 @@
 ### Takahiro Itazuri (Waseda University)
 
 ---
+@title[test slide]
 ## two column slide
 @div[left-50]
 Left Column
+@divend
 @div[right-50]
 Right Column
+@divend
 
 ---
 ### CVPR 2018
