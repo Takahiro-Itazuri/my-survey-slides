@@ -11,8 +11,8 @@ __手法・新規性__
 
 __リンク__  
 @ul
-- Hello
-- world
+- Hello  |
+- world  |
 @ulend
 
 <!--
