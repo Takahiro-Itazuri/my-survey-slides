@@ -1,19 +1,17 @@
-@title[]
+@title
 #### Title
 ###### Authors
-@div[left-50]
+@div[left]
 __概要__  
 
 __手法・新規性__  
 
 __リンク__  
-@ul
-- []()  
-- []()  
-@ulend
+・[](url)  
+・[](url)  
 
 @divend
 
-@div[right-50]
+@div[right]
 ![](path/to/img =full)
 @divend
