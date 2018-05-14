@@ -2,17 +2,6 @@
 ### Takahiro Itazuri (Waseda University)
 
 ---
-## title
-
-@div[left]
-- list1
-- list2
-@divend
-
-- list1
-- list2
-
----
 ### CVPR 2018
 +++?include=slides/CVPR2018/A_Twofold_Siamese_Network_for_Real-Time_Object_Tracking.md
 +++?include=slides/CVPR2018/Context-aware_Deep_Feature_Compression_for_High-speed_Visual_Tracking.md
