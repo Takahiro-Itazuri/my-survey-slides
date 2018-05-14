@@ -15,6 +15,7 @@ __リンク__
 - world
 @ulend
 
+<!--
 @ul
 - [論文](https://arxiv.org/pdf/1606.09549.pdf)
 - [プロジェクト](https://www.robots.ox.ac.uk/~luca/siamese-fc.html)
@@ -22,6 +23,7 @@ __リンク__
 - [発表動画](https://youtu.be/jZoUalMMZ_0)
 - [スライド](https://pdfs.semanticscholar.org/presentation/4c91/827cceb97183c4d48ca09e1c7587577c8d54.pdf)
 @ulend
+-->
 
 @divend
 
