@@ -1,22 +1,22 @@
 #### High-Speed Tracking with Kernelized Correlation Filters
 ###### Authors
-<div class="container">
-  <div class="col">
-    <u><b>Abstract</b></u><br>
-    <br>
-    <u><b>Contribution</b></u><br>
-    <ul>
-      <li></li>
-    </ul><br>
-    <u><b>Links</b></u><br>
-    <ul>
-      <li><a href="https://arxiv.org/pdf/1404.7584.pdf">paper</a></li>
-      <li><a href="https://github.com/foolwood/KCF">code</a></li>
-    </ul><br>
-  </div>
-  <div class="col">
-    <img width="100%" src="">
-    <img width="100%" src="">
-    <img width="100%" src="">
-  </div>
-</div>
+
+@div[left]
+
+__概要__<br>
+<br><br>
+__手法・新規性__<br>
+<br>
+
+
+@divend
+
+@div[right]
+
+![](path/to/img =full)<br>
+
+__リンク__<br>
+・[論文](https://arxiv.org/abs/1404.7584)<br>
+・[GitHub](https://github.com/foolwood/KCF)<br>
+
+@divend
