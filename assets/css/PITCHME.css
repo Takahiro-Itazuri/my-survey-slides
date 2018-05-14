@@ -1,15 +1,18 @@
 .reveal div {
   font-size: 16px;
+  text-align: left;
 }
 
 .reveal div.left {
   float: left;
   width: 50%;
+  padding: 3%;
 }
 
 .reveal div.right {
   float: right;
   width: 50%;
+  padding: 3%;
 }
 
 .container {
