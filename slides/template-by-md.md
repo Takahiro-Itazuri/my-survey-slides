@@ -1,7 +1,9 @@
 @title
 #### Title
 ###### Authors
+
 @div[left]
+
 __概要__  
 
 __手法・新規性__  
