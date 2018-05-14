@@ -2,16 +2,6 @@
 ### Takahiro Itazuri (Waseda University)
 
 ---
-@title[test slide]
-## two column slide
-@div[left-50]
-Left Column
-@divend
-@div[left-50]
-Right Column
-@divend
-
----
 ### CVPR 2018
 +++?include=slides/CVPR2018/A_Twofold_Siamese_Network_for_Real-Time_Object_Tracking.md
 +++?include=slides/CVPR2018/Context-aware_Deep_Feature_Compression_for_High-speed_Visual_Tracking.md
@@ -231,7 +221,7 @@ Right Column
 
 ---
 ### ECCVW 2016
-<!--+++?include=slides/ECCVW2016/Fully-Convolutional_Siamese_Networks_for_Object_Tracking.md-->
++++?include=slides/ECCVW2016/Fully-Convolutional_Siamese_Networks_for_Object_Tracking.md
 
 <!--
   ICCV 2015
