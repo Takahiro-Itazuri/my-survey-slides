@@ -1,11 +1,11 @@
 # Survey Slides
 ### Takahiro Itazuri (Waseda University)
 
---- &twocol
+---
 ## two column slide
-*** =left
+@div[left-50]
 Left Column
-*** =right
+@div[right-50]
 Right Column
 
 ---
