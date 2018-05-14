@@ -1,6 +1,15 @@
 .reveal div {
   font-size: 16px;
-  text-align: justify;
+}
+
+.reveal div.left {
+  float: left;
+  width: 50%;
+}
+
+.reveal div.right {
+  float: right;
+  width: 50%;
 }
 
 .container {
