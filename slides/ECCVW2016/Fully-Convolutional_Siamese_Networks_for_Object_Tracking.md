@@ -19,8 +19,7 @@ FCNNによって見本画像$z$より大きい探索画像$x$を一気に探索�
 
 @div[right]
 
-![](https://www.robots.ox.ac.uk/~luca/stuff/siamesefc_conv-explicit.jpg =full)
-
+![](https://www.robots.ox.ac.uk/~luca/stuff/siamesefc_conv-explicit.jpg)
 <br>
 __リンク__<br>
 ・[論文](https://arxiv.org/abs/1606.09549)<br>
