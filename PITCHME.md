@@ -7,7 +7,7 @@
 @div[left-50]
 Left Column
 @divend
-@div[right-50]
+@div[left-50]
 Right Column
 @divend
 
