@@ -10,12 +10,14 @@ __手法・新規性__<br>
 `$$ f(z, x) = (\gamma \odot \phi(z)) \ast \phi(x) + b \cdot \mathbb{1} $$`
 Attention $ \gamma $を学習させるのは困難なため、Residual AttentionとGeneral Attentionを含むDual Attention ($ \rho $)とChannel Attention ($ \beta $)を導入し、以下のように再定式化した。<br>
 `$$ f_{p', q'} = \sum_{i=0}^{m-1} \sum_{j=0}^{n-1} \sum_{c=0}^{d-1} \rho_{i,j} \beta_{c} \phi_{i,j,c} (z) \phi_{p'+i,q'+j,c}(x) + b $$`
+Residual Attentionは追跡対象に特化させるようにオンライン学習をし、Channel Attentionはチャンネルごとの特徴量の質を示している。
 
 @divend
 
 @div[right]
 
 ![RASNet](assets/img/RASNet.png =full)<br>
+<br>
 
 __リンク__<br>
 ・[論文](http://www.dcs.bbk.ac.uk/~sjmaybank/CVPR18RASTrackCameraV3.3.pdf)<br>
