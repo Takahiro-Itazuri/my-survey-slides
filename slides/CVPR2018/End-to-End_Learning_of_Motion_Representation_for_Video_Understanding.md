@@ -16,7 +16,7 @@ TVNetはTV-L1の反復過程のうち、勾配（gradient）と発散（divergen
 @div[right]
 
 ![TVNet](assets/img/TVNet.png =full)<br>
-
+<br>
 __リンク__<br>
 ・[論文](https://arxiv.org/pdf/1804.00413.pdf)<br>
 ・[GitHub](https://github.com/LijieFan/tvnet)<br>
