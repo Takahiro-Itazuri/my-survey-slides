@@ -8,7 +8,9 @@ tracking-by-detectionベースの手法は、(1)各フレームにおけるposit
 __手法・新規性__<br>
 提案手法におけるGANはimage spaceではなくfeature spaceで学習データを拡張する。CNNで抽出した特徴量に対して重みを付けるマスク$M$を学習する。<br>
 \begin{align}
-a = b
+\mathcal{L}_{VITAL} = \min_{G} \min_{D} &\mathbb{E} [\log D(M \cdot C)] \\
+& + \mathbb{E} [\log (1 - D(G(C) \cdots C))] \\
+& + \lambda \mathbb{E} \| G(C) - M \|^2
 \end{align}
 `$$ \mathcal{L}_{VITAL} = \min_{G} \min_{D} \mathbb{E} [\log D(M \cdot C)] + \mathbb{E} [\log (1 - D(G(C) \cdots C))] + \lambda \mathbb{E} \| G(C) - M \|^2 $$`
 high-order cost sensitive lossは識別が簡単すぎたnegative sampleはあまり学習に寄与しないようにする。<br>
