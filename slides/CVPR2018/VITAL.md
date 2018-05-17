@@ -12,7 +12,7 @@ __手法・新規性__<br>
 
 @div[right]
 
-![VITAL](https://ybsong00.github.io/cvpr18_tracking/pipeline.png =full)<br>
+![VITAL](assets/img/VITAL.png =full)<br>
 <br>
 
 __リンク__<br>
