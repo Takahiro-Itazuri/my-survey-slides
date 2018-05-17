@@ -108,3 +108,4 @@
 +++?include=slides/VTS/Framework.md
 +++?include=slides/VTS/Evaluation.md
 +++?include=slides/VTS/Database.md
++++?include=slides/VTS/SpeedComparison.md
