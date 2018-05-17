@@ -107,4 +107,4 @@
 ### Survey of Visual Tracking
 +++?include=slides/VTS/Framework.md
 +++?include=slides/VTS/Evaluation.md
-+++?include=sldies/VTS/Database.md
++++?include=slides/VTS/Database.md
