@@ -102,3 +102,9 @@
 ### Database of Databse
 <!-- +++?include=slides/Database/Sports-1M.md -->
 <!-- +++?include=slides/Database/UCF101.md -->
+
+---
+### Survey of Visual Tracking
++++?include=slides/VTS/Framework.md
++++?include=slides/VTS/Evaluation.md
++++?include=sldies/VTS/Database.md
