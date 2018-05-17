@@ -23,6 +23,10 @@
   padding-left: 2%;
 }
 
+.reveal div.math {
+  font-size: 12px;
+}
+
 .reveal h1 {
   font-size: 36px;
   text-transform: none;

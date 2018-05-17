@@ -51,7 +51,7 @@
 <!-- +++?include=slides/CHI2017/ShareVR.md -->
 <!-- +++?include=slides/CHI2017/Stories_from_Survivors.md -->
 <!-- +++?include=slides/CHI2017/Supporting_Expressive_Procedural_Art_Creation.md -->
-<!-- +++?include=slides/CHI2017/What_Can_Be_Predicted_from_Six_Seconds_of_Drivers_Glances.md --> -->
+<!-- +++?include=slides/CHI2017/What_Can_Be_Predicted_from_Six_Seconds_of_Drivers_Glances.md -->
 
 ---
 ### arXiv 2017
@@ -91,8 +91,8 @@
 
 ---
 ### NIPS 2014
-<!-- +++include=sldies/NIPS2014/A_Multi-World_Approach_to_Question_Answering_about_Real-World_Scenes_based_on_Uncertain_Input.md
-+++include=slides/NIPS2014/Generative_Adversarial_Nets.md -->
+<!-- +++include=sldies/NIPS2014/A_Multi-World_Approach_to_Question_Answering_about_Real-World_Scenes_based_on_Uncertain_Input.md -->
+<!-- +++include=slides/NIPS2014/Generative_Adversarial_Nets.md -->
 
 ---
 ### CVPR 2010

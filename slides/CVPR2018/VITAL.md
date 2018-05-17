@@ -8,7 +8,10 @@ tracking-by-detectionベースの手法は、(1)各フレームにおけるposit
 <br>
 __手法・新規性__<br>
 提案手法はCNNで抽出した特徴量に適用するマスクを複数（論文では9個）用意し、マスクを通じて重み付けられた特徴量に対して識別器$D$が対象物体か背景かの二値分類を行う。学習時には識別器$D$に最も悪い識別性能を出させたマスクを学習させる。テスト時には生成器$G$は取り除いておく。また識別が簡単すぎる大量のnegative sampleのロスが合計されて大きくなってしまう現象であるclass imbalanceを、あまり学習に寄与しないようにする。<br>
+
+@div[math]
 `\begin{align} \mathcal{L}_{VITAL} &= \min_{G} \min_{D} \mathbb{E} [K_1 \cdot \log D(M \cdot C)] \\ & \qquad + \mathbb{E} [K_2 \cdot \log (1 - D(G(C) \cdots C))] \\ & \qquad + \lambda \mathbb{E} \| G(C) - M \|^2 \\ K_1 &= 1 - D(M \cdot C) \\ K_2 &= D(G(C) \cdot C) \end{align}`
+@divend
 
 @divend
 
