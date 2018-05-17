@@ -10,7 +10,7 @@
 <!-- +++?include=slides/CVPR2018/End-to-End_Flow_Correlaion_Tracking_with_Spatial-temporal_Attention.md -->
 <!-- +++?include=slides/CVPR2018/Learning_Spatial-Aware_Regressions_for_Visual_Tracking.md -->
 <!-- +++?include=slides/CVPR2018/Learning_Spatial-Temporal_Regularized_Correlation_Filters_for_Visual_Tracking.md -->
-<!-- +++?include=slides/CVPR2018/VITAL.md -->
++++?include=slides/CVPR2018/VITAL.md
 
 <!-- --- -->
 <!-- ### CHI 2018 -->

@@ -1,5 +1,5 @@
 #### High-Speed Tracking with Kernelized Correlation Filters
-###### Authors
+###### João F. Henriques, Rui Caseiro, Pedro Martins, Jorge Batista
 
 @div[left]
 
@@ -16,7 +16,7 @@ __手法・新規性__<br>
 ![](path/to/img =full)<br>
 
 __リンク__<br>
-・[論文](https://arxiv.org/abs/1404.7584)<br>
+・[論文](https://arxiv.org/pdf/1404.7584.pdf)<br>
 ・[GitHub](https://github.com/foolwood/KCF)<br>
 
 @divend
