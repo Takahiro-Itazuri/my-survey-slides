@@ -8,7 +8,7 @@ __概要__<br>
 <br>
 __手法・新規性__<br>
 TVNetの元となるオプティカルフローの最適化手法であるTV-L1は以下のように定式化されている。<br>
-`\begin{align} \mathop{\rm min}\limits_{ \{ {\bf u}, {\bf v} \} } \sum_{ {\bf x} \in \Omega } \left( | \nabla {\bf u}_1 ( {\bf x} ) | &+ \frac{1}{2 \theta} | {\bf u} - {\bf v} |^2 \\ &+ | \nabla {\bf u}_2 ( {\bf x} ) | ) + \lambda | \rho ( {\bf u} ( {\bf x} ) \right) | \end{align}`
+`\begin{align} \mathop{\rm min}\limits_{ \{ {\bf u}, {\bf v} \} } \sum_{ {\bf x} \in \Omega } \left( | \nabla {\bf u}_1 ( {\bf x} ) | + \frac{1}{2 \theta} | {\bf u} - {\bf v} |^2 + | \nabla {\bf u}_2 ( {\bf x} ) | ) + \lambda | \rho ( {\bf u} ( {\bf x} ) \right) | \end{align}`
 TVNetはTV-L1の反復過程のうち、勾配（gradient）と発散（divergence）の計算部分を畳み込み層にし、効率性の問題からBicubic補間をBilinear補間にしている。またパラメータ`${\bf u}^0$`をTV-L1では0で初期化していたが、TVNetでは初期値も学習するようにしている。
 
 @divend
