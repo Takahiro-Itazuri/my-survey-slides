@@ -3,16 +3,17 @@
 @div[left]
 
 __1D Continuous Cross-Correlation Theorem__<br>
-`\begin{align} H(\mu) = F^{\ast}(\mu) \cdot G(\mu) \end{align}`
-
+`\begin{align} H(\mu) = F^{\ast}(\mu) \cdot G(\mu) \end{align}`<br>
+<br>
 __2D Continuous Cross-Correlation Theorem__<br>
-`\begin{align} H(\mu, \nu) = F^{\ast}(\mu, \nu) \cdot G(\mu, \nu) \end{align}`
-
+`\begin{align} H(\mu, \nu) = F^{\ast}(\mu, \nu) \cdot G(\mu, \nu) \end{align}`<br>
+<br>
 __1D Discrete Cross-Correlation Theorem__<br>
-`\begin{align} H[\mu] = F^{\ast}[\mu] \cdot G[\mu] \end{align}`
-
+`\begin{align} H[\mu] = F^{\ast}[\mu] \cdot G[\mu] \end{align}`<br>
+<br>
 __2D Discrete Cross-Correlation Threorem__<br>
-`\begin{align} H[\mu, \nu] = F^{\ast}[\mu, \nu] \cdot G[\mu, \nu] \end{align}`
+`\begin{align} H[\mu, \nu] = F^{\ast}[\mu, \nu] \cdot G[\mu, \nu] \end{align}`<br>
+<br>
 
 @divend
 
