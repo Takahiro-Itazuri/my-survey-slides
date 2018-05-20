@@ -99,6 +99,10 @@
 <!--+++?include=slides/CVPR2010/Visual_Object_Tracking_using_Adaptive_Correlation_Filters.md-->
 
 ---
+### CVPR 2009
++++?include=slides/CVPR2009/Average_of_Synthetic_Exact_Filters.md
+
+---
 ### Database of Databse
 <!-- +++?include=slides/Database/Sports-1M.md -->
 <!-- +++?include=slides/Database/UCF101.md -->
