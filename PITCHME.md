@@ -109,3 +109,6 @@
 +++?include=slides/VTS/Evaluation.md
 +++?include=slides/VTS/Database.md
 +++?include=slides/VTS/SpeedComparison.md
+---
+### Technical Survey of Visual Tracking
++++?include=slides/VTTS/Cross-Correlation_vs_Convolution.md

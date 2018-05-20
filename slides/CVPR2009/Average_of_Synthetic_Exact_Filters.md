@@ -1,5 +1,5 @@
-#### Title
-###### Authors
+#### Average of Synthetic Exact Filters
+###### David S. Bolme, Bruce A. Draper, J. Ross Beveridge
 
 @div[left]
 
