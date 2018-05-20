@@ -1,6 +1,6 @@
 #### Synthetic Discriminant Function (SDF)
 
-@div[whole]
+@div[left]
 
 与えられた学習サンプル`$\boldsymbol{x}_i$`に対して、次のような制約を与える。<br>
 `\begin{align} u_i = \boldsymbol{w}^T \boldsymbol{x}_i \end{align}`<br>
