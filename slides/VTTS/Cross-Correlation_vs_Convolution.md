@@ -3,27 +3,33 @@
 @div[left]
 
 __Cross-Correlation__<br>
-__1D Continuous Cross-Correlation__
+1D Continuous Cross-Correlation<br>
+`\begin{align} h &= f \otimes g \\ h(u) &= \int_{- \infty}^{\infty} f(x) g(u + x) dx \end{align}`
 
-__2D Continuous Cross-Correlation__
+2D Continuous Cross-Correlation<br>
+`\begin{align} h &= f \otimes g \\ h(u, v) &= \int_{- \infty}^{\infty} \int_{- \infty}^{\infty} f(x, y) g(u + x, v + y) dx dy \end{align}`
 
-__1D Discrete Cross-Correlation__
+1D Discrete Cross-Correlation<br>
+`\begin{align} h &= f \otimes g \\ h[u] &= \sum_{x=0}^{N-1} f[x] g[u + x] \end{align}`
 
-__2D Discrete Cross-Correlation__
-`\begin{align} h &= f \otimes g \\ h[u, v] &= \sum_{x=0}^{M} \sum_{y=0}^{N} f[x, y] g[i + u, j + v] \end{align}`
+2D Discrete Cross-Correlation<br>
+`\begin{align} h &= f \otimes g \\ h[u, v] &= \sum_{x=0}^{M-1} \sum_{y=0}^{N-1} f[x, y] g[u + x, v + y] \end{align}`
 
 @divend
 
 @div[right]
 
 __Convolution__<br>
-__1D Continuous Convolution__
+1D Continuous Convolution<br>
+`\begin{align} h &= f \ast g \\ h(u) &= \int_{- \infty}^{\infty} f(x) g(u - x) dx \end{align}`
 
-__2D Continuous Convolution__
+2D Continuous Convolution<br>
+`\begin{align} h &= f \ast g \\ h(u, v) &= \int_{- \infty}^{\infty} \int_{- \infty}^{\infty} f(x, y) g(u - x, v - y) dx dy \end{align}`
 
-__1D Discrete Convolution__
+1D Discrete Convolution<br>
+`\begin{align} h &= f \ast g \\ h[u] &= \sum_{x=0}^{N-1} f[x] g[u - x] \end{align}`
 
-__2D Discrete Convolution__
-`\begin{align} h &= f \ast g \\ h[i, j] &= \sum_{u=-k}^{k} \sum_{v=-k}^{k} f[u, v] g[i - u, j - v] \end{align}`
+2D Discrete Convolution<br>
+`\begin{align} h &= f \ast g \\ h[u, v] &= \sum_{x=0}^{M-1} \sum_{y=0}^{N-1} f[x, y] g[u - x, v - y] \end{align}`
 
 @divend
