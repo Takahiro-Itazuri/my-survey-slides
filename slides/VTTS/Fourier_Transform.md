@@ -18,6 +18,6 @@ __Discrete Fourier Transform__<br>
 `\begin{align} F[u] &= \sum_{x=0}^{N-1} f[x] e^{-2 \pi j \frac{ux}{N}} \\ f(x) &= \frac{1}{N} \sum_{u=0}^{N-1} F[u] e^{2 \pi j \frac{ux}{N}} \end{align}`
 
 2D Discrete Fourier Transform<br>
-`\begin{align} F[u, v] &= \sum_{x=0}^{M-1} \sum_{y=0}^{N-1} f[x, y] e^{-2 \pi j (\frac{ux}{M} + \frac{vy}{N}) \\ f[x, y] &= \sum_{u=0}^{M-1} \sum_{v=0}^{N-1} F[u, v] e^{2 \pi j (\frac{ux}{M} + \frac{vy}{N})} \end{align}`
+`\begin{align} F[u, v] &= \sum_{x=0}^{M-1} \sum_{y=0}^{N-1} f[x, y] e^{-2 \pi j (\frac{ux}{M} + \frac{vy}{N})} \\ f[x, y] &= \sum_{u=0}^{M-1} \sum_{v=0}^{N-1} F[u, v] e^{2 \pi j (\frac{ux}{M} + \frac{vy}{N})} \end{align}`
 
 @divend
