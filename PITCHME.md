@@ -114,3 +114,4 @@
 +++?include=slides/VTTS/Cross-Correlation_vs_Convolution.md
 +++?include=slides/VTTS/Fourier_Transform.md
 +++?include=slides/VTTS/Convolution_Theorem.md
++++?include=slides/VTTS/Cross-Correlation_Theorem.md
