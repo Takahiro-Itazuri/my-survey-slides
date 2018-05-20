@@ -112,3 +112,4 @@
 ---
 ### Technical Survey of Visual Tracking
 +++?include=slides/VTTS/Cross-Correlation_vs_Convolution.md
++++?include=slides/VTTS/Convolution_Theorem.md
