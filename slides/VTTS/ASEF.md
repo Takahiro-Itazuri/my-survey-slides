@@ -8,6 +8,6 @@ SDFは学習画像サンプルごとに１つのレスポンス値を設定す�
 
 @div[right]
 
-
+![ASEF](assets/img/ASEF.png)
 
 @divend
