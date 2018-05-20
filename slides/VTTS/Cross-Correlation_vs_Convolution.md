@@ -3,7 +3,7 @@
 @div[left]
 
 __Cross-Correlation__<br>
-`\begin{align} h = f \otimes g \end{align}`<br>
+`\begin{align} h &= f \otimes g & h &= f \star g \end{align} `<br>
 <br>
 1D Continuous Cross-Correlation<br>
 `\begin{align} h(u) = \int_{- \infty}^{\infty} f(x) g(u + x) dx \end{align}`<br>
