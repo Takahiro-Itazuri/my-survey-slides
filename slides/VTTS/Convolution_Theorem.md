@@ -3,16 +3,17 @@
 @div[left]
 
 __1D Continuous Convolution Theorem__<br>
-`\begin{align} H(\mu) = F(\mu) \cdot G(\mu) \end{align}`
-
+`\begin{align} H(\mu) = F(\mu) \cdot G(\mu) \end{align}`<br>
+<br>
 __2D Continuous Convolution Theorem__<br>
-`\begin{align} H(\mu, \nu) = F(\mu, \nu) \cdot G(\mu, \nu) \end{align}`
-
+`\begin{align} H(\mu, \nu) = F(\mu, \nu) \cdot G(\mu, \nu) \end{align}`<br>
+<br>
 __1D Discrete Convolution Theorem__<br>
-`\begin{align} H[\mu] = F[\mu] \cdot G[\mu] \end{align}`
-
+`\begin{align} H[\mu] = F[\mu] \cdot G[\mu] \end{align}`<br>
+<br>
 __2D Discrete Convolution Threorem__<br>
-`\begin{align} H[\mu, \nu] = F[\mu, \nu] \cdot G[\mu, \nu] \end{align}`
+`\begin{align} H[\mu, \nu] = F[\mu, \nu] \cdot G[\mu, \nu] \end{align}`<br>
+<br>
 
 @divend
 
