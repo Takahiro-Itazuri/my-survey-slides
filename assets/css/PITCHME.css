@@ -32,31 +32,37 @@
 .reveal h1 {
   font-size: 36px;
   text-transform: none;
+  margin-bottom: 10px;
 }
 
 .reveal h2 {
   font-size: 32px;
   text-transform: none;
+  margin-bottom: 10px;
 }
 
 .reveal h3 {
   font-size: 28px;
   text-transform: none;
+  margin-bottom: 10px;
 }
 
 .reveal h4 {
   font-size: 24px;
   text-transform: none;
+  margin-bottom: 10px;
 }
 
 .reveal h5 {
   font-size: 20px;
   text-transform: none;
+  margin-bottom: 10px;
 }
 
 .reveal h6 {
   font-size: 16px;
   text-transform: none;
+  margin-bottom: 10px;
 }
 
 .reveal section img {
