@@ -120,7 +120,8 @@
 +++?include=slides/VTTS/Convolution_Theorem.md
 +++?include=slides/VTTS/Cross-Correlation_Theorem.md
 +++?include=slides/VTTS/SDF.md
-+++?include=slides/VTTS/MVSDF.md
++++?include=slides/VTTS/MVSDF1.md
++++?include=slides/VTTS/MVSDF2.md
 +++?include=slides/VTTS/MACE.md
 +++?include=slides/VTTS/ASEF.md
 +++?include=slides/VTTS/Links.md
