@@ -115,13 +115,17 @@
 +++?include=slides/VTS/SpeedComparison.md
 ---
 ### Technical Survey of Visual Tracking
-+++?include=slides/VTTS/Cross-Correlation_vs_Convolution.md
-+++?include=slides/VTTS/Fourier_Transform.md
-+++?include=slides/VTTS/Convolution_Theorem.md
-+++?include=slides/VTTS/Cross-Correlation_Theorem.md
 +++?include=slides/VTTS/SDF.md
 +++?include=slides/VTTS/MVSDF1.md
 +++?include=slides/VTTS/MVSDF2.md
 +++?include=slides/VTTS/MACE.md
 +++?include=slides/VTTS/ASEF.md
 +++?include=slides/VTTS/Links.md
+
+---
+### Fundamental Mathematics
++++?include=slides/VTTS/Cross-Correlation_vs_Convolution.md
++++?include=slides/VTTS/Fourier_Transform.md
++++?include=slides/VTTS/Convolution_Theorem.md
++++?include=slides/VTTS/Cross-Correlation_Theorem.md
+
