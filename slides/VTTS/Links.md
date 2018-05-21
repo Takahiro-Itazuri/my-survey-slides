@@ -9,7 +9,7 @@
 ・[B. V. K. Vijaya Kumar "Efficient Approach to Designing Linear Combination Filters"](https://www.osapublishing.org/ao/abstract.cfm?uri=ao-22-10-1445)<br>
 ・[B. V. K. Vijaya Kumar "Minimum-Variance Synthetic Discriminant Functions"](https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-3-10-1579)<br>
 ・[Abhijit Mahalanobis et al. "Minimum Average Correlation Energy Filters"](https://www.osapublishing.org/ao/abstract.cfm?uri=ao-26-17-3633)<br>
-・[N. V. K. Vijaya Kumar](https://www.spiedigitallibrary.org/journals/Optical-Engineering/volume-31/issue-5/0000/Minimum-squared-error-synthetic-discriminant-functions/10.1117/12.56169.full?SSO=1)<br>
+・[N. V. K. Vijaya Kumar et al. "Minimum Squared Error Synthetic Discriminant Functions"](https://www.spiedigitallibrary.org/journals/Optical-Engineering/volume-31/issue-5/0000/Minimum-squared-error-synthetic-discriminant-functions/10.1117/12.56169.full?SSO=1)<br>
 ・[David S. Bolme et al. "Average of Synthetic Exact Filters"](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.492.7927&rep=rep1&type=pdf)<br>
 ・[David S. Bolme et al. "Visual Object Tracking using Adaptive Correlation Filters"](http://www.cs.colostate.edu/~vision/publications/bolme_cvpr10.pdf)
 
