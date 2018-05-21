@@ -109,18 +109,18 @@
 
 ---
 ### Survey of Visual Tracking
-+++?include=slides/VTS/Framework.md
-+++?include=slides/VTS/Evaluation.md
-+++?include=slides/VTS/Database.md
-+++?include=slides/VTS/SpeedComparison.md
++++?include=slides/Survey_of_Visual_Tracking/Framework.md
++++?include=slides/Survey_of_Visual_Tracking/Evaluation.md
++++?include=slides/Survey_of_Visual_Tracking/Database.md
++++?include=slides/Survey_of_Visual_Tracking/SpeedComparison.md
 ---
 ### Technical Survey of Visual Tracking
-+++?include=slides/VTTS/SDF.md
-+++?include=slides/VTTS/MVSDF1.md
-+++?include=slides/VTTS/MVSDF2.md
-+++?include=slides/VTTS/MACE.md
-+++?include=slides/VTTS/ASEF.md
-+++?include=slides/VTTS/Links.md
++++?include=slides/Technical_Survey_of_Visual_Tracking/SDF.md
++++?include=slides/Technical_Survey_of_Visual_Tracking/MVSDF1.md
++++?include=slides/Technical_Survey_of_Visual_Tracking/MVSDF2.md
++++?include=slides/Technical_Survey_of_Visual_Tracking/MACE.md
++++?include=slides/Technical_Survey_of_Visual_Tracking/ASEF.md
++++?include=slides/Technical_Survey_of_Visual_Tracking/Links.md
 
 ---
 ### Fundamental Mathematics
