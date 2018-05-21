@@ -16,9 +16,12 @@ __手法__<br>
 @div[right]
 
 以上の式を行列形式に変換すると、以下のようになる。<br>
-`\begin{align} \boldsymbol{h}_{opt} &= \boldsymbol{C}^{-1} \boldsymbol{X} \boldsymbol{\Lambda} \\ \boldsymbol{X}^{T} \boldsymbol{C}^{-1} \boldsymbol{X} \boldsymbol{\Lambda} = \boldsymbol{u} \end{align}`
+`\begin{align} \boldsymbol{h}_{opt} &= \boldsymbol{C}^{-1} \boldsymbol{X} \boldsymbol{\Lambda} \\ \boldsymbol{X}^{T} \boldsymbol{C}^{-1} \boldsymbol{X} \boldsymbol{\Lambda} &= \boldsymbol{u} \end{align}`
 ただし<br>
-`\begin{align} \boldsymbol{X} &= \begin{pmatrix} \boldsymbol{x}_1 & \boldsymbol{x}_2 & \cdots & \boldsymbol{x}_{N} \end{pmatrix} \\ \boldsymbol{\Lambda} = { \begin{pmatrix} \lambda_1 & \lambda_2 & \cdots & \lambda_N \end{pmatrix} }^T \end{align}`
+`\begin{align} \boldsymbol{X} &= \begin{pmatrix} \boldsymbol{x}_1 & \boldsymbol{x}_2 & \cdots & \boldsymbol{x}_{N} \end{pmatrix} \\ \boldsymbol{\Lambda} &= { \begin{pmatrix} \lambda_1 & \lambda_2 & \cdots & \lambda_N \end{pmatrix} }^T \\ \boldsymbol{u} &= { \begin{pmatrix} u_1 & u_2 & \cdots & u_N \end{pmatrix} }^T \end{align}`
+`$\boldsymbol{X}^{T} \boldsymbol{C}^{-1} \boldsymbol{X}$`は正則なので、`$\boldsymbol{\Lambda}$`は一意に求まる。<br>
+ここでノイズが分散`$\sigma^2$`の白色ノイズであった場合、`$\boldsymbol{C} = \sigma^2 \boldsymbol{I} $`であるので、従来のSDFと等価であることが確認できる。しかし、実際のノイズは白色であるとは限らないため、`$ \boldsymbol{C}^{-1} $`の計算は計算量が大きい。
+`\begin{align} \sigma_{opt}^2 &= \boldsymbol{h}_{opt}^{T} \boldsymbol{C} \boldsymbol{h}_{opt} = ( \boldsymbol{C}^{-1} \boldsymbol{X} \boldsymbol{\Lambda} )^{T} \boldsymbol{C} ( \boldsymbol{C}^{-1} \boldsymbol{X} \boldsymbol{\Lambda} ) \\ &= \boldsymbol{\Lambda}^{T} \boldsymbol{X}^{T} \boldsymbol{C}^{-1} \boldsymbol{X} \boldsymbol{\Lambda} \end{align}`
 
 
 @divend
