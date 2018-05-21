@@ -15,5 +15,10 @@ __手法__<br>
 
 @div[right]
 
+以上の式を行列形式に変換すると、以下のようになる。<br>
+`\begin{align} \boldsymbol{h}_{opt} &= \boldsymbol{C}^{-1} \boldsymbol{X} \boldsymbol{\Lambda} \\ \boldsymbol{X}^{T} \boldsymbol{C}^{-1} \boldsymbol{X} \boldsymbol{\Lambda} = \boldsymbol{u} \end{align}`
+ただし<br>
+`\begin{align} \boldsymbol{X} &= \begin{pmatrix} \boldsymbol{x}_1 & \boldsymbol{x}_2 & \cdots & \boldsymbol{x}_{N} \end{pmatrix} \\ \boldsymbol{\Lambda} = { \begin{pmatrix} \lambda_1 & \lambda_2 & \cdots & \lambda_N \end{pmatrix} }^T \end{align}`
+
 
 @divend
