@@ -3,7 +3,7 @@
 @div[left]
 
 __概要__<br>
-従来のSDFはフィルタ`$h$`が学習サンプルの線型結合であるという制約下で問題を解いていたため、ノイズが乗った画像や学習サンプルに含まれない画像が与えられた場合に上手く検出できない。そこで本論文では、学習サンプルにノイズが乗っていることを仮定し、そのノイズを従来の制約下で最小化する最適化問題を解くことで、ノイズが乗った画像でも上手く検出できるMVSDFを提案した。<br>
+従来のSDFでは学習サンプルに乗っているとノイズについて言及されていなかった。本論文では、学習サンプルにノイズが乗っていることを仮定し、そのノイズを従来の制約条件下で最小化する最適化問題を解くことで、ノイズが乗った画像でも上手く検出できるMVSDFを提案した。<br>
 <br>
 __手法__<br>
 まず平均0のノイズベクトル`$\boldsymbol{n}$`が学習サンプルに乗っていると仮定する。また従来のSDFと同様にノイズが載っていない学習サンプル`$ \boldsymbol{x}_i $`に対して定数値`$u_j$`が得られるとする。しかし、実際はノイズによる寄与`$y (= \boldsymbol{h}^T \boldsymbol{n}) $`が発生する。この寄与`$y$`は以下の性質を示す。<br>
@@ -21,7 +21,7 @@ __手法__<br>
 `\begin{align} \boldsymbol{X} &= \begin{pmatrix} \boldsymbol{x}_1 & \boldsymbol{x}_2 & \cdots & \boldsymbol{x}_{N} \end{pmatrix} \\ \boldsymbol{\Lambda} &= { \begin{pmatrix} \lambda_1 & \lambda_2 & \cdots & \lambda_N \end{pmatrix} }^T \\ \boldsymbol{u} &= { \begin{pmatrix} u_1 & u_2 & \cdots & u_N \end{pmatrix} }^T \end{align}`
 `$\boldsymbol{X}^{T} \boldsymbol{C}^{-1} \boldsymbol{X}$`は正則なので、`$\boldsymbol{\Lambda}$`は一意に求まる。<br>
 ここでノイズが分散`$\sigma^2$`の白色ノイズであった場合、`$\boldsymbol{C} = \sigma^2 \boldsymbol{I} $`であるので、従来のSDFと等価であることが確認できる。しかし、実際のノイズは白色であるとは限らないため、`$ \boldsymbol{C}^{-1} $`の計算は計算量が大きい。
-`\begin{align} \sigma_{opt}^2 &= \boldsymbol{h}_{opt}^{T} \boldsymbol{C} \boldsymbol{h}_{opt} = ( \boldsymbol{C}^{-1} \boldsymbol{X} \boldsymbol{\Lambda} )^{T} \boldsymbol{C} ( \boldsymbol{C}^{-1} \boldsymbol{X} \boldsymbol{\Lambda} ) \\ &= \boldsymbol{\Lambda}^{T} \boldsymbol{X}^{T} \boldsymbol{C}^{-1} \boldsymbol{X} \boldsymbol{\Lambda} \end{align}`
+`\begin{align} \sigma_{opt}^2 &= \boldsymbol{h}_{opt}^{T} \boldsymbol{C} \boldsymbol{h}_{opt} = ( \boldsymbol{C}^{-1} \boldsymbol{X} \boldsymbol{\Lambda} )^{T} \boldsymbol{C} ( \boldsymbol{C}^{-1} \boldsymbol{X} \boldsymbol{\Lambda} ) \\ &= \boldsymbol{\Lambda}^{T} \boldsymbol{X}^{T} \boldsymbol{C}^{-1} \boldsymbol{X} \boldsymbol{\Lambda} \\ &= [( \boldsymbol{X}^{T} \boldsymbol{C}^{-1} \boldsymbol{X} )^{-1} \boldsymbol{u}]^T (\boldsymbol{X}^{T} \boldsymbol{C}^{-1} \boldsymbol{X}) [( \boldsymbol{X}^{T} \boldsymbol{C}^{-1} \boldsymbol{X} )^{-1} \boldsymbol{u}] \\ &= \boldsymbol{u}^T ( \boldsymbol{X}^{T} \boldsymbol{C}^{-1} \boldsymbol{X} )^{-1}  (\boldsymbol{X}^{T} \boldsymbol{C}^{-1} \boldsymbol{X}) ( \boldsymbol{X}^{T} \boldsymbol{C}^{-1} \boldsymbol{X} )^{-1} \boldsymbol{u} \\ &= \boldsymbol{u}^{T} (\boldsymbol{X}^{T} \boldsymbol{C}^{-1} \boldsymbol{X})^{T})^{-1} \boldsymbol{u} \end{align}`
 
 
 @divend
