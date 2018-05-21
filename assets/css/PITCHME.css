@@ -29,7 +29,7 @@
   padding-left: 2%;
 }
 
-.reveal code {
+.reveal div.MathJax_Display {
   font-size: 5px;
 }
 
