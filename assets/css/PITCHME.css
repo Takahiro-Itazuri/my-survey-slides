@@ -1,3 +1,7 @@
+.reveal section {
+  padding-top: 10px;
+}
+
 .reveal div {
   font-size: 16px;
   text-align: justify;
@@ -71,4 +75,8 @@
   box-shadow: none;
   margin: 0;
   padding: 0;
+}
+
+.reveal code {
+  font-size: 0.8em;
 }
