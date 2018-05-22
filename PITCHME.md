@@ -29,6 +29,7 @@
 
 ---
 ### CVPR 2017
+<!-- +++?include=slides/CVPR2017/Learning_Background-Aware_Correlation_Filters_for_Visual_Tracking.md -->
 
 ---
 ### CVPRW 2017
@@ -62,6 +63,7 @@
 ### CVPR 2016
 +++
 <!-- +++?include=slides/CVPR2016/Rethinking_the_Inception_Architecture_for_Computer_Vision.md -->
+<!-- +++?include=slides/CVPR2016/Structural_Correlation_Filter_for_Robust_Visual_Tracking.md -->
 <!-- +++include=slides/CVPR2016/Visual7W.md -->
 
 ---
@@ -71,6 +73,12 @@
 ---
 ### ECCVW 2016
 +++?include=slides/ECCVW2016/Fully-Convolutional_Siamese_Networks_for_Object_Tracking.md
+
+---
+### CVPR 2015
+<!-- +++?include=slides/CVPR2015/Real-time_Patch-based_Visual_Tracking_via_Adaptive_Correlation_Filters.md -->
+<!-- +++?include=slides/CVPR2015/Reliable_Patch_Trackers.md -->
+<!-- +++?include=slides/CVPR2015/Learning_to_Compare_Image_Patches_via_Convolutional_Neural_Networks.md -->
 
 ---
 ### ICCV 2015
@@ -94,6 +102,10 @@
 ### NIPS 2014
 <!-- +++include=sldies/NIPS2014/A_Multi-World_Approach_to_Question_Answering_about_Real-World_Scenes_based_on_Uncertain_Input.md -->
 <!-- +++include=slides/NIPS2014/Generative_Adversarial_Nets.md -->
+
+---
+### ECCV 2012
+<!-- +++?include=slides/ECCV2012/Exploiting_the_Circulant_Structure_of_Tracking-by-Detection_with_Kernels.md -->
 
 ---
 ### CVPR 2010
