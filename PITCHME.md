@@ -118,6 +118,7 @@
 +++?include=slides/Technical_Survey_of_Visual_Tracking/SDF.md
 +++?include=slides/Technical_Survey_of_Visual_Tracking/MVSDF1.md
 +++?include=slides/Technical_Survey_of_Visual_Tracking/MVSDF2.md
++++?include=slides/Technical_Survey_of_Visual_Tracking/CSDF.md
 +++?include=slides/Technical_Survey_of_Visual_Tracking/MACE.md
 +++?include=slides/Technical_Survey_of_Visual_Tracking/ASEF.md
 +++?include=slides/Technical_Survey_of_Visual_Tracking/Links.md
