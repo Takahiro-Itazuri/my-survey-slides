@@ -2,6 +2,9 @@
 
 @div[left]
 
+__概要__<br>
+本論文で紹介するSDFという手法はMultiple Exposure Techniqueから発想を得ている。SDFは複数枚の画像から、1枚のMatched Spatial Filterを生成する手法である。SDFは十分な学習サンプルが与えられた場合に、非常に良い結果を出す。<br>
+<br>
 __手法__<br>
 与えられた学習サンプル`$\boldsymbol{x}_i$`（ベクトル化済み）に対し、次のような制約を与える。<br>
 `\begin{align} u_i = \boldsymbol{h}^T \boldsymbol{x}_i \end{align}`
