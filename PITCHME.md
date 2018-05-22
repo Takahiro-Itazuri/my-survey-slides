@@ -129,3 +129,5 @@
 +++?include=slides/Fundamental_Mathematics/Convolution_Theorem.md
 +++?include=slides/Fundamental_Mathematics/Cross-Correlation_Theorem.md
 +++?include=slides/Fundamental_Mathematics/PCA.md
++++?include=slides/Fundamental_Mathematics/SVD.md
+
