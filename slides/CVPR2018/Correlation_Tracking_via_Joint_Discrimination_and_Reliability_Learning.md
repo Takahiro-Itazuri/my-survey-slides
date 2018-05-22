@@ -18,7 +18,7 @@ DRTにおけるフィルタは以下の式で与えられる。<br>
 
 @div[right]
 
-![DRT](assets/img/DRT.png =full)<br>
+![DRT](assets/img/DRTCF.png =full)<br>
 <br>
 
 __リンク__<br>
