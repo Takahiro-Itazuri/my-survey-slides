@@ -20,4 +20,11 @@ __手法__<br>
 
 @div[right]
 
+また上式に左から`$ \boldsymbol{u}_1^{T} $`をかけると、以下のようになる。<br>
+`\begin{align} \boldsymbol{u}_1^{T} \boldsymbol{S} \boldsymbol{u}_1 = \lambda_1 \boldsymbol{u}_1^{T} \boldsymbol{u}_1 = \lambda\1 \end{align}`
+以上より分散と固有値が等しいことがわかる。したがって、最大固有値`$\lambda_1$`を選んだとき、分散は最大となり、それ対応する固有ベクトルが第一主成分ベクトルになる。<br>
+<u>多次元空間への射影</u><br>
+すでに得られた主成分ベクトルと直交するという制約条件下で、射影後の分散を最大化する問題を解くことで、逐次的に主成分を求めることができる。したがって、`$M$`次元空間への射影を考える場合、分散行列の固有値を大きい順に並べた`$\lambda_1, \lambda_2, \cdots, \lambda_M$`に対応する固有ベクトル`$ \boldsymbol{u}_1, \boldsymbol{u}_2, \cdots, \boldsymbol{u}_M $`を求めることにより`$M$`個の主成分を得ることができる。
+
 @divend
+
