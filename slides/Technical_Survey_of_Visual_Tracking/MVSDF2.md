@@ -19,7 +19,7 @@
 @div[right]
 
 学習サンプルが固有ベクトルである場合、上述の学習サンプルが直行する場合の議論は一般性を失わない。また`$\boldsymbol{C}$`はすべての要素が正かつ対称であるため、正の固有値`$\alpha_i$`とそれに対応する固有ベクトル`$\boldsymbol{e}_i$`が存在する。このとき以下が成り立つ。<br>
-`\begin{align} \boldsymbol{X}^{T} \boldsymbol{CX} &= {\rm diag} (\alpha_{j_1}, \cdots, \alpha_{j_N}) \\ ( \boldsymbol{X}^{T} \boldsymbol{C}^{-1} \boldsymbol{X} )^{-1} = {\rm diag} (\alpha_{j_1}, \cdots, \alpha_{j_N}) \end{align}`
+`\begin{align} \boldsymbol{X}^{T} \boldsymbol{CX} &= {\rm diag} (\alpha_{j_1}, \cdots, \alpha_{j_N}) \\ ( \boldsymbol{X}^{T} \boldsymbol{C}^{-1} \boldsymbol{X} )^{-1} &= {\rm diag} (\alpha_{j_1}, \cdots, \alpha_{j_N}) \end{align}`
 以上より、どんな制約下でも`$F=1$`とする学習サンプルが存在することがわかる。またMVSDFの最適解とSDFの解が一致する学習サンプルが存在する。
 
 @divend
