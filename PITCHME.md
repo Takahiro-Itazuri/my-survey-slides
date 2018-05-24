@@ -84,8 +84,8 @@
 ---
 ### ICCV 2015
 <!-- +++?include=slides/ICCV2015/SRDCF.md -->
-<!-- +++?include=slides/ICCV2015/Learning_Spatialtemporal_Features_with_3D_Convolutional_Networks.md
-+++?include=slides/ICCV2015/VQA.md -->
+<!-- +++?include=slides/ICCV2015/Learning_Spatialtemporal_Features_with_3D_Convolutional_Networks.md -->
+<!-- +++?include=slides/ICCV2015/VQA.md  -->
 
 ---
 ### ICCVW 2015
@@ -101,8 +101,8 @@
 
 ---
 ### NIPS 2014
-<!-- +++include=sldies/NIPS2014/A_Multi-World_Approach_to_Question_Answering_about_Real-World_Scenes_based_on_Uncertain_Input.md -->
-<!-- +++include=slides/NIPS2014/Generative_Adversarial_Nets.md -->
+<!-- +++?include=sldies/NIPS2014/A_Multi-World_Approach_to_Question_Answering_about_Real-World_Scenes_based_on_Uncertain_Input.md -->
+<!-- +++?include=slides/NIPS2014/Generative_Adversarial_Nets.md -->
 
 ---
 ### ECCV 2012
@@ -127,6 +127,7 @@
 +++?include=slides/Survey_of_Visual_Tracking/Evaluation.md
 +++?include=slides/Survey_of_Visual_Tracking/Database.md
 +++?include=slides/Survey_of_Visual_Tracking/SpeedComparison.md
+
 ---
 ### Technical Survey of Visual Tracking
 +++?include=slides/Technical_Survey_of_Visual_Tracking/SDF.md
