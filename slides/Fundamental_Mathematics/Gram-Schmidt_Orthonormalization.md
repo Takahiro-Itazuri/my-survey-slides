@@ -2,14 +2,14 @@
 
 @div[left]
 
-__Abstract__
+__Abstract__<br>
 Gram-Schmidt Orthonormalization is a method for orthonormalizing a set of vectors in an inner product space, most commonly the Euclidean space `$ \mathbb{R}^n $` equipped with the standard inner product. The Gram-Schmidt Orthonormalization takes a finite, linearly independent set `$S = \left\{ v_1, \cdots, v_k \right\}$` for `$ k \leq n $` and generates a orthogonal set `$ S' = \left\{ u_1, \cdots, u_k \right\} $` that spans the same k-dimensional subspace of `$k$`-dimensional subspace of `$\mathbb{R}^n$` as `$S$`.
 
 @divend
 
 @div[right]
 
-__Method__
+__Method__<br>
 Define the projection operator as follows:<br>
 `\begin{align} {\rm proj}_{{\bf u}} ({\bf v}) = \frac{\langle {\bf u}, {\bf v} \rangle}{\langle {\bf u}, {\bf v} \rangle} {\bf u} \end{align}`
 where `$\langle {\bf u}, {\bf v} \rangle$` denotes the inner product of the vectors `${\bf u}$` and `${\bf v}$`.<br>
