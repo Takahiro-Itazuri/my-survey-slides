@@ -11,8 +11,6 @@ __手法__<br>
 `\begin{align} f \ast h &= 1 \\ f' \ast h &= 0 \\ g \ast h &= 0 \\ g' \ast h &= 0 \end{align}`
 これにより、positive sampleに対しては中心でのみ高いピークを持ち、negative sampleに対しては中心の周り（sidelobe）でも低い値を保つことができる。この制約条件下において、従来のSDFと同様の計算を行う。<br>
 <br>
-<u>Least-Squares SDF-2 Synthesis</u><br>
-
 
 @divend
 
@@ -20,7 +18,8 @@ __手法__<br>
 
 ![CSDF](assets/img/CSDF.png =full)<br>
 <br>
-
+<u>Least-Squares SDF-2 Synthesis</u><br>
+<br>
 <u>Peak-to-Sidelobe Ratio Maximized Correlation SDF-3 Synthesis</u><br>
 
 @divend
