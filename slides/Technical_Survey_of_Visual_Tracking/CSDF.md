@@ -26,6 +26,6 @@ __手法__<br>
 
 <u>Peak-to-Sidelobe Ratio Maximized Correlation SDF-3 Synthesis</u><br>
 `${{\bf h}}$`による`${{\bf f}}$`の写像を信号、`${{\bf g}}, {{\bf f}'}, {{\bf g}'}$`の写像を雑音と考える。このとき、それぞれの二乗平均`$\langle {\bf f} \cdot {\bf h} \rangle, \langle {\bf g} \cdot {\bf h} \rangle + \langle {\bf f}' \cdot {\bf h} \rangle + \langle {\bf g}' \cdot {\bf h} \rangle$`を考えたとき、Peak-to-Sidelobe Ratio（PSR）は以下の式で与えられる。<br>
-`begin{align} {\rm PSR} &= \frac{{\rm mean square signal (correct peak value)}}{{\rm sum of the mean square false peak (sidelobe values)}} \\ &= \frac{\langle {\bf f} \cdot {\bf h} \rangle}{\langle {\bf g} \cdot {\bf h} \rangle + \langle {\bf f}' \cdot {\bf h} \rangle + \langle {\bf g}' \cdot {\bf h} \rangle} \\ &= \frac{{\bf e}^{T} {\bf R}_{signal} {\bf e}}{{\bf e}^T {\bf R}_sidelobe {\bf e}} \end{align}`
+`\begin{align} {\rm PSR} &= \frac{{\rm mean square signal (correct peak value)}}{{\rm sum of the mean square false peak (sidelobe values)}} \\ &= \frac{\langle {\bf f} \cdot {\bf h} \rangle}{\langle {\bf g} \cdot {\bf h} \rangle + \langle {\bf f}' \cdot {\bf h} \rangle + \langle {\bf g}' \cdot {\bf h} \rangle} \\ &= \frac{{\bf e}^{T} {\bf R}_{signal} {\bf e}}{{\bf e}^T {\bf R}_sidelobe {\bf e}} \end{align}`
 
 @divend
