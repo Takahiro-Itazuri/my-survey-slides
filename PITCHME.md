@@ -146,4 +146,4 @@
 +++?include=slides/Fundamental_Mathematics/Cross-Correlation_Theorem.md
 +++?include=slides/Fundamental_Mathematics/PCA.md
 +++?include=slides/Fundamental_Mathematics/SVD.md
-+++?include=slides/Fundamental_Mathematics/Gram-Schmidt_Orthogonalization.md
++++?include=slides/Fundamental_Mathematics/Gram-Schmidt_Orthonormalization.md
