@@ -18,9 +18,12 @@ __手法__<br>
 @div[right]
 
 ![CSDF](assets/img/CSDF.png =full)<br>
-<br>
 <u>Least-Squares SDF-2 Synthesis</u><br>
-<br>
+次元圧縮後の学習サンプルを`${{\bf z}}$`とすると、新しいフィルタ`${\bf e}$`は以下の式で与えられる。<br>
+`\begin{align} {\bf Z}^T {\bf e} &= {\bf u} & {\bf Z} &= \begin{pmatrix} {\bf z}_{1} & \cdots & {\bf z}_{N_T} \end{pmatrix} \in \mathbb{R}^{d' \times N_T} \end{align}`
+このとき`${\bf Z} {\bf Z}^{T} \in \mathbb{R}^{d' \times d'}$`はフルランクであるので、一意に解を求めることができ、また以下の最小二乗近似と同じ解となる。<br>
+`\begin{align} J({\bf e}) = \sum_{i=1}^{N_T} ( {\bf z}_{i}^{T} {\bf e} - u_i )^2 \end{align}`
+
 <u>Peak-to-Sidelobe Ratio Maximized Correlation SDF-3 Synthesis</u><br>
 
 @divend
