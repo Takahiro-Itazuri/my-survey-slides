@@ -11,9 +11,9 @@ Gram-Schmidt Orthonormalization is a method for orthonormalizing a set of vector
 
 __Method__<br>
 Define the projection operator as follows:<br>
-`\begin{align} {\rm proj}_{{\bf u}} ({\bf v}) = \frac{\langle {\bf u}, {\bf v} \rangle}{\langle {\bf u}, {\bf v} \rangle} {\bf u} \end{align}`
-where `$\langle {\bf u}, {\bf v} \rangle$` denotes the inner product of the vectors `${\bf u}$` and `${\bf v}$`.<br>
+`\begin{align} {\rm proj}_{\boldsymbol{ u}} (\boldsymbol{ v}) = \frac{\langle \boldsymbol{ u}, \boldsymbol{ v} \rangle}{\langle \boldsymbol{ u}, \boldsymbol{ v} \rangle} \boldsymbol{ u} \end{align}`
+where `$\langle \boldsymbol{ u}, \boldsymbol{ v} \rangle$` denotes the inner product of the vectors `$\boldsymbol{ u}$` and `$\boldsymbol{ v}$`.<br>
 The Gram-Schmidt Orthogonalization then works as follows:<br>
-`\begin{align} {\bf u}_1 &= {\bf v}_1 & {\bf e}_1 &= \frac{{\bf u}_1}{\|{\bf u}\|_1} \\ {\bf u}_2 &= {\bf v}_2 - {\rm proj}_{{\bf u}_1} ({\bf v}_2) & {\bf e}_2 &= \frac{{\bf u}_2}{\|{\bf u}\|_2} \\ {\bf u}_3 &= {\bf v}_3 - {\rm proj}_{{\bf u}_1} ({\bf v}_3) - {\rm proj}_{{\bf u}_2} ({\bf v}_3) & {\bf e}_3 &= \frac{{\bf u}_3}{\|{\bf u}\|_3} \\ & \vdots & & \vdots \\ {\bf u}_k &= {\bf v}_k - \sum_{j=1}^{k-1} {\rm proj}_{{\bf u}_j} ({\bf v}_k) & {\bf e}_{k} &= \frac{{\bf u}_k}{\| {\bf u}_k \|} \end{align}`
+`\begin{align} \boldsymbol{ u}_1 &= \boldsymbol{ v}_1 & \boldsymbol{ e}_1 &= \frac{\boldsymbol{ u}_1}{\|\boldsymbol{ u}\|_1} \\ \boldsymbol{ u}_2 &= \boldsymbol{ v}_2 - {\rm proj}_{\boldsymbol{ u}_1} (\boldsymbol{ v}_2) & \boldsymbol{ e}_2 &= \frac{\boldsymbol{ u}_2}{\|\boldsymbol{ u}\|_2} \\ \boldsymbol{ u}_3 &= \boldsymbol{ v}_3 - {\rm proj}_{\boldsymbol{ u}_1} (\boldsymbol{ v}_3) - {\rm proj}_{\boldsymbol{ u}_2} (\boldsymbol{ v}_3) & \boldsymbol{ e}_3 &= \frac{\boldsymbol{ u}_3}{\|\boldsymbol{ u}\|_3} \\ & \vdots & & \vdots \\ \boldsymbol{ u}_k &= \boldsymbol{ v}_k - \sum_{j=1}^{k-1} {\rm proj}_{\boldsymbol{ u}_j} (\boldsymbol{ v}_k) & \boldsymbol{ e}_{k} &= \frac{\boldsymbol{ u}_k}{\| \boldsymbol{ u}_k \|} \end{align}`
 
 @divend
