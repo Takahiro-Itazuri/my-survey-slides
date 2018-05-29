@@ -9,6 +9,7 @@
 +++?include=slides/CVPR2018/Efficient_Diverse_Ensemble_for_Discriminative_Co-Tracking.md
 <!-- +++?include=slides/CVPR2018/End-to-End_Flow_Correlaion_Tracking_with_Spatial-temporal_Attention.md -->
 +++?include=slides/CVPR2018/End-to-End_Learning_of_Motion_Representation_for_Video_Understanding.md
++++?include=slides/CVPR2018/Im2Flow.md
 +++?include=slides/CVPR2018/Learning_Attentions_Residual_Attentional_Siamese_Network_for_High_Performance_Online_Visual_Tracking.md
 <!-- +++?include=slides/CVPR2018/Learning_Spatial-Aware_Regressions_for_Visual_Tracking.md -->
 <!-- +++?include=slides/CVPR2018/Learning_Spatial-Temporal_Regularized_Correlation_Filters_for_Visual_Tracking.md -->
