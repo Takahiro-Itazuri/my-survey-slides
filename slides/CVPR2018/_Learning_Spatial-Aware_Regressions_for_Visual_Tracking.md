@@ -13,7 +13,7 @@
     </ul><br>
     <u><b>Links</b></u><br>
     <ul>
-      <li><a href="https://arxiv.org/abs/1706.07457">paper</a></li>
+      <li><a href="https://arxiv.org/pdf/1706.07457.pdf">paper</a></li>
     </ul><br>
   </div>
   <div class="col">
