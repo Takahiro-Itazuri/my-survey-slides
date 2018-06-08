@@ -149,3 +149,4 @@
 +++?include=slides/Fundamental_Mathematics/PCA.md
 +++?include=slides/Fundamental_Mathematics/SVD.md
 +++?include=slides/Fundamental_Mathematics/Gram-Schmidt_Orthonormalization.md
++++?include=slides/Fundamental_Mathematics/Parseval's_Theorem.md
