@@ -7,7 +7,7 @@ __Continuous Fourier Transform__<br>
 `\begin{align} F(\mu) &= \int_{- \infty}^{\infty} f(x) e^{- 2 \pi j \mu x} dx \\ f(x) &= \frac{1}{2 \pi} \int_{- \infty}^{\infty} F(\mu) e^{2 \pi j \mu x} d \mu \end{align}`<br>
 <br>
 2D Continuous Fourier Transform<br>
-`\begin{align} F(\mu, \nu) &= \int_{- \infty}^{\infty} f(x, y) e^{-2 \pi j (\mu x + \nu y)} dx dy \\ f(x, y) &= \frac{1}{(2 pi)^2} \int_{- \infty}^{\infty} F(\mu, \nu) e^{2 \pi j (\mu x + \nu y)} d \mu du \end{align}`<br>
+`\begin{align} F(\mu, \nu) &= \int_{- \infty}^{\infty} f(x, y) e^{-2 \pi j (\mu x + \nu y)} dx dy \\ f(x, y) &= \frac{1}{(2 \pi)^2} \int_{- \infty}^{\infty} F(\mu, \nu) e^{2 \pi j (\mu x + \nu y)} d \mu du \end{align}`<br>
 <br>
 
 @divend
