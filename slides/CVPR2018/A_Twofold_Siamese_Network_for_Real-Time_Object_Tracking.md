@@ -1,21 +1,22 @@
 #### A Twofold Siamese Network for Real-Time Object Tracking
 ###### Anfeng He, Chong Luo, Xinmei Tian, Wenjun Zeng
-<div class="container">
-  <div class="col">
-    <u><b>Abstract</b></u><br>
-    Observing that Semenatic features learned in an image classification task and Appearance features learned in a similarity matching task complement each other, we build a twofold Siamese network, named <b>SA-Siam</b>, for real-time object tracking. SA-Siam is composed of a semantic branck and an appearance branch. Each branch is a similarity-learning Siamese network. An important design choice in SA-Siam is to seperately train the two branches to keep heterogeneity of the two types of features. In addition, we propose a chanle attention mechanism for the semantic branch.<br>
-    <u><b>Contribution</b></u><br>
-    <ul>
-      <li>We present the design of a twofold Siamese network for real-time object tracking.</li>
-      <li>We design a channel attention module to achieve target adaptation.</li>
-    </ul><br>
-    <u><b>Links</b></u><br>
-    <ul>
-      <li><a href="https://arxiv.org/abs/1802.08817">paper</a></li>
-    </ul><br>
-  </div>
-  <div class="col">
-    <img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/cfe9f70b92222cf27ca6da30aacbeb23cb345dda/3-Figure2-1.png">
-    <img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/cfe9f70b92222cf27ca6da30aacbeb23cb345dda/1-Figure1-1.png">
-  </div>
-</div>
+
+@div[left]
+
+__概要__<br>
+物体追跡手法の１つであるSiamFCは効率的なオフライン学習を行うことで、非常に高い識別性能を持つが、追跡対象の見た目の変化に弱かった。そこで、見た目特徴量とセマンティックな情報を別々に抽出する２つのSiamese Networkを利用することで、追跡対象の見た目変化にも強い物体追跡手法を提案した。セマンティックな情報を抽出するネットワークは画像分類タスクで学習させることで、見た目の変化に頑健な特徴量を抽出することが可能となる。<br>
+<br>
+__手法・新規性__<br>
+推論フェーズでは、それぞれのネットワークで別々に追跡対象画像と探索画像の類似度を計算し、それを統合する。セマンティックな情報を抽出するネットワークは、見た目変化には頑健ではあるが、識別性能は不十分であるため、与えれた追跡対象に反応するチャンネルの重要度を増やすChennel Attentionを追加する。これによって追跡対象に適応する最低限の機能を追加している。<br>
+
+@divend
+
+@div[right]
+
+[SA-Siam](assets/img/SA-Siam.png =full)<br>
+<br>
+
+__リンク__<br>
+・[論文](http://openaccess.thecvf.com/content_cvpr_2018/papers/He_A_Twofold_Siamese_CVPR_2018_paper.pdf)<br>
+
+@divend

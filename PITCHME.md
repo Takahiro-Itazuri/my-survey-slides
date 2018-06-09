@@ -3,12 +3,13 @@
 
 ---
 ### CVPR 2018
-<!-- +++?include=slides/CVPR2018/A_Twofold_Siamese_Network_for_Real-Time_Object_Tracking.md -->
++++?include=slides/CVPR2018/A_Twofold_Siamese_Network_for_Real-Time_Object_Tracking.md
 <!-- +++?include=slides/CVPR2018/Context-aware_Deep_Feature_Compression_for_High-speed_Visual_Tracking.md -->
 +++?include=slides/CVPR2018/Correlation_Tracking_via_Joint_Discrimination_and_Reliability_Learning.md
 +++?include=slides/CVPR2018/Efficient_Diverse_Ensemble_for_Discriminative_Co-Tracking.md
 <!-- +++?include=slides/CVPR2018/End-to-End_Flow_Correlaion_Tracking_with_Spatial-temporal_Attention.md -->
 +++?include=slides/CVPR2018/End-to-End_Learning_of_Motion_Representation_for_Video_Understanding.md
++++?include=slides/CVPR2018/High_Performance_Visual_Tracking_with_Siamese_Region_Proposal_Network.md
 +++?include=slides/CVPR2018/Im2Flow.md
 +++?include=slides/CVPR2018/Learning_Attentions_Residual_Attentional_Siamese_Network_for_High_Performance_Online_Visual_Tracking.md
 <!-- +++?include=slides/CVPR2018/Learning_Spatial-Aware_Regressions_for_Visual_Tracking.md -->
