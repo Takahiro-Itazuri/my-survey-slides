@@ -13,7 +13,7 @@ __手法・新規性__<br>
 
 @div[right]
 
-[SA-Siam](assets/img/SA-Siam.png =full)<br>
+![SA-Siam](assets/img/SA-Siam.png =full)<br>
 <br>
 
 __リンク__<br>
