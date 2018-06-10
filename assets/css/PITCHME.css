@@ -44,6 +44,34 @@
   padding-right: 2%;
 }
 
+.reveal div.one-fourth {
+  float: left;
+  width: 22%;
+  padding-right: 2%;
+  padding-left: 1%;
+}
+
+.reveal div.two-fourth {
+  float: left;
+  width: 23%;
+  padding-right: 1%;
+  padding-left: 1%;
+}
+
+.reveal div.three-fourth {
+  float: left;
+  width: 23%;
+  padding-right: 1%;
+  padding-left: 1%;
+}
+
+.reveal div.four-fourth {
+  float: left;
+  width: 22%;
+  padding-right: 1%;
+  padding-left: 2%;
+}
+
 .reveal div.whole {
   width: 96%;
   padding-right: 2%;
