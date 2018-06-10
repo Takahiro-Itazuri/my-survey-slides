@@ -17,6 +17,6 @@ DEDTは高い適応性と多様性を持つ識別器群であるCommitteeモデ�
 <br>
 
 __リンク__<br>
-・[論文](https://arxiv.org/pdf/1711.06564v1.pdf)<br>
+・[論文](http://openaccess.thecvf.com/content_cvpr_2018/papers/Meshgi_Efficient_Diverse_Ensemble_CVPR_2018_paper.pdf)<br>
 
 @divend
