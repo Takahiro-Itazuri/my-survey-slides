@@ -22,6 +22,6 @@ DRTにおけるフィルタは以下の式で与えられる。<br>
 <br>
 
 __リンク__<br>
-・[論文](https://arxiv.org/pdf/1804.08965.pdf)<br>
+・[論文](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sun_Correlation_Tracking_via_CVPR_2018_paper.pdf)<br>
 
 @divend
