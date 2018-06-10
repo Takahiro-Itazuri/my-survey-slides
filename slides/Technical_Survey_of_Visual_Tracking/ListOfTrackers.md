@@ -1,6 +1,6 @@
 #### List of Trackers
 
-@div[left]
+@div[one-third]
 
 <b>CVPR 2018</b><br>
 <ul>
@@ -11,11 +11,17 @@
 
 @divend
 
-@div[right]
+@div[two-third]
 
 <b>ICCV 2015</b><br>
 <ul>
   <li>[HCF](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Ma_Hierarchical_Convolutional_Features_ICCV_2015_paper.pdf)</li>
 </ul>
+
+@divend
+
+@div[three-third]
+
+
 
 @divend
