@@ -12,13 +12,12 @@ Cross-Correlationの理想の出力のフーリエ変換を`${\bf F}$`とする�
 `\begin{align} {\rm ASE} = \frac{1}{N} \sum_{i=1}^{N} \left( {\bf G}_i - {\bf F} \right)^{+} \left( {\bf G}_i {\bf F} \right)  \end{align}`
 UMACEはASEが最小にする`${\bf F}$`を最適と定義する。<br>
 `\begin{align} \nabla_{{\bf F}} {\rm ASE} &= \frac{2}{N} \sum_{i=1}^{N} \left( {\bf G}_i - {\bf F} \right) \\ {\bf F}_{\rm opt} &= \frac{1}{N} \sum_{i=1}^{N} {\bf G}_i = \overline{{\bf G}} = \frac{1}{N} \sum_{i=1}^{N} {\bf X}^{\ast}_i {\bf H} = \overline{{\bf X}}^{\ast} {\bf H} \end{align}`
-このとき
+このとき各Cross-Correlationと最適なCross-Correlation`$\overline{{bf G}}$`の二乗誤差平均（ASM）は以下のようになる。<br>
 
 @divend
 
 @div[right]
 
-![](path/to/img =full)<br>
-<br>
+`\begin{align} {\rm ASM} &= \frac{1}{N} \sum_{i=1}^{N} \left( {\bf G}_i - \overline{{\bf G}} \right)^{+} \left( {\bf G}_i - \overline{{\bf G}} \right) \\ &= \frac{1}{N} \sum_{i=1}^{N} \left( {\bf X}_i^{\ast} {\bf H} - \overline{{\bf X}}^{\ast} {\bf H} \right)^{+} \left( {\bf X}_i^{\ast} {\bf H} - \overline{{\bf X}}^{\ast} {\bf H} \right) \\ &= {\bf H}^{+} \left[ frac{1}{N} \sum_{i=1}^{N} \left( {\bf X}_i - \overline{{\bf X}} \right)^{\ast} \left( {\bf X}_i - \overline{{\bf X}} \right) \right] \\ &= {\bf H}^{+} {\bf S}_x {\bf H} \end{align}`
 
 @divend
