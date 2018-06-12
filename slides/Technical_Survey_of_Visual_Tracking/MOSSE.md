@@ -23,7 +23,7 @@ UMACEは`$H^{\ast} = D^{-1} m^{\ast} $`で与えられるが、`$D$`は画像の
 `\begin{align} H^{\ast} = \frac{ \sum_i F_i^{\ast} }{ \sum_i F_i \odot \sum_i F_i^{\ast} } \end{align}`
 UMACEは相関出力の中心がピークになるため、`$G_i$`にデルタ関数を設定した場合と同じとなる。<br>
 ASEFは以下のように変形できる。<br>
-`\begin{align} H^{\ast} &= \frac{1}{N} \sum_i H_i^{\ast} = \frac{1}{N} \sum_i \frac{G_i}{F_i} \\ &= \frac{1}{N \sum_i \frac{G_i \odot F^{\ast} }{ F_i \odot F_i^{\ast} } \end{align}`
-ASEFは学習サンプル数が少ない時に、分母が小さくなり不安定になる可能性がある。一方でMOSSEは割り算が行われる前に、学習サンプル全体で総和を取るため安定しやすい。この問題は分母に正則化項`$\epsilon$`を入れることでも緩和できる。
+`\begin{align} H^{\ast} &= \frac{1}{N} \sum_i H_i^{\ast} = \frac{1}{N} \sum_i \frac{G_i}{F_i} \\ &= \frac{1}{N} \sum_i \frac{G_i \odot F^{\ast}}{F_i \odot F_i^{\ast}} \end{align}`
+ASEFは学習サンプル数が少ない時に、分母が小さくなり不安定になる可能性がある。一方でMOSSEは割り算が行われる前に、学習サンプル全体で総和を取るため安定しやすい。
 
 @divend
