@@ -1,5 +1,5 @@
-#### Title
-###### Authors
+#### Visual Object Tracking using Adaptive Correlation Filters
+###### David S. Bolme, J. Ross Beveridge, Bruce A. Draper, Yui Man Lui
 
 @div[left]
 
