@@ -9,7 +9,7 @@ __手法__<br>
 `$i$`番目の学習サンプル画像をベクトル化したものを`${\bf x}_i$`とし、その離散フーリエ変換(DFT)を`${\bf X}_i$`とする。またそれを並べたものを`${\bf X} = \begin{pmatrix} {\bf X}_1 & \cdots & {\bf X}_N \end{pmatrix}$`とする。また求めるフィルタ画像をベクトル化したものを`${\bf h}$`とし、そのDFTを`${\bf H}$`とする。`$i$`番目の画像の第`$n$`成分`$x_i (n)$`に対し、フィルタの第`$n$`成分`$h(n)$`を適用した結果を`$g_i (n)$`とし、そのDFTを`$G_i$`とすると、Parseval's Theoremより相関エネルギー`$E_i$`は以下のようになる。<br>
 `\begin{align} E_i = \sum_{n=1}^{d} | g_i (n) |^2 = \frac{1}{d} \sum_{k=1}^{d} |G_i (k)|^2 = \frac{1}{d} \sum_{k=1}^{d} |H(k)|^2 |X_i (k)|^2 \end{align}`
 上式は以下のように書き換えることができる。<br>
-`\begin{align} E_i = {bf H}^{+} {\bf D}_i {\bf H} \end{align}`
+`\begin{align} E_i = {\bf H}^{+} {\bf D}_i {\bf H} \end{align}`
 `$ {\bf H}^{+} $`は`$ {\bf H} $`の共役転置であり、`${\bf D}_i$`は`$ \| X_i (k) \|^2 $`を対角成分に持つ行列である。<br>
 ここで、相関空間の以上の議論から、解きたい問題は以下のようになる。<br>
 `\begin{align} {\bf X}^{+} {\bf H} = {\bf u} \end{align}`

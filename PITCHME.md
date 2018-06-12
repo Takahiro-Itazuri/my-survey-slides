@@ -140,8 +140,8 @@
 +++?include=slides/Technical_Survey_of_Visual_Tracking/CSDF.md
 +++?include=slides/Technical_Survey_of_Visual_Tracking/MACE.md
 +++?include=slides/Technical_Survey_of_Visual_Tracking/ASEF.md
++++?include=slides/Technical_Survey_of_Visual_Tracking/List.md
 +++?include=slides/Technical_Survey_of_Visual_Tracking/Links.md
-+++?include=slides/Technical_Survey_of_Visual_Tracking/ListOfTrackers.md
 
 ---
 ### Fundamental Mathematics
