@@ -19,7 +19,7 @@ MOSSEの更新式は以下の通り。
 
 ![MOSSE](assets/img/MOSSE.png =full)<br>
 <br>
-UMACEは`$H^{\ast} = D^{-1} m^{\ast} $`で与えられるが、`$D$`は画像のパワースペクトルを対角成分に持つ行列であるため、以下のような変形できる。<br>
+UMACEは以下のような変形できる。<br>
 `\begin{align} H^{\ast} = \frac{ \sum_i F_i^{\ast} }{ \sum_i F_i \odot \sum_i F_i^{\ast} } \end{align}`
 ASEFは以下のように変形できる。<br>
 `\begin{align} H^{\ast} &= \frac{1}{N} \sum_i H_i^{\ast} = \frac{1}{N} \sum_i \frac{G_i}{F_i} \\ &= \frac{1}{N} \sum_i \frac{G_i \odot F^{\ast}}{F_i \odot F_i^{\ast}} \end{align}`
