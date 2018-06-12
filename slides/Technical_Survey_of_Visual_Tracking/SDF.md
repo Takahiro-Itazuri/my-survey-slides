@@ -9,7 +9,7 @@ __手法__<br>
 与えられた学習サンプル`$\boldsymbol{x}_i$`（ベクトル化済み）に対し、次のような制約を与える。<br>
 `\begin{align} u_i = \boldsymbol{h}^T \boldsymbol{x}_i \end{align}`
 ただし<br>
-`\begin{align} u_i &= 0 & {\rm (negative \;\; sample)} \\ u_i &= 1 & {\rm (positive \;\; sample)} \end{align}`
+`\begin{align} u_i &= 0 & {\rm (negative \; sample)} \\ u_i &= 1 & {\rm (positive \; sample)} \end{align}`
 しかし、与えられた学習画像の枚数が`$\boldsymbol{w}$`の自由度より小さい場合、解が一意に定まらない。そこでSDFは`$\boldsymbol{h}$`が学習サンプル`$\boldsymbol{x}_i$`の線型結合で与えられるという追加の制約を設ける。<br>
 `\begin{align} \boldsymbol{h} = \sum_{i=1}^{N} a_i \boldsymbol{x}_i \end{align}`
 以上より、上述の制約条件を満たす係数`$ a_1, a_2, \cdots, a_N $`を求める問題に帰着する。<br>
@@ -21,7 +21,8 @@ __手法__<br>
 
 @div[right]
 
-![SDF](assets/img/SDF.png =full)
+![SDF](assets/img/SDF.png =full)<br>
+<br>
 
 行列`$\boldsymbol{X}^T \boldsymbol{X}$`はフルランクでない可能性があるため、Gram-Schmidtの直交化法などを用いて、行列`$ \boldsymbol{X}^T \boldsymbol{X} $`を正則にする必要がある。<br>
 以上から、以下の式が導出される。<br>
