@@ -18,7 +18,7 @@ MOSSEの更新式は以下の通り。
 
 @div[right]
 
-![](path/to/img =full)<br>
+![MOSSE](assets/img/MOSSE.png =full)<br>
 <br>
 
 __リンク__<br>
