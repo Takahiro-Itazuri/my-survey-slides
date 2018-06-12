@@ -3,19 +3,23 @@
 @div[left]
 
 以上より、負のサンプルを含めた基準は以下のようになる。<br>
-`\begin{align} J' ({\bf h}) = \frac{ {\bf h}^{+} \overline{{\bf x}} \overline{{\bf x}}^{+} {\bf h} }{ {\bf h}^{+} \left( {\bf S}_x + {\bf D}_y \right) {\bf h }} \end{align}`
-UMACEは基準`$J'({\bf h})$`を最大化させる問題を解く。<br>
-`\begin{align} \nabla_{{\bf h}} \left[ J' ({\bf h}) \right] &= 2 \frac{ \overline{{\bf x}} \overline{{\bf x}}^{+} {\bf h} }{ {\bf h}^{+} \left( {\bf S}_x + {\bf D}_y \right) {\bf h} } - 2 \frac{ \left( {\bf h}^{+} \overline{{\bf x}} \overline{{\bf x}}^{+} {\bf h} \right) \left( {\bf S}_x + {\bf D}_y \right) {\bf h} }{ \left[ {\bf h}^{+} \left( {\bf S}_x + {\bf D}_y \right) {\bf h} \right]^2 } = {\bf 0} \\ \frac{1}{ {\bf h}^{+} \left( {\bf S}_x + {\bf D}_y \right) {\bf h} } \left[ \overline{{\bf x}} \overline{{\bf x}}^{+} {\bf h} - \lambda \left( {\bf S}_x + {\bf D}_y \right) {\bf h} \right] = {\bf 0} \end{align}`
+`\begin{align} J' (\overline{h}) = \frac{ \overline{h}^{+} \overline{\overline{x}} \overline{\overline{x}}^{+} \overline{h} }{ \overline{h}^{+} \left( \overline{S}_x + \overline{D}_y \right) \overline{h }} \end{align}`
+UMACEは基準`$J'(\overline{h})$`を最大化させる問題を解く。<br>
+`\begin{align} \nabla_{\overline{h}} \left[ J' (\overline{h}) \right] &= 2 \frac{ \overline{\overline{x}} \overline{\overline{x}}^{+} \overline{h} }{ \overline{h}^{+} \left( \overline{S}_x + \overline{D}_y \right) \overline{h} } - 2 \frac{ \left( \overline{h}^{+} \overline{\overline{x}} \overline{\overline{x}}^{+} \overline{h} \right) \left( \overline{S}_x + \overline{D}_y \right) \overline{h} }{ \left[ \overline{h}^{+} \left( \overline{S}_x + \overline{D}_y \right) \overline{h} \right]^2 } = \overline{0} \\ \frac{1}{ \overline{h}^{+} \left( \overline{S}_x + \overline{D}_y \right) \overline{h} } \left[ \overline{\overline{x}} \overline{\overline{x}}^{+} \overline{h} - \lambda \left( \overline{S}_x + \overline{D}_y \right) \overline{h} \right] = \overline{0} \end{align}`
 ただし、<br>
-`\begin{align} \lambda = \frac{ {bf h}^{+} \overline{{\bf x}} \overline{{\bf x}}^{+} {\bf h} }{ {\bf h}^{+} \left( {\bf S}_x + {\bf D}_y \right) {\bf h} } \end{align}`
+`\begin{align} \lambda = \frac{ {bf h}^{+} \overline{\overline{x}} \overline{\overline{x}}^{+} \overline{h} }{ \overline{h}^{+} \left( \overline{S}_x + \overline{D}_y \right) \overline{h} } \end{align}`
 上式は以下と等価である。<br>
-`\begin{align} \overline{{\bf x}} \overlin{{\bf x}}^{+} {\bf h} - \lambda \left( {\bf S}_x + {\bf D}_y \right) &= {\bf 0} \\ \left( {\bf S}_x + {\bf D}_y \right)^{-1} \overline{{\bf x}} \overline{{\bf x}}^{+} {\bf h} &= \lambda {\bf h} \end{align}`
-このとき、`${\bf h}$`は`$ \left( {\bf S}_x + {\bf D}_y \right)^{-1} \overline{{\bf x}} \overline{{\bf x}}^{+} $`の固有ベクトルとなる。また`$\lambda = J({\bf h})$`なので、`${\bf h}$`は最大固有値に対応する固有ベクトルである。さらに`${\bf S}_x + {\bf D}_y$`が対角行列であり、`$\overline{{\bf x}} \overline{{\bf x}}^{+}$`はベクトルの直積であるから、固有値はただ１つしか存在しない。このようにして固有ベクトル`${\bf h}$`が得られたとき、`$\overline{{\bf x}}^{+} {\bf h} = \alpha$`が自動的に与えられるため、以下のように書きなおすことができる。<br>
-`\begin{align} \alpha \left( {\bf S}_x + {\bf D}_y \right)^{-1} \overline{{\bf x}} &= \lambda {\bf h} \\ {\bf h} &= c \left( {\bf S}_x + {\bf D}_y \right)^{-1} \overline{{\bf x}} \; \left( c = \frac{\alpha}{\lambda} \right) \end{align}`
+`\begin{align} \overline{\overline{x}} \overlin{\overline{x}}^{+} \overline{h} - \lambda \left( \overline{S}_x + \overline{D}_y \right) &= \overline{0} \\ \left( \overline{S}_x + \overline{D}_y \right)^{-1} \overline{\overline{x}} \overline{\overline{x}}^{+} \overline{h} &= \lambda \overline{h} \end{align}`
+このとき、`$\overline{h}$`は`$ \left( \overline{S}_x + \overline{D}_y \right)^{-1} \overline{\overline{x}} \overline{\overline{x}}^{+} $`の固有ベクトルとなる。また`$\lambda = J(\overline{h})$`なので、`$\overline{h}$`は最大固有値に対応する固有ベクトルである。さらに`$\overline{S}_x + \overline{D}_y$`が対角行列であり、`$\overline{\overline{x}} \overline{\overline{x}}^{+}$`はベクトルの直積であるから、固有値はただ１つしか存在しない。このようにして固有ベクトル`$\overline{h}$`が得られたとき、`$\overline{\overline{x}}^{+} \overline{h} = \alpha$`が自動的に与えられるため、以下のように書きなおすことができる。<br>
+`\begin{align} \alpha \left( \overline{S}_x + \overline{D}_y \right)^{-1} \overline{\overline{x}} &= \lambda \overline{h} \\ \overline{h} &= c \left( \overline{S}_x + \overline{D}_y \right)^{-1} \overline{\overline{x}} \; \left( c = \frac{\alpha}{\lambda} \right) \end{align}`
 
 @divend
 
 @div[right]
 
+またASMは以下のように展開することができる。<br>
+`\begin{align} {\rm ASM} &= \overline{h}^{+} \left[ \frac{1}{N} \sum_{i=1}^{N} \left( \overline{X}_i - \overline{\overline{X} \right)^{\ast} \left( \overline{X}_i - \overline{\overline{X} \right) \right] \overline{h} \\ &= \overline{h}^{+} \left( \frac{1}{}N} \sum_{i=1}^{N} \overline{X}_i \overline{X}_i^{\ast} \right) \overline{h} - \overline{h}^{+} \overline{\overline{X}} \overline{\overline{X}}^{\ast} \overline{h} \\ \overline{h}^{+} \overline{D}_x \overline{h} - \overline{h}^{+} \overline{\overline{X}} \overline{\overline{X}}^{\ast} \overline{h} \end{align}`
+したがって、`$ \overline{h}^{+} \overline{\overline{X}} \overline{\overline{X}}^{\ast} \overline{h} $`が十分小さいとき、以下のようになる。<br>
+`\begin{align} \overline{h} = \overline{D} \overline{\overline{x}} \end{align}`
 
 @divend
