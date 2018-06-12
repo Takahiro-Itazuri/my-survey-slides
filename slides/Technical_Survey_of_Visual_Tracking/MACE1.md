@@ -24,7 +24,6 @@ MACEではパワースペクトル行列`${\bf D}_i$`を重み付けした`${\bf
 以上を用いて、ラグランジュの未定乗数法よりMACEは以下を最小化する問題に定式化できる。<br>
 `\begin{align} {\bf H}^{+} {\bf DH} - \sum_{i=1}^{N} \lambda_i {\bf H}^{+} {\bf X}_i - u_i \end{align}`
 これを`${\bf H}$`で微分すると、以下のようになる。<br>
-`\begin{align} {\bf DH} &= \sum_{i=1}^{N} \lambda_i {\bf X}_i \\ {\bf H} &= \sum_{i=1}^{N} \lambda_i {\bf D}^{-1} {\bf X}_i = {\bf D}^{-1} {\bf X} {\bf \Lambda} \end{align}`
-
+`\begin{align} {\bf DH} &= \sum_{i=1}^{N} \lambda_i {\bf X}_i \\ {\bf H} &= \sum_{i=1}^{N} \lambda_i {\bf D}^{-1} {\bf X}_i = {\bf D}^{-1} {\bf X} {\bf \Lambda} \;\; \left( {\bf Lambda} = {\begin{bmatrix} \lambda_1 & \lambda_2 & \cdots \lambda_N  \end{bmatrix}}^{+} \right) \end{align}`
 
 @divend
