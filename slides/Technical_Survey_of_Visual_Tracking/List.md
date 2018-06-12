@@ -37,13 +37,7 @@
 
 @divend
 
-@div[three-fourht]
-
-
-
-@divend
-
-@div[four-fourth]
+@div[three-fourth]
 
 <b>CVPR 2010</b><br>
 <ul>
@@ -55,11 +49,16 @@
   <li>[ASEF](http://www.cs.colostate.edu/~vision/publications/Bolme2009Asef.pdf)</li>
 </ul>
 <br>
+
+@divend
+
+@div[four-fourth]
+
 <b>Applied Optics 1994</b><br>
 <ul>
   <li>[UMACE](https://www.osapublishing.org/ao/abstract.cfm?uri=ao-33-17-3751)</li>
 </ul>
-
+<br>
 <b>Optical Engineering 1992</b><br>
 <ul>
   <li>[MSESDF](https://www.spiedigitallibrary.org/journals/Optical-Engineering/volume-31/issue-5/0000/Minimum-squared-error-synthetic-discriminant-functions/10.1117/12.56169.short?SSO=1)</li>
@@ -80,7 +79,7 @@
   <li>[MVSDF](https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-3-10-1579)</li>
 </ul>
 <br>
-<b>Applied Optics 1980<b><br>
+<b>Applied Optics 1980</b><br>
 <ul>
   <li>[SDF](https://www.osapublishing.org/ao/abstract.cfm?uri=ao-19-11-1758)</li>
 </ul>
