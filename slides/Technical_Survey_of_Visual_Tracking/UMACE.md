@@ -12,7 +12,7 @@ Cross-Correlationの理想の出力のフーリエ変換を`$\boldsymbol{f}$`と
 `\begin{align} {\rm ASE} = \frac{1}{N} \sum_{i=1}^{N} \left( \boldsymbol{g}_i - \boldsymbol{f} \right)^{+} \left( \boldsymbol{g}_i \boldsymbol{f} \right)  \end{align}`
 UMACEはASEが最小にする`$\boldsymbol{f}$`を最適と定義する。<br>
 `\begin{align} \nabla_{\boldsymbol{f}} {\rm ASE} &= \frac{2}{N} \sum_{i=1}^{N} \left( \boldsymbol{g}_i - \boldsymbol{f} \right) \\ \boldsymbol{f}_{\rm opt} &= \frac{1}{N} \sum_{i=1}^{N} \boldsymbol{g}_i = \overline{\boldsymbol{g}} = \frac{1}{N} \sum_{i=1}^{N} \boldsymbol{X}^{\ast}_i \boldsymbol{h} = \overline{\boldsymbol{X}}^{\ast} \boldsymbol{h} \end{align}`
-このとき各Cross-Correlationと最適なCross-Correlation`$\overline{{bf g}}$`の二乗誤差平均（ASM）は以下のようになる。<br>
+このとき各Cross-Correlationと最適なCross-Correlation`$\overline{{\bf g}}$`の二乗誤差平均（ASM）は以下のようになる。<br>
 
 @divend
 
@@ -23,5 +23,10 @@ Correlation Planeのピークは以下の通り。<br>
 `\begin{align} |\overline{g} (O)|^2 = \boldsymbol{h}^{+} \overline{\boldsymbol{x}} \overline{\boldsymbol{x}}^{+} \boldsymbol{h} \end{align}`
 UMACEは以下を基準として用いる。<br>
 `\begin{align} J(\boldsymbol{h}) = \frac{\boldsymbol{h}^{+} \overline{\boldsymbol{x}} \overline{\boldsymbol{x}}^{+} \boldsymbol{h} }{ \boldsymbol{h}^{+} \boldsymbol{S}_x \boldsymbol{h} } \end{align}`
+ここで負のサンプルについても考える。`$i$`番目の負のサンプルのフーリエ変換を`${bf y}_i$`、これを対角成分に並べた行列を`${\bf Y}_i$`とするとき、相関エネルギーの平均（ACE）は以下の通り。<br>
+`\begin{align} {\rm ACE} &= \frac{1}{N} \sum_{i=1}^{N} {\bf h}^{+} {\bf Y}_i {\bf Y}_{i}^{\ast} {\bf h} \\ &= {\bf h}^{+} \left( \frac{1}{N} \sum_{i=1}^{N} {\bf Y}_i {\bf Y}_i^{\ast} \right) {\bf h} = {\bf h}^{+} {\bf D}_y {\bf h} \end{align}`
+以上より、負のサンプルを含めた記述は以下のようになる。<br>
+`\begin{align} J' ({\bf h}) = \frac{{\bf h}^{+} \overline{{\bf x}} \overline{{\bf x}}^{+} {\bf h} }{ {\bf h}^{+} \left( {\bf S}_x + {\bf D}_y \right) {\bf h } \end{align}`
+UMACEは基準`$J'({\bf h})$`を最大化させる問題を解く。したがって、これを`${\bf h}$`で微分する。
 
 @divend
