@@ -11,7 +11,7 @@ __手法__<br>
 上式は以下のように書き換えることができる。<br>
 `\begin{align} E_i = {\bf H}^{+} {\bf D}_i {\bf H} \end{align}`
 `$ {\bf H}^{+} $`は`$ {\bf H} $`の共役転置であり、`${\bf D}_i = diag \left\{ | X_i (k) |^2 \right\} $`であり、パワースペクトルを対角成分に持った行列である。また制約条件は以下の通り。<br>
-`\begin{align} {\bf X}^{+} {\bf H} = {\bf u} && \left( {\bf X} &= \begin{bmatrix} {\bf X}_1 & {\bf X}_2 & \cdots & {\bf X}_N \end{bmatrix} \right) \end{align}`
+`\begin{align} {\bf X}^{+} {\bf H} = {\bf u} \;\;\; \left( {\bf X} = \begin{bmatrix} {\bf X}_1 & {\bf X}_2 & \cdots & {\bf X}_N \end{bmatrix} \right) \end{align}`
 
 @divend
 
