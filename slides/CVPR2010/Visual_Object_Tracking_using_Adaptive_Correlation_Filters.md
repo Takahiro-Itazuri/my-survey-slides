@@ -8,7 +8,7 @@ ASEFやUMACEは非常に高速である一方で、物体追跡タスクでは�
 <br>
 __手法・新規性__<br>
 `$i$`番目の学習画像を`$f_i$`、それに対応する正解の相関出力を`$g_i$`とし、それぞれのフーリエ変換を`$F_i$`と`$G_i$`とする。このとき、MOSSEフィルタは求めたいフィルタ`$h$`のフーリエ変換`$H$`は、実際の相関出力と正解の相関出力の誤差の二乗和を最小化することで得る。<br>
-`\begin{align} {\rm min}\limits_{H^{\ast}} \sum_i | F_i \odot H^{\ast} - G_i |^2 \end{align}`
+`\begin{align} \mathop{\rm min}\limits_{H^{\ast}} \sum_i | F_i \odot H^{\ast} - G_i |^2 \end{align}`
 この問題は周波数領域において各要素で独立に解くことができる。<br>
 `\begin{align} 0 &= \frac{\partial}{\partial H_{\omega \nu}^{\ast}} \sum_i | F_{\omega \nu} |^2 \\ 0 &= \frac{\partial}{\partial H_{\omega \nu}^{\ast}} \sum_i \left( F_{i \omega \nu} H_{\omega \nu}^{\ast} - G_{i \omega \nu} \right) \left( F_{i \omega \nu} H_{\omega \nu}^{\ast} - G_{i \omega \nu} \right)^{\ast} \\ 0 &= \sum_i | F_{i \omega \nu} F_{i \omega \nu}^{\ast} H_{\omega \nu} - F_{\i \omega nu} G_{i \omega \nu}^{\ast} | \\ H_{\omega \nu} = \frac{ \sum_i F_{i \omega \nu} G_{i \omega \nu}^{\ast} }{ \sum_i F_{i \omega \nu} F_{i \omega \nu}^{\ast} } \\ H &= \frac{ \sum_i F_i \odot G_i^{\ast} }{ \sum_i F_i \odot F_i^{\ast} } \end{align}`
 上式からMOSSEはUMACEの一般形となっていることがわかる。
