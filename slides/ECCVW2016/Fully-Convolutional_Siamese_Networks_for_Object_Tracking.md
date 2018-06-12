@@ -26,8 +26,8 @@ __リンク__<br>
 ・[論文](https://arxiv.org/pdf/1606.09549.pdf)<br>
 ・[プロジェクト](https://www.robots.ox.ac.uk/~luca/siamese-fc.html)<br>
 ・[MATLAB code (original)](https://github.com/bertinetto/siamese-fc)<br>
-・[Python+TensorFlow (by torrvision)](https://github.com/torrvision/siamfc-tf)<br>
-・[Python+TensorFlow (by www0wwwjs1)](https://github.com/www0wwwjs1/tensorflow-siamese-fc)
+・[Python+TensorFlow code (by torrvision)](https://github.com/torrvision/siamfc-tf)<br>
+・[Python+TensorFlow code (by www0wwwjs1)](https://github.com/www0wwwjs1/tensorflow-siamese-fc)<br>
 ・[発表動画](https://youtu.be/jZoUalMMZ_0)<br>
 ・[スライド１（VOT 2016）](http://data.votchallenge.net/vot2016/presentations/presentation_Bertinetto.pdf)<br>
 ・[スライド２](https://pdfs.semanticscholar.org/presentation/4c91/827cceb97183c4d48ca09e1c7587577c8d54.pdf)<br>

@@ -114,7 +114,7 @@
 
 ---
 ### CVPR 2010
-<!--+++?include=slides/CVPR2010/Visual_Object_Tracking_using_Adaptive_Correlation_Filters.md-->
++++?include=slides/CVPR2010/Visual_Object_Tracking_using_Adaptive_Correlation_Filters.md
 
 ---
 ### CVPR 2009
