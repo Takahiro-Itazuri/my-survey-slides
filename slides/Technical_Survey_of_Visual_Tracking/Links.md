@@ -11,6 +11,7 @@
 ・[David Casasent et al. "Correlation Synthetic Discriminant Function" (1986)](https://www.osapublishing.org/ao/abstract.cfm?uri=ao-25-14-2343)<br>
 ・[Abhijit Mahalanobis et al. "Minimum Average Correlation Energy Filters" (1987)](https://www.osapublishing.org/ao/abstract.cfm?uri=ao-26-17-3633)<br>
 ・[N. V. K. Vijaya Kumar et al. "Minimum Squared Error Synthetic Discriminant Functions" (1992)](https://www.spiedigitallibrary.org/journals/Optical-Engineering/volume-31/issue-5/0000/Minimum-squared-error-synthetic-discriminant-functions/10.1117/12.56169.full?SSO=1)<br>
+・[Abhijit Mahalanobix et al. "Unconstarined Correlation Filters"](https://www.osapublishing.org/ao/abstract.cfm?uri=ao-33-17-3751)<br>
 ・[David S. Bolme et al. "Average of Synthetic Exact Filters" (2009)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.492.7927&rep=rep1&type=pdf)<br>
 ・[David S. Bolme et al. "Visual Object Tracking using Adaptive Correlation Filters" (2010)](http://www.cs.colostate.edu/~vision/publications/bolme_cvpr10.pdf)
 
