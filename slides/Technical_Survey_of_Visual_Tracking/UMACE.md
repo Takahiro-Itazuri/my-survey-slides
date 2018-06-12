@@ -12,6 +12,7 @@ Cross-Correlationの理想の出力のフーリエ変換を`${\bf F}$`とする�
 `\begin{align} {\rm ASE} = \frac{1}{N} \sum_{i=1}^{N} \left( {\bf G}_i - {\bf F} \right)^{+} \left( {\bf G}_i {\bf F} \right)  \end{align}`
 UMACEはASEが最小にする`${\bf F}$`を最適と定義する。<br>
 `\begin{align} \nabla_{{\bf F}} {\rm ASE} &= \frac{2}{N} \sum_{i=1}^{N} \left( {\bf G}_i - {\bf F} \right) \\ {\bf F}_{\rm opt} &= \frac{1}{N} \sum_{i=1}^{N} {\bf G}_i = \overline{{\bf G}} = \frac{1}{N} \sum_{i=1}^{N} {\bf X}^{\ast}_i {\bf H} = \overline{{\bf X}}^{\ast} {\bf H} \end{align}`
+このとき
 
 @divend
 
