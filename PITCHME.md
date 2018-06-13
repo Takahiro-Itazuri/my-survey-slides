@@ -101,7 +101,7 @@
 
 ---
 ### TPAMI 2015
-<!-- +++?include=slides/TPAMI2015/High-Speed_Tracking_with_Kernelized_Correlation_Filters.md -->
++++?include=slides/TPAMI2015/High-Speed_Tracking_with_Kernelized_Correlation_Filters.md
 
 ---
 ### NIPS 2014

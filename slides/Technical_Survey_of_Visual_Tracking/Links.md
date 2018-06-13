@@ -5,6 +5,7 @@
 ・[Jiri Matas "Visual Tracking"](http://www.ipta-conference.com/ipta16/images/matas-2016.12.12-ipta-oulu.pdf)<br>
 ・[Simon Lucey "Correlation Filters"](http://16623.courses.cs.cmu.edu/slides/Lecture_14.pdf)<br>
 ・[Simon Lucey "Correlation Filters - Advanced Methods"](http://16623.courses.cs.cmu.edu/slides/Lecture_15.pdf)<br>
+・[J. F. Henriques "Practical Tracking with Correlation Filters"](http://cmp.felk.cvut.cz/cmp/events/colloquium-2015.11.12/henriques-cmp_colloq-2015.11.12.pdf)<br>
 ・[Charles F. Hester et al. "Multivariate Technique for Multiclass Pattern Recognition" (1980)](https://www.osapublishing.org/ao/abstract.cfm?uri=ao-19-11-1758)<br>
 ・[B. V. K. Vijaya Kumar "Efficient Approach to Designing Linear Combination Filters" (1983)](https://www.osapublishing.org/ao/abstract.cfm?uri=ao-22-10-1445)<br>
 ・[B. V. K. Vijaya Kumar "Minimum-Variance Synthetic Discriminant Functions" (1986)](https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-3-10-1579)<br>
