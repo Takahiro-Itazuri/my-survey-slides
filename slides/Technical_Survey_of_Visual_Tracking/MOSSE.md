@@ -11,7 +11,7 @@ __手法・新規性__<br>
 この問題は周波数領域において各要素で独立に解くことができる。<br>
 `\begin{align} 0 &= \frac{\partial}{\partial H_{\omega \nu}^{\ast}} \sum_i | F_{\omega \nu} H_{\omega \nu}^{\ast} - G_{i \omega \nu} |^2 \\  0 &= \sum_i | F_{i \omega \nu} F_{i \omega \nu}^{\ast} H_{\omega \nu} - F_{i \omega \nu} G_{i \omega \nu}^{\ast} | \\ H &= \frac{ \sum_i F_i \odot G_i^{\ast} }{ \sum_i F_i \odot F_i^{\ast} } \end{align}`
 MOSSEの更新式は以下の通り。
-`\begin{align} H_i^{\ast} &= \frac{A_i}{B_i} \\ A_i &= \eta G_i \odot F_i^{\ast} + (1 - \eta) A_{i-1} \\ B_i &= eta F_i \odot F_i^{\ast} + (1 - \eta) B_{i-1} \end{align}`
+`\begin{align} H_i^{\ast} &= \frac{A_i}{B_i} \\ A_i &= \eta G_i \odot F_i^{\ast} + (1 - \eta) A_{i-1} \\ B_i &= \eta F_i \odot F_i^{\ast} + (1 - \eta) B_{i-1} \end{align}`
 
 @divend
 

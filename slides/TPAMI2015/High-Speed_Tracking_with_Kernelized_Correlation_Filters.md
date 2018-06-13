@@ -7,9 +7,14 @@ __概要__<br>
 MOSSEは高速かつ高精度な物体追跡手法である。本論文では、カーネルリッジ回帰と巡回行列の性質を用いて、MOSSEをより一般化させたKernelized Correlation Filters（KCF）を提案する。KCFは非線形カーネルを選択することで、カーネルトリックにより、高精度な分類が可能となる。<br>
 <br>
 __手法・新規性__<br>
-カーネルリッジ回帰の一般解は以下の通り。<br>
-`\begin{align} {\bf \alpha} = \left(K + \lambda I \right) \end{align}`
-
+カーネルリッジ回帰の一般解はカーネル行列`$K \; (K_{ij} = \kappa ({\bf x_i}, {\bf x_j}))$`を用いて以下のようになる。<br>
+`\begin{align} {\bf \alpha} = \left(K + \lambda I \right)^{-1} {\bf y} \end{align}`
+ここでベクトルを１要素巡回させる行列`$P$`を用いて、ベクトル`${\bf k}$`を定義する。<br>
+`\begin{align} k_i = \kappa \left( {\bf x}, P^{i} {\bf x} \right) \end{align}`
+ここでKCFは上述の式の右辺の逆行列計算を避けるため、カーネル行列`$K$`が巡回行列であることを利用して、以下のように変形する。<br>
+`\begin{align} {\bf \alpha} = \mathcal{F}^{-1} \left( \frac{ \mathcal{F} ({\bf y}) }{ \mathcal{F} ({\bf k}) + \lambda } \right) \end{align}`
+以上を利用すると、入力画像`${\bf z}$`に対する相関出力`$\hat{{\bf y}}$`を、ベクトル`$\hat{{\bf k}} \; \left( \hat{k}_i = \kappa ({\bf z}, P^{i} {\bf x}) \right)$`を用いて、以下の式で得ることができる。<br>
+`\begin{align} \hat{{\bf y}} = \mathcal{F}^{-1} \left( \mathcal{F} (\overline{{\bf k}}) \odot \mathcal{F} ({\bf \alpha}) \right) \end{align}`
 
 @divend
 
