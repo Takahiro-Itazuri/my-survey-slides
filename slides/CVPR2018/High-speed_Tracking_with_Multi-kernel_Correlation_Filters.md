@@ -18,7 +18,7 @@ MKCFupは`$F({\bf \alpha}, {\bf d})$`の上界を最適化する。<br>
 
 @div[right]
 
-![](assets/img/MKCFup.png =full)<br>
+![](assets/img/MKCF.png =full)<br>
 <br>
 
 __リンク__<br>
