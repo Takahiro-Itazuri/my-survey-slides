@@ -111,7 +111,7 @@
 
 ---
 ### ECCV 2012
-<!-- +++?include=slides/ECCV2012/Exploiting_the_Circulant_Structure_of_Tracking-by-Detection_with_Kernels.md -->
++++?include=slides/ECCV2012/Exploiting_the_Circulant_Structure_of_Tracking-by-Detection_with_Kernels.md
 
 ---
 ### CVPR 2010
