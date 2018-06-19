@@ -8,7 +8,7 @@ __概要__<br>
 <br>
 __手法・新規性__<br>
 従来のMKCFは以下を最適化する問題である。<br>
-`\begin{align} \mathop{\rm min}\limits_{{\bf \alpha}, {\bf d}} F({\bf \alpha}, {\bf d}) \\ {\rm s.t.} \sum_{m=1}^{M} d_m = 1 \wedge d_m \geq 0 \end{align}`
+`\begin{align} \mathop{\rm min}\limits_{{\bf \alpha}, {\bf d}} & F({\bf \alpha}, {\bf d}) \\ {\rm s.t.} & \sum_{m=1}^{M} d_m = 1 \wedge d_m \geq 0 \end{align}`
 `$F({\bf \alpha}, {\bf d})$`は以下の通り。<br>
 `\begin{align} F({\bf \alpha}, {\bf d}) \end{align}`
 MKCFupは`$F({\bf \alpha}, {\bf d})$`の上界を最適化する。<br>
