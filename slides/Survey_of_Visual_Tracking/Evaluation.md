@@ -2,9 +2,9 @@
 
 @div[left]
 
-<b>Precision Rate</b><br>
+<b>Distance Precision Rate</b><br>
 
-<b>Overlap Ratio</b><br>
+<b>Overlap Success Rate</b><br>
 
 @divend
 
