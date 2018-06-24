@@ -115,6 +115,10 @@
 <!-- +++?include=slides/NIPS2014/Generative_Adversarial_Nets.md -->
 
 ---
+### ICLR 2014
++++?include=slides/ICLR2014/Auto-Encoding_Variational_Bayes.md
+
+---
 ### ECCV 2012
 +++?include=slides/ECCV2012/Exploiting_the_Circulant_Structure_of_Tracking-by-Detection_with_Kernels.md
 
