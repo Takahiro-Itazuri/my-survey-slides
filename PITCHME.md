@@ -88,7 +88,7 @@
 
 ---
 ### ICCV 2015
-+++?include=slides/Hierarchical_Convolutional_Features_for_Visual_Tracking
++++?include=slides/Hierarchical_Convolutional_Features_for_Visual_Tracking.md
 <!-- +++?include=slides/ICCV2015/SRDCF.md -->
 <!-- +++?include=slides/ICCV2015/Learning_Spatialtemporal_Features_with_3D_Convolutional_Networks.md -->
 <!-- +++?include=slides/ICCV2015/VQA.md  -->
