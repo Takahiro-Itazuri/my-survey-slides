@@ -20,6 +20,7 @@ VGG19のconv3-4、conv4-4、conv5-4の層を利用し、各層に対してMulti-
 
 __リンク__<br>
 ・[論文](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Ma_Hierarchical_Convolutional_Features_ICCV_2015_paper.pdf)<br>
-・[MATLAB code](https://github.com/chaoma99/HCFTstar)
+・[MATLAB code](https://github.com/chaoma99/HCFTstar)<br>
+・[プロジェクト](https://sites.google.com/site/chaoma99/iccv15-tracking)
 
 @divend
