@@ -34,6 +34,10 @@
 <!-- +++?include=slides/CHI2018/Wall++.md -->
 
 ---
+### arXiv 2018
++++?include=slides/arXiv2018/Drive_Video_Analysis_for_the_Detection_of_Traffic_Near-Miss_Incidents.md
+
+---
 ### CVPR 2017
 <!-- +++?include=slides/CVPR2017/Learning_Background-Aware_Correlation_Filters_for_Visual_Tracking.md -->
 
@@ -88,7 +92,7 @@
 
 ---
 ### ICCV 2015
-+++?include=slides/Hierarchical_Convolutional_Features_for_Visual_Tracking
++++?include=slides/ICCV2015/Hierarchical_Convolutional_Features_for_Visual_Tracking.md
 <!-- +++?include=slides/ICCV2015/SRDCF.md -->
 <!-- +++?include=slides/ICCV2015/Learning_Spatialtemporal_Features_with_3D_Convolutional_Networks.md -->
 <!-- +++?include=slides/ICCV2015/VQA.md  -->
