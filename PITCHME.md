@@ -115,6 +115,7 @@
 
 ---
 ### NIPS 2014
++++?include=slides/NIPS2014/Two-Stream_Convolutional_Networks_for_Action_Recognition_in_Videos.md
 <!-- +++?include=sldies/NIPS2014/A_Multi-World_Approach_to_Question_Answering_about_Real-World_Scenes_based_on_Uncertain_Input.md -->
 <!-- +++?include=slides/NIPS2014/Generative_Adversarial_Nets.md -->
 
