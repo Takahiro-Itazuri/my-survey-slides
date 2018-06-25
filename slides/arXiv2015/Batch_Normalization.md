@@ -19,7 +19,7 @@ Batch Normalizationは活性化関数の直前に入れる。
 
 @div[right]
 
-![](assets/img/BatchNormalization =full)<br>
+![](assets/img/BatchNormalization.png =full)<br>
 <br>
 
 __リンク__<br>
