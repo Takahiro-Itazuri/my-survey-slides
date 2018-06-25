@@ -8,7 +8,7 @@ __概要__<br>
 <br>
 __手法・新規性__<br>
 変分ベイズにおける変分下限を最大化する問題を帰着させたのち、変分下限を以下のように変形する。<br>
-`\begin{align} KL(q_\phi (z|X)||p_\theta (z|X)) \\ = - KL (q_\phi(z|X)||p(z)) + {\bf E}_{q_\phi (z|X)} \left[ \ln p_{\theta} (X|z) \right] \end{align}`
+`\begin{align} & KL(q_\phi (z|X)||p_\theta (z|X)) \\ & \; = - KL (q_\phi(z|X)||p(z)) + {\bf E}_{q_\phi (z|X)} \left[ \ln p_{\theta} (X|z) \right] \end{align}`
 第一項は潜在変数を任意の確率分布`$p(x)$`に近づけるためのKLダイバージェンスであり、第二項はエンコーダ`$ q_\phi (z|X) $`に関するデータ`$X$`の対数尤度`$ \ln p_\theta (X|z)$`の期待値を最大化する項である。<br>
 エンコーダに平均と分散を出力させ、それに基づいて潜在変数をサンプリングし、それをデコードするというネットワーク構造になっている。しかし、このままではサンプリングのところでSGDを適用できなくなってしまうため、分散にランダムノイズを乗せるテクニック（Reparameterization Trick）を提案した。
 
