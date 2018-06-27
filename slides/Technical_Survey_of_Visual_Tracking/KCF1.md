@@ -19,7 +19,7 @@ __手法__<br>
 
 @div[right]
 
-ベクトル`${\bf k}, \hat{{\bf k}}$`の計算についても巡回行列の性質を用いて、高速化することが可能である。カーネルがドット積である場合（`$\kappa ({\bf x}, {\bf x}') = g (< {\bf x}, {\bf x}' >)$`）、カーネル`${\bf k}^{dp}$`は以下のように変形できる。<br>
+ベクトル`${\bf k}, \hat{{\bf k}}$`の計算についても巡回行列の性質を用いて、高速化することが可能である。カーネルがドット積である場合（`$\kappa ({\bf x}, {\bf x}') = g ( \langle {\bf x}, {\bf x}' \rangle)$`）、カーネル`${\bf k}^{dp}$`は以下のように変形できる。<br>
 `\begin{align} k_i^{dp} = \kappa \left( {\bf x}, P^{i} {\bf x}' \right) = g \left( {\bf x}^{T} P^{i} {\bf x}' \right) \end{align}`
 さらにベクトルから巡回行列を生成する演算子`$C$`を利用して、以下のように変形できる。<br>
 `\begin{align} {\bf k}^{dp} &= g \left( C({\bf x}' {\bf x}) \right) \\ &= g \left( \mathcal{F}^{-1} (\mathcal{F} ({\bf x}) \odot \mathcal{F}^{\ast} ({\bf x}') ) \right) \end{align}`
