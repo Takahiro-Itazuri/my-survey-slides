@@ -10,8 +10,8 @@ __手法・新規性__<br>
 ４つのステップでtaskonomyを構築する。<br>
 <b>Step 1. Task-Specific Modeling</b>: 各タスクにおいてencoder-decoder構造のネットワークを学習する。<br>
 <b>Step 2. Transfer Modeling</b>: ロス関数`$L_t$`を最小化するようにdecoder（readout function）を学習する。<br>
-`\begin{align} D_{s \to t} = \mathop{\rm arg~min}\limits_{\theta} \mathbb{E}_{I \in D} \left\[ L_t \left( D_{\theta} \left( E_s (I) \right), f_t (I) \right) \right\] \end{align}`
-
+`\begin{align} D_{s \to t} = \mathop{\rm arg~min}\limits_{\theta} \mathbb{E}_{I \in D} \left[ L_t \left( D_{\theta} \left( E_s (I) \right), f_t (I) \right) \right] \end{align}`
+<b>Step 3. Ordinal Normalization using AHP</b>: 
 
 @divend
 
