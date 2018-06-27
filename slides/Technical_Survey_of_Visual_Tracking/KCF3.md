@@ -30,6 +30,6 @@ Representer Theoremより、`$\boldsymbol{w}$`は非線形関数`$\boldsymbol{\v
 以上から<br>
 `\begin{align} \boldsymbol{f}(\boldsymbol{z}) &= \left( \boldsymbol{K}^{\boldsymbol{z}} \right)^T \boldsymbol{\alpha} \\ \hat{\boldsymbol{f}} (\boldsymbol{z}) &= \hat{\boldsymbol{k}}^{\boldsymbol{xz}} \odot \hat{\boldsymbol{\alpha}} \end{align}`
 またカーネル関数`$\boldsymbol{k}^{\boldsymbol{xx}'}$`も巡回行列の性質を利用して計算できる。<br>
-`\begin{align} k_i^{\boldsymbol{xx}'} &= \kappa (\boldsymbol{x}', \boldsymbol{P}^{i-1}\boldsymbol{x}) = h \left( \| \boldsymbol{x}' - \boldsymbol{P}^{i-1} \boldsymbol{x} \|^2 \right) \\ &= h \left( \| \boldsymbol{x} \|^2 + \| \boldsymbol{x}' \|^2 - 2 \boldsymbol{x}' \boldsymbol{P}^{i-1} \boldsymbol{x} \right) \\ \boldsymbol{k}^{\boldsymbol{xx}'} = h \left( \| \boldsymbol{x} \|^2 + \| \boldsymbol{x}' \|^2 - 2 \mathcal{F}^{-1} \left( \hat{\boldsymbol{x}}^{\ast} \odot \hat{\boldsymbol{x}}' \right) \right) \end{align}`
+`\begin{align} k_i^{\boldsymbol{xx}'} &= \kappa (\boldsymbol{x}', \boldsymbol{P}^{i-1}\boldsymbol{x}) = h \left( \| \boldsymbol{x}' - \boldsymbol{P}^{i-1} \boldsymbol{x} \|^2 \right) \\ &= h \left( \| \boldsymbol{x} \|^2 + \| \boldsymbol{x}' \|^2 - 2 \boldsymbol{x}' \boldsymbol{P}^{i-1} \boldsymbol{x} \right) \\ \boldsymbol{k}^{\boldsymbol{xx}'} &= h \left( \| \boldsymbol{x} \|^2 + \| \boldsymbol{x}' \|^2 - 2 \mathcal{F}^{-1} \left( \hat{\boldsymbol{x}}^{\ast} \odot \hat{\boldsymbol{x}}' \right) \right) \end{align}`
 
 @divend
