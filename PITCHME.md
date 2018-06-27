@@ -125,6 +125,10 @@
 +++?include=slides/ICLR2014/Auto-Encoding_Variational_Bayes.md
 
 ---
+### ICCV 2013
++++?include=slides/ICCV2013/Multi-Channel_Correlation_Filters.md
+
+---
 ### ECCV 2012
 +++?include=slides/ECCV2012/Exploiting_the_Circulant_Structure_of_Tracking-by-Detection_with_Kernels.md
 
@@ -160,7 +164,8 @@
 +++?include=slides/Technical_Survey_of_Visual_Tracking/UMACE2.md
 +++?include=slides/Technical_Survey_of_Visual_Tracking/ASEF.md
 +++?include=slides/Technical_Survey_of_Visual_Tracking/MOSSE.md
-+++?include=slides/Technical_Survey_of_Visual_Tracking/KCF.md
++++?include=slides/Technical_Survey_of_Visual_Tracking/KCF1.md
++++?include=slides/Technical_Survey_of_Visual_Tracking/KCF2.md
 +++?include=slides/Technical_Survey_of_Visual_Tracking/List.md
 +++?include=slides/Technical_Survey_of_Visual_Tracking/Links.md
 
