@@ -166,6 +166,7 @@
 +++?include=slides/Technical_Survey_of_Visual_Tracking/MOSSE.md
 +++?include=slides/Technical_Survey_of_Visual_Tracking/KCF1.md
 +++?include=slides/Technical_Survey_of_Visual_Tracking/KCF2.md
++++?include=slides/Technical_Survey_of_Visual_Tracking/KCF3.md
 +++?include=slides/Technical_Survey_of_Visual_Tracking/List.md
 +++?include=slides/Technical_Survey_of_Visual_Tracking/Links.md
 
