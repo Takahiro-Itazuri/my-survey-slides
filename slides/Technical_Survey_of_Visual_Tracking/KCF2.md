@@ -3,7 +3,7 @@
 @div[left]
 
 __導出__<br>
-(1) リッジ回帰<br>
+(1) リッジ線形回帰<br>
 MSEを最小化する最適化問題<br>
 `\begin{align} \mathop{\rm min}\limits_{{\bf w}} \sum_i \left( {\bf w}^T {\bf x}_i - y_i \right)^2 + \lambda \| {\bf w} \|^2 \end{align}`
 上記の問題のclosed formに以下のように求まる。<br>
