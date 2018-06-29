@@ -127,7 +127,7 @@
 
 ---
 ### ICCV 2013
-+++?include=slides/ICCV2013/Multi-Channel_Correlation_Filters.md
++++?include=slides/ICCV2013/Multi-channel_Correlation_Filters.md
 
 ---
 ### ECCV 2012
