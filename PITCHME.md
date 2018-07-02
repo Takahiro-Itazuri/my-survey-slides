@@ -94,6 +94,7 @@
 
 ---
 ### ICCV 2015
++++?include=slides/ICCV2015/Fast_R-CNN.md
 +++?include=slides/ICCV2015/Hierarchical_Convolutional_Features_for_Visual_Tracking.md
 <!-- +++?include=slides/ICCV2015/SRDCF.md -->
 +++?include=slides/ICCV2015/Learning_Spatiotemporal_Features_with_3D_Convolutional_Networks.md
@@ -114,6 +115,10 @@
 ---
 ### arXiv 2015
 +++?include=slides/arXiv2015/Batch_Normalization.md
+
+---
+### CVPR 2014
++++?include=slides/CVPR2014/Rich_Feature_Hierarchies_for_Accurate_Object_Detection_and_Semantic_Segmentation.md
 
 ---
 ### NIPS 2014
