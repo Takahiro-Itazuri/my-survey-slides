@@ -4,7 +4,7 @@
 @div[left]
 
 __概要__<br>
-本論文は物体認識タスクで成功したCNNを物体検出に適応させ、またラベル付けされたデータが少ない場合のfine-tuningの手法を提案した。その結果、従来手法より大きく精度を向上させた。<br>
+本論文は物体認識タスクで成功したCNNを物体検出に適応させたRegion with Convolutional Neural Network （R-CNN）を提案し、またラベル付けされたデータが少ない場合のfine-tuningの手法を提案した。その結果、従来手法より大きく精度を向上させた。<br>
 <br>
 __手法・新規性__<br>
 Step 1. Selective SearchでProposalを生成する。<br>
