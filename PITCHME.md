@@ -89,8 +89,8 @@
 ---
 ### NIPS 2015
 +++?include=slides/NIPS2015/Faster_R-CNN.md
-<!-- +++?include=slides/NIPS2015/mQA.md
-+++?include=slides/NIPS2015/COCO-QA.md -->
+<!-- +++?include=slides/NIPS2015/mQA.md -->
+<!-- +++?include=slides/NIPS2015/COCO-QA.md -->
 
 ---
 ### ICCV 2015
