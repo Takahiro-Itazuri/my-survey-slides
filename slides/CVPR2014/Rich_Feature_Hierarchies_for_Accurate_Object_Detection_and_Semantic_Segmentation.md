@@ -21,6 +21,6 @@ Step 3. 各クラスごとに学習されたlinear SVMで分類する。<br>
 
 __リンク__<br>
 ・[論文](http://openaccess.thecvf.com/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)<br>
-・[](url)<br>
+・[GitHub](https://github.com/rbgirshick/rcnn)<br>
 
 @divend
