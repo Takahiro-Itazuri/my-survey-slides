@@ -8,7 +8,7 @@ __概要__<br>
 <br>
 __手法・新規性__<br>
 目的関数は以下の通り。<br>
-`\begin{align} \mathop{\rm min}\limits_{\oemga} \frac{\lambda}{2} \| \omega \| + \sum_{i=1}^{N} {\rm max} \left( 0, 1 - y_i o_i^{net} \right) \end{align}`
+`\begin{align} \mathop{\rm min}\limits_{\omega} \frac{\lambda}{2} \| \omega \| + \sum_{i=1}^{N} {\rm max} \left( 0, 1 - y_i o_i^{net} \right) \end{align}`
 結果として、Two-channel Networkが最も良い結果を出した。
 
 @divend
