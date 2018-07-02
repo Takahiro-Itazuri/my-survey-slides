@@ -39,20 +39,20 @@
 +++?include=slides/arXiv2018/Drive_Video_Analysis_for_the_Detection_of_Traffic_Near-Miss_Incidents.md
 +++?include=slides/arXiv2018/Tracking_Emerges_by_Colorizing_Videos.md
 
----
-### CVPR 2017
+<!-- ---
+### CVPR 2017 -->
 <!-- +++?include=slides/CVPR2017/Learning_Background-Aware_Correlation_Filters_for_Visual_Tracking.md -->
 
----
-### CVPRW 2017
+<!-- ---
+### CVPRW 2017 -->
 <!-- +++?include=slides/CVPRW2017/Automatic_Curation_of_Golf_Highlighting_using_Multimodal_Excitement_Features.md -->
 
----
-### SIGGRAPH 2017
+<!-- ---
+### SIGGRAPH 2017 -->
 <!-- +++?include=slides/SIGGRAPH2017/VNect.md -->
 
----
-### CHI 2017
+<!-- ---
+### CHI 2017 -->
 <!-- +++?include=slides/CHI2017/Designing_Gamified_Applications_that_Make_Safe_Driving_More_Engaging.md -->
 <!-- +++?include=slides/CHI2017/Empowered_Participation.md -->
 <!-- +++?include=slides/CHI2017/Explaining_the_Gap.md -->
@@ -72,13 +72,6 @@
 <!-- +++?include=slides/arXiv2017/Survey_of_Visual_Question_Answering.md -->
 
 ---
-### CVPR 2016
-+++
-<!-- +++?include=slides/CVPR2016/Rethinking_the_Inception_Architecture_for_Computer_Vision.md -->
-<!-- +++?include=slides/CVPR2016/Structural_Correlation_Filter_for_Robust_Visual_Tracking.md -->
-<!-- +++include=slides/CVPR2016/Visual7W.md -->
-
----
 ### ECCV 2016
 <!-- +++?include=slides/ECCV2016/Video_Summarization_with_Long_Short-term_Memory.md -->
 
@@ -87,10 +80,16 @@
 +++?include=slides/ECCVW2016/Fully-Convolutional_Siamese_Networks_for_Object_Tracking.md
 
 ---
-### CVPR 2015
-+++?include=slides/CVPR2015/Learning_to_Compare_Image_Patches_via_Convolutional_Neural_Networks.md
-<!-- +++?include=slides/CVPR2015/Real-time_Patch-based_Visual_Tracking_via_Adaptive_Correlation_Filters.md -->
-<!-- +++?include=slides/CVPR2015/Reliable_Patch_Trackers.md -->
+### CVPR 2016
++++
+<!-- +++?include=slides/CVPR2016/Rethinking_the_Inception_Architecture_for_Computer_Vision.md -->
+<!-- +++?include=slides/CVPR2016/Structural_Correlation_Filter_for_Robust_Visual_Tracking.md -->
+<!-- +++include=slides/CVPR2016/Visual7W.md -->
+
+---
+### NIPS 2015
+<!-- +++include=slides/NIPS2015/mQA.md
++++include=slides/NIPS2015/COCO-QA.md -->
 
 ---
 ### ICCV 2015
@@ -104,9 +103,10 @@
 ### ICCVW 2015
 
 ---
-### NIPS 2015
-<!-- +++include=slides/NIPS2015/mQA.md
-+++include=slides/NIPS2015/COCO-QA.md -->
+### CVPR 2015
++++?include=slides/CVPR2015/Learning_to_Compare_Image_Patches_via_Convolutional_Neural_Networks.md
+<!-- +++?include=slides/CVPR2015/Real-time_Patch-based_Visual_Tracking_via_Adaptive_Correlation_Filters.md -->
+<!-- +++?include=slides/CVPR2015/Reliable_Patch_Trackers.md -->
 
 ---
 ### TPAMI 2015
@@ -117,14 +117,14 @@
 +++?include=slides/arXiv2015/Batch_Normalization.md
 
 ---
-### CVPR 2014
-+++?include=slides/CVPR2014/Rich_Feature_Hierarchies_for_Accurate_Object_Detection_and_Semantic_Segmentation.md
-
----
 ### NIPS 2014
 +++?include=slides/NIPS2014/Two-Stream_Convolutional_Networks_for_Action_Recognition_in_Videos.md
 <!-- +++?include=sldies/NIPS2014/A_Multi-World_Approach_to_Question_Answering_about_Real-World_Scenes_based_on_Uncertain_Input.md -->
 <!-- +++?include=slides/NIPS2014/Generative_Adversarial_Nets.md -->
+
+---
+### CVPR 2014
++++?include=slides/CVPR2014/Rich_Feature_Hierarchies_for_Accurate_Object_Detection_and_Semantic_Segmentation.md
 
 ---
 ### ICLR 2014
