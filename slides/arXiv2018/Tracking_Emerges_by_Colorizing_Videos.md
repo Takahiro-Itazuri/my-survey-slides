@@ -23,5 +23,6 @@ __手法・新規性__<br>
 
 __リンク__<br>
 ・[論文](https://arxiv.org/pdf/1806.09594.pdf)<br>
+・[Google AI Blog](https://ai.googleblog.com/2018/06/self-supervised-tracking-via-video.html)<br>
 
 @divend
