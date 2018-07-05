@@ -39,8 +39,9 @@
 +++?include=slides/arXiv2018/Drive_Video_Analysis_for_the_Detection_of_Traffic_Near-Miss_Incidents.md
 +++?include=slides/arXiv2018/Tracking_Emerges_by_Colorizing_Videos.md
 
-<!-- ---
-### CVPR 2017 -->
+---
+### CVPR 2017
++++?include=slides/CVPR2017/End-to-End_Representation_Learning_for_Correlation_Filter_Based_Tracking.md
 <!-- +++?include=slides/CVPR2017/Learning_Background-Aware_Correlation_Filters_for_Visual_Tracking.md -->
 
 <!-- ---
