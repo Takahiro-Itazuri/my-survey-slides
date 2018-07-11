@@ -76,6 +76,7 @@
 
 ---
 ### ECCV 2016
++++?include=slides/ECCV2016/Beyond_Correlation_Filters.md
 <!-- +++?include=slides/ECCV2016/Video_Summarization_with_Long_Short-term_Memory.md -->
 
 ---
