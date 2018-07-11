@@ -157,12 +157,14 @@
 <!-- +++?include=slides/Database/Sports-1M.md -->
 <!-- +++?include=slides/Database/UCF101.md -->
 
+<!--
 ---
 ### Survey of Visual Tracking
 +++?include=slides/Survey_of_Visual_Tracking/Framework.md
 +++?include=slides/Survey_of_Visual_Tracking/Evaluation.md
 +++?include=slides/Survey_of_Visual_Tracking/Database.md
 +++?include=slides/Survey_of_Visual_Tracking/SpeedComparison.md
+-->
 
 ---
 ### Technical Survey of Visual Tracking
