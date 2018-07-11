@@ -14,6 +14,7 @@
 <b>CVPR 2017</b><br>
 <ul>
   <li>[ECO](http://openaccess.thecvf.com/content_cvpr_2017/papers/Danelljan_ECO_Efficient_Convolution_CVPR_2017_paper.pdf)</li>
+  <li>[CFNet](http://openaccess.thecvf.com/content_cvpr_2017/papers/Valmadre_End-To-End_Representation_Learning_CVPR_2017_paper.pdf)</li>
 </ul>
 
 @divend
@@ -26,7 +27,7 @@
 </ul>
 <b>ECCVW 2016</b><br>
 <ul>
-  <li>[SiamFC]()</li>
+  <li>[SiamFC](https://arxiv.org/pdf/1606.09549.pdf)</li>
 </ul>
 <br>
 <br>
