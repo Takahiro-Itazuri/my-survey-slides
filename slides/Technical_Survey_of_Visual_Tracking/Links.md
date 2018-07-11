@@ -15,6 +15,7 @@
 ・[Abhijit Mahalanobix et al. "Unconstarined Correlation Filters"](https://www.osapublishing.org/ao/abstract.cfm?uri=ao-33-17-3751)<br>
 ・[David S. Bolme et al. "Average of Synthetic Exact Filters" (2009)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.492.7927&rep=rep1&type=pdf)<br>
 ・[David S. Bolme et al. "Visual Object Tracking using Adaptive Correlation Filters" (2010)](http://www.cs.colostate.edu/~vision/publications/bolme_cvpr10.pdf)<br>
-・[João F. Henriques et al. "High-Speed Tracking with Kernelized Correlation Filters"](https://arxiv.org/pdf/1404.7584.pdf)
+・[João F. Henriques et al. "High-Speed Tracking with Kernelized Correlation Filters" (2015)](https://arxiv.org/pdf/1404.7584.pdf)<br>
+・[Martin Danelljan et al. "Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking" (2016)](https://www.cvl.isy.liu.se/research/objrec/visualtracking/conttrack/C-COT_ECCV16.pdf)
 
 @divend

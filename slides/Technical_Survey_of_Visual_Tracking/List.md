@@ -20,6 +20,10 @@
 
 @div[two-fourth]
 
+<b>ECCV 2016</b><br>
+<ul>
+  <li>[C-COT](https://www.cvl.isy.liu.se/research/objrec/visualtracking/conttrack/C-COT_ECCV16.pdf)</li>
+</ul>
 <b>ECCVW 2016</b><br>
 <ul>
   <li>[SiamFC]()</li>
