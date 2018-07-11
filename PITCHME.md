@@ -16,6 +16,7 @@
 <!-- +++?include=slides/CVPR2018/Learning_Spatial-Aware_Regressions_for_Visual_Tracking.md -->
 <!-- +++?include=slides/CVPR2018/Learning_Spatial-Temporal_Regularized_Correlation_Filters_for_Visual_Tracking.md -->
 +++?include=slides/CVPR2018/Occlusion_Aware_Unsupervised_Learning_of_Optical_Flow.md
++++?include=slides/CVPR2018/Single_Image_Reflection_Separation_with_Perceptual_Losses.md
 +++?include=slides/CVPR2018/SINT++.md
 +++?include=slides/CVPR2018/Taskonomy.md
 +++?include=slides/CVPR2018/VITAL.md
