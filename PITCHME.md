@@ -25,6 +25,10 @@
 +++?include=slides/CVPR2018/Taskonomy.md
 +++?include=slides/CVPR2018/VITAL.md
 
+---
+### ICRA 2018
++++?include=slides/ICRA2018/Social_Attention.md
+
 <!-- --- -->
 <!-- ### CHI 2018 -->
 <!-- +++?include=slides/CHI2018/Agile_3D_Sketching_with_Air_Scaffolding.md -->
