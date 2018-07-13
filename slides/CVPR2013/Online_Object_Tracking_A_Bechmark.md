@@ -14,7 +14,7 @@ __手法・新規性__<br>
 
 @div[right]
 
-![](path/to/img =full)<br>
+![OTB](assets/img/OTB.png =full)<br>
 <br>
 
 __リンク__<br>
