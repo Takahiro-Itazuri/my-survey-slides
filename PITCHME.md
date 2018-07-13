@@ -148,6 +148,10 @@
 +++?include=slides/ICCV2013/Multi-channel_Correlation_Filters.md
 
 ---
+### CVPR 2013
++++?include=slides/CVPR2013/Online_Object_Tracking_A_Benchmark.md
+
+---
 ### ECCV 2012
 +++?include=slides/ECCV2012/Exploiting_the_Circulant_Structure_of_Tracking-by-Detection_with_Kernels.md
 
