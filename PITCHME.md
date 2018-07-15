@@ -9,6 +9,7 @@
 +++?include=slides/CVPR2018/Correlation_Tracking_via_Joint_Discrimination_and_Reliability_Learning.md
 +++?include=slides/CVPR2018/Depth-Based_3D_Hand_Pose_Estimate_From_Current_Achievements_to_Future_Goals.md
 +++?include=slides/CVPR2018/Dimensionalitys_Blessing_Clustering_Images_by_Underlying_Distribution.md
++++?include=slides/CVPR2018/Dual_Skipping_Networks.md
 +++?include=slides/CVPR2018/Efficient_Diverse_Ensemble_for_Discriminative_Co-Tracking.md
 <!-- +++?include=slides/CVPR2018/End-to-End_Flow_Correlaion_Tracking_with_Spatial-temporal_Attention.md -->
 +++?include=slides/CVPR2018/End-to-End_Learning_of_Motion_Representation_for_Video_Understanding.md
