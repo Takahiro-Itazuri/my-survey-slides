@@ -17,11 +17,13 @@
 +++?include=slides/CVPR2018/High-speed_Tracking_with_Multi-kernel_Correlation_Filters.md
 +++?include=slides/CVPR2018/HydraNets.md
 +++?include=slides/CVPR2018/Im2Flow.md
++++?include=slides/CVPR2018/Interactive_Image_Segmentation_with_Latent_Diversity.md
 +++?include=slides/CVPR2018/Learning_Attentions_Residual_Attentional_Siamese_Network_for_High_Performance_Online_Visual_Tracking.md
 <!-- +++?include=slides/CVPR2018/Learning_Spatial-Aware_Regressions_for_Visual_Tracking.md -->
 <!-- +++?include=slides/CVPR2018/Learning_Spatial-Temporal_Regularized_Correlation_Filters_for_Visual_Tracking.md -->
 +++?include=slides/CVPR2018/Matryoshka_Networks.md
 +++?include=slides/CVPR2018/Occlusion_Aware_Unsupervised_Learning_of_Optical_Flow.md
++++?include=slides/CVPR2018/RayNet.md
 +++?include=slides/CVPR2018/Single_Image_Reflection_Separation_with_Perceptual_Losses.md
 +++?include=slides/CVPR2018/SINT++.md
 +++?include=slides/CVPR2018/Taskonomy.md
