@@ -18,7 +18,7 @@ AttnGANは`$m$`個のGenerator`$(G_0, \cdots, G_{m-1})$`で構成されており
 
 @div[right]
 
-![AttnGAN](assets/img/AttnGAN =full)<br>
+![AttnGAN](assets/img/AttnGAN.png =full)<br>
 <br>
 
 __リンク__<br>
