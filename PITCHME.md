@@ -4,6 +4,7 @@
 ---
 ### CVPR 2018
 +++?include=slides/CVPR2018/A_Twofold_Siamese_Network_for_Real-Time_Object_Tracking.md
++++?include=slides/CVPR2018/AttnGAN.md
 +++?include=slides/CVPR2018/Compressed_Video_Action_Recognition.md
 <!-- +++?include=slides/CVPR2018/Context-aware_Deep_Feature_Compression_for_High-speed_Visual_Tracking.md -->
 +++?include=slides/CVPR2018/Correlation_Tracking_via_Joint_Discrimination_and_Reliability_Learning.md
