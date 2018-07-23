@@ -160,6 +160,10 @@
 +++?include=slides/CVPR2013/Online_Object_Tracking_A_Benchmark.md
 
 ---
+### NIPS 2012
++++?include=slides/NIPS2012/ImageNet_Classification_with_Deep_Convolutional_Neural_Networks.md
+
+---
 ### ECCV 2012
 +++?include=slides/ECCV2012/Exploiting_the_Circulant_Structure_of_Tracking-by-Detection_with_Kernels.md
 
