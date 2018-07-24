@@ -112,6 +112,10 @@
 <!-- +++?include=slides/NIPS2015/COCO-QA.md -->
 
 ---
+### ICML 2015
++++?include=slides/ICML2015/Siamese_Neural_Networks_for_One-shot_Image_Recognition.md
+
+---
 ### ICCV 2015
 +++?include=slides/ICCV2015/Fast_R-CNN.md
 +++?include=slides/ICCV2015/Hierarchical_Convolutional_Features_for_Visual_Tracking.md
