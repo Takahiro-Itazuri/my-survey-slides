@@ -15,7 +15,7 @@ __手法・新規性__<br>
 
 @div[right]
 
-![](assets/img/Learning_to_Compare_Image_Patches_via_Convolutional_Nerual_Networks.png =full)<br>
+![](assets/img/Learning_to_Compare_Image_Patches_via_Convolutional_Neural_Networks.png =full)<br>
 
 __リンク__<br>
 ・[論文](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zagoruyko_Learning_to_Compare_2015_CVPR_paper.pdf)<br>
