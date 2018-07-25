@@ -30,6 +30,7 @@
 +++?include=slides/CVPR2018/SINT++.md
 +++?include=slides/CVPR2018/Taskonomy.md
 +++?include=slides/CVPR2018/Tracking_Multiple_Objects_Outside_the_Line_of_Sight_Using_Speckle_Imaging.md
++++?include=slides/CVPR2018/Viewpoint-aware_Video_Summarization.md
 +++?include=slides/CVPR2018/VITAL.md
 
 ---
