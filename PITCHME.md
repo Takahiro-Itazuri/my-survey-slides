@@ -27,10 +27,10 @@
 <!-- +++?include=slides/CVPR2018/Learning_Spatial-Temporal_Regularized_Correlation_Filters_for_Visual_Tracking.md -->
 +++?include=slides/CVPR2018/Matching_Adversarial_Networks.md
 +++?include=slides/CVPR2018/Matryoshka_Networks.md
-+++?include=slides/CPR2018/NISP_Pruning_Networks_Using_Neuron_Importance_Score_Propagation.md
++++?include=slides/CVPR2018/NISP_Pruning_Networks_Using_Neuron_Importance_Score_Propagation.md
 +++?include=slides/CVPR2018/Occlusion_Aware_Unsupervised_Learning_of_Optical_Flow.md
 +++?include=slides/CVPR2018/RayNet.md
-+++?include=slides/CVPR2018/Recovering_Realistic_Texture_in_Image_Super-Resolution_by_Deep_Spatial_Feature_Transform.pug.md
++++?include=slides/CVPR2018/Recovering_Realistic_Texture_in_Image_Super-Resolution_by_Deep_Spatial_Feature_Transform.md
 +++?include=slides/CVPR2018/Single_Image_Reflection_Separation_with_Perceptual_Losses.md
 +++?include=slides/CVPR2018/SINT++.md
 +++?include=slides/CVPR2018/Taskonomy.md
