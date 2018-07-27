@@ -8,6 +8,7 @@
 +++?include=slides/CVPR2018/Compressed_Video_Action_Recognition.md
 <!-- +++?include=slides/CVPR2018/Context-aware_Deep_Feature_Compression_for_High-speed_Visual_Tracking.md -->
 +++?include=slides/CVPR2018/Correlation_Tracking_via_Joint_Discrimination_and_Reliability_Learning.md
++++?include=slides/CVPR2018/Deep_Back-Projection_Networks_for_Super-Resolution.md
 +++?include=slides/CVPR2018/Depth-Based_3D_Hand_Pose_Estimate_From_Current_Achievements_to_Future_Goals.md
 +++?include=slides/CVPR2018/Dimensionalitys_Blessing_Clustering_Images_by_Underlying_Distribution.md
 +++?include=slides/CVPR2018/Dual_Attention_Matching_Network_for_Context-Aware_Feature_Sequence_based_Person_Re-Identification.md
@@ -15,6 +16,7 @@
 +++?include=slides/CVPR2018/Efficient_Diverse_Ensemble_for_Discriminative_Co-Tracking.md
 <!-- +++?include=slides/CVPR2018/End-to-End_Flow_Correlaion_Tracking_with_Spatial-temporal_Attention.md -->
 +++?include=slides/CVPR2018/End-to-End_Learning_of_Motion_Representation_for_Video_Understanding.md
++++?include=slides/CVPR2018/Gaze_Prediction_in_Dynamic_360_Immersive_Videos.md
 +++?include=slides/CVPR2018/High_Performance_Visual_Tracking_with_Siamese_Region_Proposal_Network.md
 +++?include=slides/CVPR2018/High-speed_Tracking_with_Multi-kernel_Correlation_Filters.md
 +++?include=slides/CVPR2018/HydraNets.md
@@ -23,9 +25,12 @@
 +++?include=slides/CVPR2018/Learning_Attentions_Residual_Attentional_Siamese_Network_for_High_Performance_Online_Visual_Tracking.md
 <!-- +++?include=slides/CVPR2018/Learning_Spatial-Aware_Regressions_for_Visual_Tracking.md -->
 <!-- +++?include=slides/CVPR2018/Learning_Spatial-Temporal_Regularized_Correlation_Filters_for_Visual_Tracking.md -->
++++?include=slides/CVPR2018/Matching_Adversarial_Networks.md
 +++?include=slides/CVPR2018/Matryoshka_Networks.md
++++?include=slides/CPR2018/NISP_Pruning_Networks_Using_Neuron_Importance_Score_Propagation.md
 +++?include=slides/CVPR2018/Occlusion_Aware_Unsupervised_Learning_of_Optical_Flow.md
 +++?include=slides/CVPR2018/RayNet.md
++++?include=slides/CVPR2018/Recovering_Realistic_Texture_in_Image_Super-Resolution_by_Deep_Spatial_Feature_Transform.pug.md
 +++?include=slides/CVPR2018/Single_Image_Reflection_Separation_with_Perceptual_Losses.md
 +++?include=slides/CVPR2018/SINT++.md
 +++?include=slides/CVPR2018/Taskonomy.md
