@@ -4,6 +4,7 @@
 ---
 ### CVPR 2018
 +++?include=slides/CVPR2018/A_Twofold_Siamese_Network_for_Real-Time_Object_Tracking.md
++++?include=slides/CVPR2018/A_Two-Step_Disentanglement_Method.md
 +++?include=slides/CVPR2018/AttnGAN.md
 +++?include=slides/CVPR2018/Compressed_Video_Action_Recognition.md
 <!-- +++?include=slides/CVPR2018/Context-aware_Deep_Feature_Compression_for_High-speed_Visual_Tracking.md -->
@@ -22,9 +23,12 @@
 +++?include=slides/CVPR2018/HydraNets.md
 +++?include=slides/CVPR2018/Im2Flow.md
 +++?include=slides/CVPR2018/Interactive_Image_Segmentation_with_Latent_Diversity.md
++++?include=slides/CVPR2018/Kernelized_Subspace_Pooling_for_Deep_Local_Descriptors.md
++++?include=slides/CVPR2018/Latent_RANSAC.md
 +++?include=slides/CVPR2018/Learning_Attentions_Residual_Attentional_Siamese_Network_for_High_Performance_Online_Visual_Tracking.md
 <!-- +++?include=slides/CVPR2018/Learning_Spatial-Aware_Regressions_for_Visual_Tracking.md -->
 <!-- +++?include=slides/CVPR2018/Learning_Spatial-Temporal_Regularized_Correlation_Filters_for_Visual_Tracking.md -->
++++?include=slides/CVPR2018/Low-Shot_Learning_with_Imprinted_Weights.md
 +++?include=slides/CVPR2018/Matching_Adversarial_Networks.md
 +++?include=slides/CVPR2018/Matryoshka_Networks.md
 +++?include=slides/CVPR2018/MoNet.md
