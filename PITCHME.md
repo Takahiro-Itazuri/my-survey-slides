@@ -67,6 +67,10 @@
 +++?include=slides/arXiv2018/Tracking_Emerges_by_Colorizing_Videos.md
 
 ---
+### ICCV 2017
++++?include=slides/ICCV2017/Learning_Spatio-Temporal_Features_with_3D_Residual_Networks_for_Action_Recognition.md
+
+---
 ### CVPR 2017
 +++?include=slides/CVPR2017/End-to-End_Representation_Learning_for_Correlation_Filter_Based_Tracking.md
 +++?include=slides/CVPR2017/Image-to-Image_Translation_with_Conditional_Adversarial_Networks.md
