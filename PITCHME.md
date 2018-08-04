@@ -6,9 +6,11 @@
 +++?include=slides/CVPR2018/A_Twofold_Siamese_Network_for_Real-Time_Object_Tracking.md
 +++?include=slides/CVPR2018/A_Two-Step_Disentanglement_Method.md
 +++?include=slides/CVPR2018/AttnGAN.md
++++?include=slides/CVPR2018/Analyzing_Filters_Toward_Efficient_ConvNet.md
 +++?include=slides/CVPR2018/Compressed_Video_Action_Recognition.md
 <!-- +++?include=slides/CVPR2018/Context-aware_Deep_Feature_Compression_for_High-speed_Visual_Tracking.md -->
 +++?include=slides/CVPR2018/Correlation_Tracking_via_Joint_Discrimination_and_Reliability_Learning.md
++++?include=slides/CVPR2018/Decorrelated_Batch_Normalization.md
 +++?include=slides/CVPR2018/Deep_Back-Projection_Networks_for_Super-Resolution.md
 +++?include=slides/CVPR2018/Depth-Based_3D_Hand_Pose_Estimate_From_Current_Achievements_to_Future_Goals.md
 +++?include=slides/CVPR2018/Dimensionalitys_Blessing_Clustering_Images_by_Underlying_Distribution.md
@@ -32,6 +34,7 @@
 +++?include=slides/CVPR2018/Matching_Adversarial_Networks.md
 +++?include=slides/CVPR2018/Matryoshka_Networks.md
 +++?include=slides/CVPR2018/MoNet.md
++++?include=slides/CVPR2018/Multi-Cue_Correlation_Filters_for_Robust_Visual_Tracking.md
 +++?include=slides/CVPR2018/NISP_Pruning_Networks_Using_Neuron_Importance_Score_Propagation.md
 +++?include=slides/CVPR2018/Occlusion_Aware_Unsupervised_Learning_of_Optical_Flow.md
 +++?include=slides/CVPR2018/RayNet.md
