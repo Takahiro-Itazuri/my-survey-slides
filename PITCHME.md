@@ -127,6 +127,10 @@
 +++?include=slides/ICML2016/Autoencoding_Beyond_Pixels_using_a_Learned_Similarity_Metric.md
 
 ---
+### ICLR 2016
++++?include=slides/ICLR2016/Unsupervised_Representation_Learning_with_Deep_Convolutional_Generative_Adversarial_Networks.md
+
+---
 ### NIPS 2015
 +++?include=slides/NIPS2015/Faster_R-CNN.md
 <!-- +++?include=slides/NIPS2015/mQA.md -->
