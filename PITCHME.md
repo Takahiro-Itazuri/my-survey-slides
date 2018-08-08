@@ -118,10 +118,13 @@
 
 ---
 ### CVPR 2016
-+++
 <!-- +++?include=slides/CVPR2016/Rethinking_the_Inception_Architecture_for_Computer_Vision.md -->
 <!-- +++?include=slides/CVPR2016/Structural_Correlation_Filter_for_Robust_Visual_Tracking.md -->
 <!-- +++include=slides/CVPR2016/Visual7W.md -->
+
+---
+### ICML 2016
++++?include=slides/ICML2016/Autoencoding_Beyond_Pixels_using_a_Learned_Similarity_Metric.md
 
 ---
 ### NIPS 2015
