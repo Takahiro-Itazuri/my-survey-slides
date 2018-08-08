@@ -146,6 +146,11 @@
 ### ICCVW 2015
 
 ---
+### ICML 2015
++++?include=slides/ICML2015/Batch_Normalization.md
++++?include=slides/ICML2015/Siamese_Neural_Networks_for_One-shot_Image_Recognition.md
+
+---
 ### CVPR 2015
 +++?include=slides/CVPR2015/Learning_to_Compare_Image_Patches_via_Convolutional_Neural_Networks.md
 <!-- +++?include=slides/CVPR2015/Real-time_Patch-based_Visual_Tracking_via_Adaptive_Correlation_Filters.md -->
@@ -154,10 +159,6 @@
 ---
 ### TPAMI 2015
 +++?include=slides/TPAMI2015/High-Speed_Tracking_with_Kernelized_Correlation_Filters.md
-
----
-### arXiv 2015
-+++?include=slides/arXiv2015/Batch_Normalization.md
 
 ---
 ### NIPS 2014
