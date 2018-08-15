@@ -159,6 +159,7 @@
 
 ---
 ### CVPR 2015
++++?include=slides/CVPR2015/Fully_Convolutional_Networks_for_Sementic_Segmentation.md
 +++?include=slides/CVPR2015/Learning_to_Compare_Image_Patches_via_Convolutional_Neural_Networks.md
 <!-- +++?include=slides/CVPR2015/Real-time_Patch-based_Visual_Tracking_via_Adaptive_Correlation_Filters.md -->
 <!-- +++?include=slides/CVPR2015/Reliable_Patch_Trackers.md -->
