@@ -119,6 +119,7 @@
 ---
 ### CVPR 2016
 <!-- +++?include=slides/CVPR2016/Rethinking_the_Inception_Architecture_for_Computer_Vision.md -->
++++?include=slides/CVPR2016/Siamese_Instance_Search_for_Tracking.md
 <!-- +++?include=slides/CVPR2016/Structural_Correlation_Filter_for_Robust_Visual_Tracking.md -->
 <!-- +++include=slides/CVPR2016/Visual7W.md -->
 
