@@ -40,7 +40,7 @@
 +++?include=slides/CVPR2018/RayNet.md
 +++?include=slides/CVPR2018/Recovering_Realistic_Texture_in_Image_Super-Resolution_by_Deep_Spatial_Feature_Transform.md
 +++?include=slides/CVPR2018/Single_Image_Reflection_Separation_with_Perceptual_Losses.md
-+++?include=slides/CVPR2018/SINT++.md
++++?include=slides/CVPR2018/SINT_Robust_Visual_Tracking_via_Adversarial_Positive_Instance_Generation.md
 +++?include=slides/CVPR2018/Taskonomy.md
 +++?include=slides/CVPR2018/Tracking_Multiple_Objects_Outside_the_Line_of_Sight_Using_Speckle_Imaging.md
 +++?include=slides/CVPR2018/Viewpoint-aware_Video_Summarization.md
@@ -78,6 +78,7 @@
 +++?include=slides/CVPR2017/End-to-End_Representation_Learning_for_Correlation_Filter_Based_Tracking.md
 +++?include=slides/CVPR2017/Image-to-Image_Translation_with_Conditional_Adversarial_Networks.md
 <!-- +++?include=slides/CVPR2017/Learning_Background-Aware_Correlation_Filters_for_Visual_Tracking.md -->
++++?include=slides/CVPR2017/The_World_of_Fast_Moving_Objects.md
 
 <!-- ---
 ### CVPRW 2017 -->
