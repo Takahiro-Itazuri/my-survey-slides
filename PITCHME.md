@@ -17,7 +17,7 @@
 +++?include=slides/CVPR2018/Dual_Attention_Matching_Network_for_Context-Aware_Feature_Sequence_based_Person_Re-Identification.md
 +++?include=slides/CVPR2018/Dual_Skipping_Networks.md
 +++?include=slides/CVPR2018/Efficient_Diverse_Ensemble_for_Discriminative_Co-Tracking.md
-<!-- +++?include=slides/CVPR2018/End-to-End_Flow_Correlaion_Tracking_with_Spatial-temporal_Attention.md -->
++++?include=slides/CVPR2018/End-to-End_Flow_Correlaion_Tracking_with_Spatial-temporal_Attention.md
 +++?include=slides/CVPR2018/End-to-End_Learning_of_Motion_Representation_for_Video_Understanding.md
 +++?include=slides/CVPR2018/Gaze_Prediction_in_Dynamic_360_Immersive_Videos.md
 +++?include=slides/CVPR2018/High_Performance_Visual_Tracking_with_Siamese_Region_Proposal_Network.md

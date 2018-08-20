@@ -1,21 +1,22 @@
 #### End-to-End Flow Correlation Tracking with Spatial-temporal Attention
 ###### Zheng Zhu, Wei Wu, Wei Zou, Junjie Yan
-<div class="container">
-  <div class="col">
-    <u><b>Abstract</b></u><br>
-    Most of existing Discriminative Correlation Filters (DCF) trackers only consider appearace features of current frame, and hardly benefit from motion and inter-frame information. In this work, we focus on making use of the rich flow information in consecutive frames to improve the feature representation and the tracking accuracy. Firstly, individual components, including optical flow estimation, feature extraction, aggregation and correaltion filter tracking are formulated as special layers in network. To the best of our knowledge, this is the first work to jointly train flow and tracking task in a deep learning framework. For adaptive aggregation, we propose a novel spatial-temporal attention mechanism.<br>
-    <u><b>Contribution</b></u><br>
-    <ul>
-      <li>We develop an end-to-end flow correlation tracking framework to improve the feature representation and the tracking accuracy. To the best of our knowledge, this is the first work to jointly train flow and tracking task in a deep learning framework.</li>
-      <li>A novel spatial-temporal attention mechanism is proposed, which can adatively aggregate the warped and current feature maps.</li>
-    </ul><br>
-    <u><b>Links</b></u><br>
-    <ul>
-      <li><a href="https://arxiv.org/abs/1711.01124">論文</a></li>
-    </ul><br>
-  </div>
-  <div class="col">
-    <img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/0ff3b840b49bdfa32ffd89f9965dd18766313c32/4-Figure2-1.png">
-    <img width="100%" src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/0ff3b840b49bdfa32ffd89f9965dd18766313c32/5-Figure3-1.png">
-  </div>
-</div>
+
+@div[left]
+
+__概要__<br>
+Correlation Filterを用いた物体追跡手法のほとんどは空間的情報のみを用いており、動き情報のような時間的情報を考慮していない。本論文では、フロー情報を用いて特徴量表現を向上させる手法としてFlowTrackを提案し、SoTAを達成した。提案手法では、過去の特徴量表現を適用的に統合するためのSpatial-Temporal Attention Mechanismを提案し、またFlowTrackはEnd-to-Endに学習することが可能である。<br>
+<br>
+__手法・新規性__<br>
+FlowTrackはEnd-to-Endに学習可能なSiamese Networkである。Siamese NetworkはHistorical BranchとCurrent Branchに分かれる。Current BranchはFeatureNetから空間特徴量を取得し、Historical Branchは`$t-1$`フレーム目に対してはFeatureNetにより空間特徴量を抽出し、それ以前のフレームと`$t-1$`フレーム目とのフロー情報をFlowNetにより推定し、このフロー情報を用いて`$t-1$`フレーム目との位置合わせを行う。位置合わせを行ったあと、活性化の共起に基づくSpatial Attentionを適応した後、各フレームから得た特徴量に対してGlobal Poolingを行い、それに対してTemporal Attentionを適応する。このようにして得られたHistorical Branchの特徴量とCurrent Branchの特徴量に対してCorrelation Filterを適応する。<br>
+
+@divend
+
+@div[right]
+
+![FlowTrack](assets/img/End-to-End_Flow_Correlaion_Tracking_with_Spatial-temporal_Attention.png =full)<br>
+<br>
+
+__リンク__<br>
+・[論文](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhu_End-to-End_Flow_Correlation_CVPR_2018_paper.pdf)<br>
+
+@divend
