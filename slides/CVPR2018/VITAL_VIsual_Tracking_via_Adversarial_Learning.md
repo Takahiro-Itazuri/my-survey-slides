@@ -14,7 +14,7 @@ __手法・新規性__<br>
 
 @div[right]
 
-![VITAL](assets/img/VITAL.png =full)<br>
+![VITAL](assets/img/VITAL_VIsual_Tracking_via_Adversarial_Learning.png =full)<br>
 <br>
 
 __リンク__<br>
