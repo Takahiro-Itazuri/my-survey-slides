@@ -80,6 +80,7 @@
 +++?include=slides/CVPR2017/End-to-End_Representation_Learning_for_Correlation_Filter_Based_Tracking.md
 +++?include=slides/CVPR2017/Image-to-Image_Translation_with_Conditional_Adversarial_Networks.md
 <!-- +++?include=slides/CVPR2017/Learning_Background-Aware_Correlation_Filters_for_Visual_Tracking.md -->
++++?include=slides/CVPR2017/Learning_from_Synthetic_Humans.md
 +++?include=slides/CVPR2017/The_World_of_Fast_Moving_Objects.md
 
 <!-- ---
