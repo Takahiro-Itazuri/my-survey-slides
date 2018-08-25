@@ -3,6 +3,7 @@
 
 ---
 ### ECCV 2018
++++?include=slides/ECCV2018/Long-term_Tracking_in_the_Wild_A_Benchmark.md
 +++?include=slides/ECCV2018/TrackingNet_A_Large-Scale_Dataset_and_Benchmark_for_Object_Tracking_in_the_Wild.md
 
 ---
