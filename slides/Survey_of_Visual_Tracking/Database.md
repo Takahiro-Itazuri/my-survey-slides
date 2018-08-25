@@ -1,9 +1,7 @@
-#### データベース
+#### Database
 
 @div[whole]
 
-__OTB-2013__<br>
-__OTB-2015__<br>
-__VOT-2016__<br>
+![](assets/img/Database.png =full)
 
 @divend
