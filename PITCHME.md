@@ -2,6 +2,10 @@
 ### Takahiro Itazuri (Waseda University)
 
 ---
+### ECCV 2018
++++?include=slides/ECCV2018/TrackingNet_A_Large-Scale_Dataset_and_Benchmark_for_Object_Tracking_in_the_Wild.md
+
+---
 ### CVPR 2018
 +++?include=slides/CVPR2018/A_Twofold_Siamese_Network_for_Real-Time_Object_Tracking.md
 +++?include=slides/CVPR2018/A_Two-Step_Disentanglement_Method.md
