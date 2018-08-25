@@ -9,12 +9,11 @@ __概要__<br>
 __手法・新規性__<br>
 Class-Agnostic Temporal Generatorは、元動画から得られる特徴量の活性化を再現するような動画を、サブサンプリングされたフレームからクラス情報を用いずに生成するネットワークである。つまり、Class-Agnostic Temporal Generatorはサブサンプリングされたフレームから想定される潜在的な動き情報を生成することを目的としている。Motion-Invariant Frame Selectorは、なるべく潜在的な動き情報を含んだフレームを選択する方法である。これらにより、行動認識に動き情報を必要としないクラスと必要とするクラスが存在することがわかった。<br>
 
-
 @divend
 
 @div[right]
 
-![](assets/img/What_Makes_Video_a_Video_Analyzing_Temporal_Information_in_Video_Understanding_Models_and_Datasets.png =full)<br>
+![](assets/img/What_Makes_a_Video_a_Video_Analyzing_Temporal_Information_in_Video_Understanding_Models_and_Datasets.png =full)<br>
 <br>
 
 __リンク__<br>

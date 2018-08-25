@@ -45,7 +45,7 @@
 +++?include=slides/CVPR2018/Tracking_Multiple_Objects_Outside_the_Line_of_Sight_Using_Speckle_Imaging.md
 +++?include=slides/CVPR2018/Viewpoint-aware_Video_Summarization.md
 +++?include=slides/CVPR2018/VITAL_VIsual_Tracking_via_Adversarial_Learning.md
-+++?include=slides/CVPR2018/What_Makes_Video_a_Video_Analyzing_Temporal_Information__in_Video_Understanding_Models_and_Datasets
++++?include=slides/CVPR2018/What_Makes_a_Video_a_Video_Analyzing_Temporal_Information__in_Video_Understanding_Models_and_Datasets
 
 ---
 ### ICRA 2018
@@ -73,6 +73,7 @@
 ---
 ### ICCV 2017
 +++?include=slides/ICCV2017/Learning_Spatio-Temporal_Features_with_3D_Residual_Networks_for_Action_Recognition.md
++++?include=slides/ICCV2017/Cut_Paste_and_Learn_Surprisingly_Easy_Synthesis_for_Instance_Detection.md
 
 ---
 ### CVPR 2017
