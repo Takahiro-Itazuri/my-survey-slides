@@ -14,7 +14,7 @@ __手法・新規性__<br>
 
 @div[right]
 
-![TrackingNet](assets/img/TrackingNet_A_Large-Scale_Dataset_and_Benchmark_for_Object_Tracking_in_the_Wild =full)<br>
+![TrackingNet](assets/img/TrackingNet_A_Large-Scale_Dataset_and_Benchmark_for_Object_Tracking_in_the_Wild.png =full)<br>
 <br>
 
 __リンク__<br>
