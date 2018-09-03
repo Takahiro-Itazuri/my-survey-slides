@@ -4,7 +4,7 @@
 @div[left]
 
 __概要__<br>
-これまで画像処理、CG、CVの分野で、入力画像に対応する出力画像を得るタスク（Image-to-Image Translation Task）が取り組まれてきたが、それぞれのタスクに特化した異なる損失関数を定義し、ニューラルネットワークを学習させてきた。本論文はImage-to-Image Translationタスクに対して一般的に適用可能なネットワーク（pix2pix）を提案した。<br>
+これまで画像処理、CG・CVの分野で、入力画像に対応する出力画像を得るタスク（Image-to-Image Translation Task）が取り組まれてきたが、それぞれのタスクに特化した異なる損失関数を定義し、ニューラルネットワークを学習させてきた。本論文はImage-to-Image Translationタスクに対して一般的に適用可能なネットワーク（pix2pix）を提案した。<br>
 <br>
 __手法・新規性__<br>
 pix2pixは以下の損失関数を最適化するConditional GAN（CGAN）である。<br>
