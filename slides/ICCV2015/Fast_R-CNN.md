@@ -11,8 +11,8 @@ Fast R-CNNでは1つネットワークの中で大きく3つの役割を持つ�
 1. 画像全体を入力し、CNN特徴量を抽出する。<br>
 2. 各ProposalごとにRoI Pooling層を用いて固定長の特徴量を抽出する。<br>
 3. クラス分類用の全結合層とBounding Boxの位置を回帰する全結合層に分かれる。<br>
-Multi-task Lossを導入することでsingle-stageにすることが可能となった。Multi-task Lossは各クラスごとの確率の正解`$u$`と推定値`$p$`、Bounding Boxの位置の正解`$v$`と推定値`$t$`を用いて、以下の式で与えられる。<br>
-`\begin{align} L(p,u,t^u,v) = L_{cls} (p,u) + \lambda \left[ u \geq 1 \right] L_{loc} (t^u, v) \end{align}`
+Multi-task Lossを導入することでsingle-stageにすることが可能となった。Multi-task Lossは正解のクラスラベル`$u$`と各カテゴリの確率の推定値`$p$`、Bounding Boxの位置の正解`$v$`と推定値`$t$`を用いて、以下の式で与えられる。<br>
+`\begin{align} L(p,u,t^u,v) &= L_{cls} (p,u) + \lambda \left[ u \geq 1 \right] L_{loc} (t^u, v) \\ L_{cls} (p,u) &= - \log p_u \\ L_{loc} (t^u,v) &= \sum_{i \in \left\{x,y,w,h\right\}} {\rm smooth}_{L_1} \left( t_i^u - v_i \right) \\ {\rm smooth}_{L_1} (x) &= \begin{cases} 0.5 x^2 & |x| < 1 \\ |x| - 0.5 & {\rm otherwise} \end{cases} \end{align}`
 
 @divend
 
