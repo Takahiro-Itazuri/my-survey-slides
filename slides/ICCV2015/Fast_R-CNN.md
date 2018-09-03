@@ -7,7 +7,7 @@ __概要__<br>
 R-CNNが各ProposalごとにCNNを順伝搬するため低速であった。そこでSPPnetはCNN特徴量を共有することで計算速度を向上させた。しかし、SPPnetは依然として学習過程がmulti-stageで構成されていることや、fine-tuning時にCNNを更新できないことが、精度を低くする原因となっている。本論文では、single-stageでProposalの分類と位置の更新が可能な構造を持つ高速かつ高精度な物体検出ネットワーク（Fast R-CNN）を提案した。<br>
 <br>
 __手法・新規性__<br>
-Fast R-CNNでは1つネットワークの中で大きく3つの役割を持つ部分に分解できる（全体の処理はsingle-stageに行える）。
+Fast R-CNNでは1つネットワークの中で大きく3つの役割を持つ部分に分解できる（全体の処理はsingle-stageに行える）。<br>
 1. 画像全体を入力し、CNN特徴量を抽出する。<br>
 2. 各ProposalごとにRoI Pooling層を用いて固定長の特徴量を抽出する。<br>
 3. クラス分類用の全結合層とBounding Boxの位置を回帰する全結合層に分かれる。<br>
