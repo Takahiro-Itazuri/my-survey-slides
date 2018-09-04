@@ -16,7 +16,7 @@ pix2pixは以下の損失関数を最適化するConditional GAN（CGAN）であ
 この式から、CGANはDiscriminatorへの入力に`$x$`が加わっていることがわかる。<br>
 pix2pixでは上述の式に加えて、L1ロスを追加して、以下の式を最適化する。<br>
 `\begin{align} G^{\ast} &= \mathop{\rm arg~min}\limits_{G} \mathop{\rm max}\limits_{D} \mathcal{L}_{CGAN} (G, D) + \lambda \mathcal{L}_{L1} (G) \\ \mathcal{L}_{L1} (G) &= \mathbb{E}_{x,y,z} \left[ \| y - G(x,z) \|_1 \right] \end{align}`
-L1ロスを加えることでartifactを軽減することができる。またアーキテクチャとしてはSkip Connectionを持つU-Netを用いることで、localな情報を保持することができるため、よりリアルな画像を生成できる。
+L1ロスとCGANを組み合わせ、Skip Connectionを持つU-Netを用いることで、localな情報を保持することができ、またPatchレベルでGANを行うことで、よりリアルな画像生成を実現した。
 
 @divend
 
