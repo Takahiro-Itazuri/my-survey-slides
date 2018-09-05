@@ -38,7 +38,7 @@
 +++?include=slides/CVPR2018/Learning_to_Segment_Every_Thing.md
 +++?include=slides/CVPR2018/Low-Shot_Learning_with_Imprinted_Weights.md
 +++?include=slides/CVPR2018/Matching_Adversarial_Networks.md
-+++?include=slides/CVPR2018/Matryoshka_Networks.md
++++?include=slides/CVPR2018/Matryoshka_Networks_Predicting_3D_Geometry_via_Nested_Shape_Layers.md
 +++?include=slides/CVPR2018/MoNet.md
 +++?include=slides/CVPR2018/Multi-Cue_Correlation_Filters_for_Robust_Visual_Tracking.md
 +++?include=slides/CVPR2018/NISP_Pruning_Networks_Using_Neuron_Importance_Score_Propagation.md

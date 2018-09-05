@@ -14,7 +14,7 @@ shape layerは6軸方向から見た深度画像を出力し、各軸に対応�
 
 @div[right]
 
-![Matryoshka Networks](assets/img/Matryoshka_Networks.png =full)<br>
+![Matryoshka Networks](assets/img/Matryoshka_Networks_Predicting_3D_Geometry_via_Nested_Shape_Layers.png =full)<br>
 <br>
 
 __リンク__<br>
