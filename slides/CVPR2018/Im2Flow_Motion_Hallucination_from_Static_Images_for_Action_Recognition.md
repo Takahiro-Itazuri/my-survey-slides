@@ -13,7 +13,7 @@ __手法・新規性__<br>
 
 @div[right]
 
-![](assets/img/Im2Flow.png =full)<br>
+![](assets/img/Im2Flow_Motion_Hallucination_from_Static_Images_for_Action_Recognition.png =full)<br>
 <br>
 
 __リンク__<br>
