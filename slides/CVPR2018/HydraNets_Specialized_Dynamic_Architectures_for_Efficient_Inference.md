@@ -14,7 +14,7 @@ HydraNetは複数のbranchで構成され、各branchは特定のsubtask特化�
 
 @div[right]
 
-![HydraNets](assets/img/HydraNets.png =full)<br>
+![HydraNets](assets/img/HydraNets_Specialized_Dynamic_Architectures_for_Efficient_Inference.png =full)<br>
 <br>
 
 __リンク__<br>
