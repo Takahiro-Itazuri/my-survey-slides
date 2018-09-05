@@ -191,6 +191,7 @@
 
 ---
 ### CVPR 2014
++++?include=slides/CVPR2014/Large-scale_Video_Classification_with_Convolutional_Neural_Networks.md
 +++?include=slides/CVPR2014/Rich_Feature_Hierarchies_for_Accurate_Object_Detection_and_Semantic_Segmentation.md
 
 ---
