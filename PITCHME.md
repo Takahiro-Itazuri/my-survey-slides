@@ -10,7 +10,7 @@
 ### CVPR 2018
 +++?include=slides/CVPR2018/A_Twofold_Siamese_Network_for_Real-Time_Object_Tracking.md
 +++?include=slides/CVPR2018/A_Two-Step_Disentanglement_Method.md
-+++?include=slides/CVPR2018/AttnGAN.md
++++?include=slides/CVPR2018/AttnGAN_Fine-Grained_Text_to_Image_Generation_with_Attention_Generative_Adversarial_Networks.md
 +++?include=slides/CVPR2018/Analyzing_Filters_Toward_Efficient_ConvNet.md
 +++?include=slides/CVPR2018/Compressed_Video_Action_Recognition.md
 <!-- +++?include=slides/CVPR2018/Context-aware_Deep_Feature_Compression_for_High-speed_Visual_Tracking.md -->
@@ -26,7 +26,7 @@
 +++?include=slides/CVPR2018/End-to-End_Learning_of_Motion_Representation_for_Video_Understanding.md
 +++?include=slides/CVPR2018/Gaze_Prediction_in_Dynamic_360_Immersive_Videos.md
 +++?include=slides/CVPR2018/High_Performance_Visual_Tracking_with_Siamese_Region_Proposal_Network.md
-+++?include=slides/CVPR2018/High-speed_Tracking_with_Multi-kernel_Correlation_Filters.md
++++?include=slides/CVPR2018/High-Speed_Tracking_with_Multi-kernel_Correlation_Filters.md
 +++?include=slides/CVPR2018/HydraNets.md
 +++?include=slides/CVPR2018/Im2Flow.md
 +++?include=slides/CVPR2018/Interactive_Image_Segmentation_with_Latent_Diversity.md
