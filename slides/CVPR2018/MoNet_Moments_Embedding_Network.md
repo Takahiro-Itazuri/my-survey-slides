@@ -14,7 +14,7 @@ Bilinear Poolingの次元数を減らすためCompact Poolingが提案された�
 
 @div[right]
 
-![](assets/img/MoNet.png =full)<br>
+![](assets/img/MoNet_Moments_Embedding_Network.png =full)<br>
 <br>
 
 __リンク__<br>
