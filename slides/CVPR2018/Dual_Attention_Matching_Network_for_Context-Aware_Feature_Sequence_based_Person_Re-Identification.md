@@ -14,7 +14,7 @@ DuATMは大きく２つの構成要素からなる。１つは動画内から特
 
 @div[right]
 
-![DuATM](assets/img/DuATM.png =full)<br>
+![DuATM](assets/img/Dual_Attention_Matching_Network_for_Context-Aware_Feature_Sequence_based_Person_Re-Identification.png =full)<br>
 <br>
 
 __リンク__<br>
