@@ -51,7 +51,7 @@
 +++?include=slides/CVPR2018/Tracking_Multiple_Objects_Outside_the_Line_of_Sight_Using_Speckle_Imaging.md
 +++?include=slides/CVPR2018/Viewpoint-aware_Video_Summarization.md
 +++?include=slides/CVPR2018/VITAL_VIsual_Tracking_via_Adversarial_Learning.md
-+++?include=slides/CVPR2018/What_Makes_a_Video_a_Video_Analyzing_Temporal_Information__in_Video_Understanding_Models_and_Datasets
++++?include=slides/CVPR2018/What_Makes_a_Video_a_Video_Analyzing_Temporal_Information_in_Video_Understanding_Models_and_Datasets.md
 
 ---
 ### ICRA 2018
