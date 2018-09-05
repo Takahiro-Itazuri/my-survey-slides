@@ -13,7 +13,7 @@ __手法・新規性__<br>
 
 @div[right]
 
-![RayNet](assets/img/RayNet.png =full)<br>
+![RayNet](assets/img/RayNet_Learning_Volumetric_3D_Reconstruction_With_Ray_Potentials.png =full)<br>
 <br>
 
 __リンク__<br>
