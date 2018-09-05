@@ -16,7 +16,7 @@ Residual Attentionは追跡対象に特化させるようにオンライン学�
 
 @div[right]
 
-![RASNet](assets/img/RASNet.png =full)<br>
+![RASNet](assets/img/Learning_Attentions_Residual_Attentional_Siamese_Network_for_High_Performance_Online_Visual_Tracking.png =full)<br>
 <br>
 
 __リンク__<br>
