@@ -13,7 +13,7 @@ DEDTは高い適応性と多様性を持つ識別器群であるCommitteeモデ�
 
 @div[right]
 
-![DEDT](assets/img/DEDT.png =full)<br>
+![DEDT](assets/img/Efficient_Diverse_Ensemble_for_Discriminative_Co-Tracking.png =full)<br>
 <br>
 
 __リンク__<br>
