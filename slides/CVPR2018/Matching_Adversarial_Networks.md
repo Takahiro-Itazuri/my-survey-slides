@@ -14,7 +14,7 @@ DiscriminatorをSiamese Networkにする。2枚の画像ペアのうち、1枚�
 
 @div[right]
 
-![](assets/img/MatAN.png =full)<br>
+![MatAN](assets/img/Matching_Adversarial_Networks.png =full)<br>
 <br>
 
 __リンク__<br>
