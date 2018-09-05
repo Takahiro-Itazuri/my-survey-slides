@@ -14,7 +14,7 @@ __手法・新規性__<br>
 
 @div[right]
 
-![](assets/img/Siamese-RPN.png =full)<br>
+![Siamese-RPN](assets/img/High_Performance_Visual_Tracking_with_Siamese_Region_Proposal_Network.png =full)<br>
 <br>
 
 __リンク__<br>
