@@ -14,7 +14,7 @@ __手法・新規性__<br>
 
 @div[right]
 
-![](assets/img/NISP.png =full)<br>
+![](assets/img/NISP_Pruning_Networks_Using_Neuron_Importance_Score_Propagation.png =full)<br>
 <br>
 
 __リンク__<br>
