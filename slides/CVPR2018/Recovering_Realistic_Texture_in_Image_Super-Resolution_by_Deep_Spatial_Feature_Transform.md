@@ -14,7 +14,7 @@ SFT層は特徴量をアフィン変換をする層である。そのアフィ�
 
 @div[right]
 
-![](assets/img/SFT-GAN.png =full)<br>
+![SFT-GAN](assets/img/Recovering_Realistic_Texture_in_Image_Super-Resolution_by_Deep_Spatial_Feature_Transform.png =full)<br>
 <br>
 
 __リンク__<br>
