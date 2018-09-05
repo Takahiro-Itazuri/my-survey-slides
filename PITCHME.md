@@ -47,7 +47,7 @@
 +++?include=slides/CVPR2018/Recovering_Realistic_Texture_in_Image_Super-Resolution_by_Deep_Spatial_Feature_Transform.md
 +++?include=slides/CVPR2018/Single_Image_Reflection_Separation_with_Perceptual_Losses.md
 +++?include=slides/CVPR2018/SINT_Robust_Visual_Tracking_via_Adversarial_Positive_Instance_Generation.md
-+++?include=slides/CVPR2018/Taskonomy.md
++++?include=slides/CVPR2018/Taskonomy_Disentagling_Task_Transfer_Learning.md
 +++?include=slides/CVPR2018/Tracking_Multiple_Objects_Outside_the_Line_of_Sight_Using_Speckle_Imaging.md
 +++?include=slides/CVPR2018/Viewpoint-aware_Video_Summarization.md
 +++?include=slides/CVPR2018/VITAL_VIsual_Tracking_via_Adversarial_Learning.md

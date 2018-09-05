@@ -18,7 +18,7 @@ __手法・新規性__<br>
 
 @div[right]
 
-![Taskonomy](assets/img/Taskonomy.png =full)<br>
+![Taskonomy](assets/img/Taskonomy_Disentagling_Task_Transfer_Learning.png =full)<br>
 <br>
 
 __リンク__<br>
