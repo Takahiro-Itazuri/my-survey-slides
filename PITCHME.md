@@ -3,6 +3,7 @@
 
 ---
 ### ECCV 2018
++++?include=slides/ECCV2018/Distractor-aware_Siamese_Networks_for_Visual_object_Tracking.md
 +++?include=slides/ECCV2018/Long-term_Tracking_in_the_Wild_A_Benchmark.md
 +++?include=slides/ECCV2018/TrackingNet_A_Large-Scale_Dataset_and_Benchmark_for_Object_Tracking_in_the_Wild.md
 
@@ -87,6 +88,7 @@
 +++?include=slides/CVPR2017/Image-to-Image_Translation_with_Conditional_Adversarial_Networks.md
 <!-- +++?include=slides/CVPR2017/Learning_Background-Aware_Correlation_Filters_for_Visual_Tracking.md -->
 +++?include=slides/CVPR2017/Learning_from_Synthetic_Humans.md
++++?include=slides/CVPR2017/One-Shot_Video_Object_Segmentation.md
 +++?include=slides/CVPR2017/The_World_of_Fast_Moving_Objects.md
 
 <!-- ---
