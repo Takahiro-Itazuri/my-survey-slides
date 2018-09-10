@@ -20,7 +20,7 @@ __手法・新規性__<br>
 
 @div[right]
 
-![vid2vid](assets/img/Video-to-Video_Synthesis.gif =full)<br>
+![vid2vid](assets/img/Video-to-Video_Synthesis.png =full)<br>
 <br>
 
 __リンク__<br>
