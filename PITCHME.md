@@ -185,6 +185,7 @@
 ---
 ### arXiv 2015
 +++?include=slides/arXiv2015/A_Neural_Algorithm_of_Artistic_Style.md
++++?include=slides/arXiv2015/U-Net_Convolutional_Networks_for_Biomedical_Image_Segmentation.md
 
 ---
 ### NIPS 2014
