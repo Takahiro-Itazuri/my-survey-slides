@@ -156,10 +156,9 @@
 ### ICCV 2015
 +++?include=slides/ICCV2015/Fast_R-CNN.md
 +++?include=slides/ICCV2015/Hierarchical_Convolutional_Features_for_Visual_Tracking.md
-<!-- +++?include=slides/ICCV2015/SRDCF.md -->
 +++?include=slides/ICCV2015/Learning_Spatially_Regularized_Correlation_Filters_for_Visual_Tracking.md
 +++?include=slides/ICCV2015/Learning_Spatiotemporal_Features_with_3D_Convolutional_Networks.md
-<!-- +++?include=slides/ICCV2015/VQA.md  -->
++++?include=slides/ICCV2015/Visual_Tracking_with_Fully_Convolutional_Networks.md
 
 ---
 ### ICCVW 2015
