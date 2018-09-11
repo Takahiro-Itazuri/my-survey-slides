@@ -14,7 +14,7 @@ __手法・新規性__<br>
 
 @div[right]
 
-![](assets/img/ =full)<br>
+![](assets/img/Learning_from_Synthetic_Humans.png =full)<br>
 <br>
 
 __リンク__<br>
