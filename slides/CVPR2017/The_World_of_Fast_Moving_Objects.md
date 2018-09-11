@@ -14,7 +14,7 @@ __手法・新規性__<br>
 
 @div[right]
 
-![](assets/img/The_World_of_Fast_Moving_Objects =full)<br>
+![](assets/img/The_World_of_Fast_Moving_Objects.png =full)<br>
 <br>
 
 __リンク__<br>
