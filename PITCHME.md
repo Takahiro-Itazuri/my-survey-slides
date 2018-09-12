@@ -27,6 +27,7 @@
 +++?include=slides/CVPR2018/End-to-End_Learning_of_Motion_Representation_for_Video_Understanding.md
 +++?include=slides/CVPR2018/Gaze_Prediction_in_Dynamic_360_Immersive_Videos.md
 +++?include=slides/CVPR2018/High_Performance_Visual_Tracking_with_Siamese_Region_Proposal_Network.md
++++?include=slides/CVPR2018/High-Resolution_Image_Synthesis_and_Semantic_Manipulation_with_Conditional_GANs.md
 +++?include=slides/CVPR2018/High-Speed_Tracking_with_Multi-kernel_Correlation_Filters.md
 +++?include=slides/CVPR2018/HydraNets_Specialized_Dynamic_Architectures_for_Efficient_Inference.md
 +++?include=slides/CVPR2018/Im2Flow_Motion_Hallucination_from_Static_Images_for_Action_Recognition.md
