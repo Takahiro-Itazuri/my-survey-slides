@@ -38,7 +38,7 @@
 +++?include=slides/CVPR2018/Learning_Attentions_Residual_Attentional_Siamese_Network_for_High_Performance_Online_Visual_Tracking.md
 <!-- +++?include=slides/CVPR2018/Learning_Spatial-Aware_Regressions_for_Visual_Tracking.md -->
 <!-- +++?include=slides/CVPR2018/Learning_Spatial-Temporal_Regularized_Correlation_Filters_for_Visual_Tracking.md -->
-+++?include=slides/CVPR2018/Learning_Superpixels_with_Segmentation-Aware_Affinity_Loss
++++?include=slides/CVPR2018/Learning_Superpixels_with_Segmentation-Aware_Affinity_Loss.md
 +++?include=slides/CVPR2018/Learning_to_Segment_Every_Thing.md
 +++?include=slides/CVPR2018/Low-Shot_Learning_with_Imprinted_Weights.md
 +++?include=slides/CVPR2018/Matching_Adversarial_Networks.md
