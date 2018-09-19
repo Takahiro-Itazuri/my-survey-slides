@@ -59,6 +59,7 @@
 
 ---
 ### ICRA 2018
++++?include=slides/ICRA2018/SceneCut_Joint_Geometric_and_Object_Segmentation_for_Indoor_Scenes.md
 +++?include=slides/ICRA2018/Social_Attention_Modeling_Attention_in_Human_Crowds.md
 
 <!-- --- -->
