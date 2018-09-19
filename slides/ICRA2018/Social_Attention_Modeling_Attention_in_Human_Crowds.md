@@ -14,7 +14,7 @@ S-RNNはnodeRNNとedgeRNNから構成されており、各ノードごとに定�
 
 @div[right]
 
-![Social Attention](assets/img/Social_Attentio_Modeling_Attention_in_Human_Crowds.png =full)<br>
+![Social Attention](assets/img/Social_Attention_Modeling_Attention_in_Human_Crowds.png =full)<br>
 <br>
 
 __リンク__<br>
