@@ -15,7 +15,7 @@ DeepFDは大きく2つのネットワークに分かれており、1つは識別
 
 @div[right]
 
-![](assets/img/Learning_to_Detect_Fake_Face_Images_in_the_Wild =full)<br>
+![](assets/img/Learning_to_Detect_Fake_Face_Images_in_the_Wild.png =full)<br>
 <br>
 
 __リンク__<br>
