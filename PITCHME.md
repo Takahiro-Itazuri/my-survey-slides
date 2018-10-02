@@ -79,6 +79,7 @@
 ---
 ### arXiv 2018
 +++?include=slides/arXiv2018/Drive_Video_Analysis_for_the_Detection_of_Traffic_Near-Miss_Incidents.md
++++?include=slides/arXiv2018/Efficient_Semantic_Image_Segmentation_with_Superpixel_Pooling.md
 +++?include=slides/arXiv2018/Learning_to_Detect_Fake_Face_Images_in_the_Wild.md
 +++?include=slides/arXiv2018/Tracking_Emerges_by_Colorizing_Videos.md
 +++?include=slides/arXiv2018/Video-to-Video_Synthesis.md
@@ -151,6 +152,7 @@
 
 ---
 ### ICLR 2016
++++?include=slides/ICLR2016/Multi-Scale_Context_Aggregation_by_Dialted_Convolutions.md
 +++?include=slides/ICLR2016/Unsupervised_Representation_Learning_with_Deep_Convolutional_Generative_Adversarial_Networks.md
 
 ---
