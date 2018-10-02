@@ -79,6 +79,7 @@
 ---
 ### arXiv 2018
 +++?include=slides/arXiv2018/Drive_Video_Analysis_for_the_Detection_of_Traffic_Near-Miss_Incidents.md
++++?include=slides/arXiv2018/Learning_to_Detect_Fake_Face_Images_in_the_Wild.md
 +++?include=slides/arXiv2018/Tracking_Emerges_by_Colorizing_Videos.md
 +++?include=slides/arXiv2018/Video-to-Video_Synthesis.md
 
@@ -86,6 +87,10 @@
 ### ICCV 2017
 +++?include=slides/ICCV2017/Learning_Spatio-Temporal_Features_with_3D_Residual_Networks_for_Action_Recognition.md
 +++?include=slides/ICCV2017/Cut_Paste_and_Learn_Surprisingly_Easy_Synthesis_for_Instance_Detection.md
+
+---
+### BMVC 2017
++++?include=slides/BMVC2017/Superpixel-based_Semantic_Segmentation_trained_by_Statistical_Process_Control.md
 
 ---
 ### CVPR 2017
