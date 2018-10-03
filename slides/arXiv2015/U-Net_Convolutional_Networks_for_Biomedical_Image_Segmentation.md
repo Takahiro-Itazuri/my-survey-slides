@@ -20,5 +20,6 @@ U-Netは左右対称な構造となっており、スケールを小さくしな
 __リンク__<br>
 ・[論文](https://arxiv.org/abs/1505.04597)<br>
 ・[プロジェクト](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)<br>
+・[デモ](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
 
 @divend
