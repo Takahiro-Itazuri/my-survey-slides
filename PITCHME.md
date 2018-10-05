@@ -85,6 +85,10 @@
 +++?include=slides/arXiv2018/Video-to-Video_Synthesis.md
 
 ---
+### TPAMI 2017
++++?include=slides/TPAMI2017/SegNet_A_Deep_Convolutional_Encoder-Decoder_Architecture_for_Image_Segmentation.md
+
+---
 ### ICCV 2017
 +++?include=slides/ICCV2017/Learning_Spatio-Temporal_Features_with_3D_Residual_Networks_for_Action_Recognition.md
 +++?include=slides/ICCV2017/Cut_Paste_and_Learn_Surprisingly_Easy_Synthesis_for_Instance_Detection.md
