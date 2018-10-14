@@ -20,6 +20,6 @@ __手法・新規性__<br>
 <br>
 
 __リンク__<br>
-・[](https://arxiv.org/pdf/1411.1784.pdf)<br>
+・[論文](https://arxiv.org/pdf/1411.1784.pdf)<br>
 
 @divend
