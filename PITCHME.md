@@ -220,6 +220,10 @@
 +++?include=slides/ICLR2014/Auto-Encoding_Variational_Bayes.md
 
 ---
+### arXiv 2014
++++?include=slides/arXiv2014/Conditional_Generative_Adversarial_Nets.md
+
+---
 ### ICCV 2013
 +++?include=slides/ICCV2013/Multi-channel_Correlation_Filters.md
 
