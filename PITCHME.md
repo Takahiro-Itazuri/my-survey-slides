@@ -80,6 +80,7 @@
 
 ---
 ### arXiv 2018
++++?include=slides/arXiv2018/A3T_Adversarially_Augmented_Adversarial_Training.md
 +++?include=slides/arXiv2018/Drive_Video_Analysis_for_the_Detection_of_Traffic_Near-Miss_Incidents.md
 +++?include=slides/arXiv2018/Efficient_Semantic_Image_Segmentation_with_Superpixel_Pooling.md
 +++?include=slides/arXiv2018/Learning_to_Detect_Fake_Face_Images_in_the_Wild.md
