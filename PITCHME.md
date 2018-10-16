@@ -135,6 +135,7 @@
 
 ---
 ### arXiv 2017
++++?include=slides/arXiv2017/Least_Squares_Generative_Adversarial_Networks.md
 +++?include=slides/arXiv2017/Optimizing_the_Latent_Space_of_Generative_Networks.md
 <!-- +++?include=slides/arXiv2017/Survey_of_Visual_Question_Answering.md -->
 
