@@ -13,6 +13,7 @@
 ### CVPR 2018
 +++?include=slides/CVPR2018/A_Twofold_Siamese_Network_for_Real-Time_Object_Tracking.md
 +++?include=slides/CVPR2018/A_Two-Step_Disentanglement_Method.md
++++?include=slides/CVPR2018/Adversarial_Feature_Augmentation_for_Unsupervised_Domain_Adaptation.md
 +++?include=slides/CVPR2018/AttnGAN_Fine-Grained_Text_to_Image_Generation_with_Attention_Generative_Adversarial_Networks.md
 +++?include=slides/CVPR2018/Analyzing_Filters_Toward_Efficient_ConvNet.md
 +++?include=slides/CVPR2018/Compressed_Video_Action_Recognition.md
