@@ -142,6 +142,10 @@
 <!-- +++?include=slides/arXiv2017/Survey_of_Visual_Question_Answering.md -->
 
 ---
+### NIPS 2016
++++?include=slides/NIPS2016/Improved_Techniques_for_Training_GANs.md
+
+---
 ### ECCV 2016
 +++?include=slides/ECCV2016/Beyond_Correlation_Filters.md
 +++?include=slides/ECCV2016/SSD_Single_Shot_MultiBox_Detector.md
