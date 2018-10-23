@@ -226,6 +226,7 @@
 ---
 ### ICLR 2014
 +++?include=slides/ICLR2014/Auto-Encoding_Variational_Bayes.md
++++?include=slides/ICLR2014/Intriguing_Properties_of_Neural_Networks.md
 
 ---
 ### arXiv 2014
