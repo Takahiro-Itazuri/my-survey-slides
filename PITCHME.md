@@ -82,6 +82,7 @@
 
 ---
 ### ICLR 2018
++++?include=slides/ICLR2018/cGANs_with_Projection_Discriminator.md
 +++?include=slides/ICLR2018/Spectral_Normalization_for_Generative_Adversarial_Networks.md
 
 ---
