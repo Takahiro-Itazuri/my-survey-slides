@@ -81,6 +81,10 @@
 <!-- +++?include=slides/CHI2018/Wall++.md -->
 
 ---
+### ICLR 2018
++++?include=slides/ICLR2018/Spectral_Normalization_for_Generative_Adversarial_Networks.md
+
+---
 ### arXiv 2018
 +++?include=slides/arXiv2018/A3T_Adversarially_Augmented_Adversarial_Training.md
 +++?include=slides/arXiv2018/Drive_Video_Analysis_for_the_Detection_of_Traffic_Near-Miss_Incidents.md
