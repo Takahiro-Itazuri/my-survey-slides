@@ -8,7 +8,7 @@
 +++?include=slides/ECCV2018/Distractor-aware_Siamese_Networks_for_Visual_object_Tracking.md
 +++?include=slides/ECCV2018/How_good_is_my_GAN.md
 +++?include=slides/ECCV2018/Long-term_Tracking_in_the_Wild_A_Benchmark.md
-+++?include=slides/arXiv2018/Tracking_Emerges_by_Colorizing_Videos.md
++++?include=slides/ECCV2018/Tracking_Emerges_by_Colorizing_Videos.md
 +++?include=slides/ECCV2018/TrackingNet_A_Large-Scale_Dataset_and_Benchmark_for_Object_Tracking_in_the_Wild.md
 
 ---
