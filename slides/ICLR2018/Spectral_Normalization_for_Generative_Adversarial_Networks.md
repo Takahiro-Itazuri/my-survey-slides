@@ -7,7 +7,7 @@ __概要__<br>
 GANの学習の安定化するため、Discriminatorの重みの正規化方法としてSpectral Normalizationを提案した。Spectral Normalizationは計算量も軽く、既存の実装に容易に組み込むことが可能である。実験では、Spectral Normalizationを用いたGAN（SNGAN）で、CIFAR10、STL-10、ILSVRC2012のデータセットで画像生成を行った結果、既存手法より高いInception Scoreと低いFIDを実現した。<br>
 <br>
 __手法・新規性__<br>
-Discriminatorを関数`$f$`とし、`$l$`番目の層を`$g_l(h)=W^l h_{l-1}$`とする。Spectral Normalizationは関数`$f$`のリプシッツ定数をコントロールする手法である。`$g_l$`のリプシッツノルム`$\|g_l\|_{Lip}$`は`${\rm sup}_h \simga (\nabla g_l (h))$`と等しい（`$\sigma(A)$`は行列`$A$`のスペクトルノルム）。活性化関数はReLUを考えると、リプシッツノルムは1であることがわかる。これにより、関数`$f$`のリプシッツノルム`$\|f\|_{Lip}$`は以下の式のように上からおさえることができる。<br>
+Discriminatorを関数`$f$`とし、`$l$`番目の層を`$g_l(h)=W^l h_{l-1}$`とする。Spectral Normalizationは関数`$f$`のリプシッツ定数をコントロールする手法である。`$g_l$`のリプシッツノルム`$\|g_l\|_{Lip}$`は`${\rm sup}_h \sigma (\nabla g_l (h))$`と等しい（`$\sigma(A)$`は行列`$A$`のスペクトルノルム）。活性化関数はReLUを考えると、リプシッツノルムは1であることがわかる。これにより、関数`$f$`のリプシッツノルム`$\|f\|_{Lip}$`は以下の式のように上からおさえることができる。<br>
 `\begin{align} \|f\|_{Lip} = \prod_{l=1}^{L+1} \sigma(W^l) \end{align}`
 以下のようにスペクトルノルムで各重み行列を正規化すると、リプシッツ定数が1になるようにすることができる。<br>
 `\begin{align} \overline{W}_{SN} = W / \sigma(W) \end{align}`
