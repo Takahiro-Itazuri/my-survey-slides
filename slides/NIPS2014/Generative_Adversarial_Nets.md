@@ -8,7 +8,7 @@ __概要__<br>
 <br>
 __手法・新規性__<br>
 生成モデル`$G(z;\theta_G)$`はパラメータ`theta_G$`を持ち、ノイズ`$z \sim p_z(z)$`をデータ空間に射影する写像であり、データ分布`$p_{data}$`と自身の分布`$p_g$`を一致させるように学習する。識別モデル`$D(x;\theta_d)$`はパラメータ`$\theta_d$`を持ち、データ`$x$`が真のデータ分布`$p_{data}$`に属する確率を出力する写像であり、`$p_g$`と`$p_{data}$`を識別するように学習する。このことは以下の式で定式化される。<br>
-`\begin{align} \mathop{\rm min}\limits_{G} \mathop{\rm max}\limits_{D} V(D,G)= \mathbb_{x \sim p_{data}} \left[ \log D(x) \right] + \mathbb{E}_{z \sim p_z} \left[ \log (1 - D(G(z))) \right] \end{align}`
+`\begin{align} \mathop{\rm min}\limits_{G} \mathop{\rm max}\limits_{D} V(D,G)= \mathbb{E}_{x \sim p_{data}} \left[ \log D(x) \right] + \mathbb{E}_{z \sim p_z} \left[ \log (1 - D(G(z))) \right] \end{align}`
 したがって、`$D$`は対数尤度`$V$`を最大化するように学習し、`$G$`は`$V$`の第二項にあたる`$G$`に関する対数尤度`$\log(D(G(z)))$`）を最大化するように学習する。
 
 @divend
