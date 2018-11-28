@@ -15,11 +15,10 @@ AdvGANは生成器`$G$`と識別器`$D$`と攻撃対象の分類器`$f$`から�
 
 @div[right]
 
-![](path/to/img =full)<br>
+![](assets/img/Generating_Adversarial_Examples_with_Adversarial_Networks.png =full)<br>
 <br>
 
 __リンク__<br>
 ・[論文](https://arxiv.org/pdf/1801.02610.pdf)<br>
-・[](url)<br>
 
 @divend
