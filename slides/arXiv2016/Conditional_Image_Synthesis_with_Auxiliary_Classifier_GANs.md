@@ -16,7 +16,7 @@ __手法・新規性__<br>
 
 @div[right]
 
-![](path/to/img =full)<br>
+![](assets/img/Conditional_Image_Synthesis_with_Auxiliary_Classifier_GANs.png =full)<br>
 <br>
 
 __リンク__<br>
