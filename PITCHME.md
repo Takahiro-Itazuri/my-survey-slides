@@ -1,6 +1,7 @@
 # Survey Slides
 ### Takahiro Itazuri (Waseda University)
 
+<!------------------------ 2018 --------------------------->
 ---
 ### ECCV 2018
 +++?include=slides/ECCV2018/Bayesian_Semantic_Instance_Segmentation_in_Open_Set_World.md
@@ -95,6 +96,7 @@
 +++?include=slides/arXiv2018/Learning_to_Detect_Fake_Face_Images_in_the_Wild.md
 +++?include=slides/arXiv2018/Video-to-Video_Synthesis.md
 
+<!------------------------ 2017 --------------------------->
 ---
 ### TPAMI 2017
 +++?include=slides/TPAMI2017/SegNet_A_Deep_Convolutional_Encoder-Decoder_Architecture_for_Image_Segmentation.md
@@ -103,6 +105,10 @@
 ### ICCV 2017
 +++?include=slides/ICCV2017/Learning_Spatio-Temporal_Features_with_3D_Residual_Networks_for_Action_Recognition.md
 +++?include=slides/ICCV2017/Cut_Paste_and_Learn_Surprisingly_Easy_Synthesis_for_Instance_Detection.md
+
+---
+### ICML 2017
++++?include=slides/arXiv2016/Conditional_Image_Synthesis_with_Auxiliary_Classifier_GANs.md
 
 ---
 ### BMVC 2017
@@ -148,6 +154,7 @@
 +++?include=slides/arXiv2017/Optimizing_the_Latent_Space_of_Generative_Networks.md
 +++?include=slides/arXiv2017/SmoothGrad_Removing_Noise_by_Adding_Noise.md
 
+<!------------------------ 2016 --------------------------->
 ---
 ### NIPS 2016
 +++?include=slides/NIPS2016/Improved_Techniques_for_Training_GANs.md
@@ -177,10 +184,7 @@
 +++?include=slides/ICLR2016/Multi-Scale_Context_Aggregation_by_Dialted_Convolutions.md
 +++?include=slides/ICLR2016/Unsupervised_Representation_Learning_with_Deep_Convolutional_Generative_Adversarial_Networks.md
 
----
-### arXiv 2016
-+++?include=slides/arXiv2016/Conditional_Image_Synthesis_with_Auxiliary_Classifier_GANs.md
-
+<!------------------------ 2015 --------------------------->
 ---
 ### NIPS 2015
 +++?include=slides/NIPS2015/Faster_R-CNN.md
@@ -223,6 +227,7 @@
 +++?include=slides/arXiv2015/A_Neural_Algorithm_of_Artistic_Style.md
 +++?include=slides/arXiv2015/U-Net_Convolutional_Networks_for_Biomedical_Image_Segmentation.md
 
+<!------------------------ 2014 --------------------------->
 ---
 ### NIPS 2014
 +++?include=slides/NIPS2014/Generative_Adversarial_Nets.md
@@ -243,6 +248,7 @@
 ### arXiv 2014
 +++?include=slides/arXiv2014/Conditional_Generative_Adversarial_Nets.md
 
+<!------------------------ 2013 --------------------------->
 ---
 ### ICCV 2013
 +++?include=slides/ICCV2013/Multi-channel_Correlation_Filters.md
@@ -251,6 +257,7 @@
 ### CVPR 2013
 +++?include=slides/CVPR2013/Online_Object_Tracking_A_Benchmark.md
 
+<!------------------------ 2012 --------------------------->
 ---
 ### NIPS 2012
 +++?include=slides/NIPS2012/ImageNet_Classification_with_Deep_Convolutional_Neural_Networks.md
@@ -259,6 +266,7 @@
 ### ECCV 2012
 +++?include=slides/ECCV2012/Exploiting_the_Circulant_Structure_of_Tracking-by-Detection_with_Kernels.md
 
+<!------------------------ 2010 --------------------------->
 ---
 ### CVPR 2010
 +++?include=slides/CVPR2010/Tracking_the_Invisible_Learning_Where_the_Object_Might_be.md
