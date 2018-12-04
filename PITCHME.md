@@ -171,6 +171,7 @@
 
 ---
 ### CVPR 2016
++++?include=slides/CVPR2016/DeepFool_A_Simple_and_Accurate_Method_to_Fool_Deep_Neural_Networks.md
 +++?include=slides/CVPR2016/Deep_Residual_Learning_for_Image_Recognition.md
 +++?include=slides/CVPR2016/Siamese_Instance_Search_for_Tracking.md
 <!-- +++?include=slides/CVPR2016/Structural_Correlation_Filter_for_Robust_Visual_Tracking.md -->
