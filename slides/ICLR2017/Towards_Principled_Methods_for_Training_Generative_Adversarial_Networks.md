@@ -4,7 +4,7 @@
 @div[left]
 
 __概要__<br>
-GANの最も大きい問題点である不安定さに関する理論的説明を行った。<br>
+GANの最も大きい問題点である不安定さに関する理論的説明を行った。主にJS divergenceがGANの学習において機能しないことを証明した上で、Discriminatorの入力にノイズを加えることの意味を示し、その上でより適切な分布間の距離の尺度としてWasserstein metricが使用できることを提唱した。<br>
 <br>
 __手法・新規性__<br>
 真のデータ分布`$\mathbb{P}_r$`と生成器`$g_{\theta}$`のデータ分布`$\mathbb{P}_g$`が与えられたとき、従来の尤度最大化による手法ではKullback-Leibler (KL) divergence `$KL(\mathbb{P}_r||\mathbb{P}_g)$`の最小化を行っていたが、非対称性に基づく不安定性がある。GANではKL divergenceの代わりに、対称性を持つ以下のJenson-Shannon (JS) divergence `$JS (\mathbb{P}_r || \mathbb{P}_g)$`に置き換えており、GANの成功はこの変更によるものが大きいとされている。<br>
