@@ -116,6 +116,10 @@
 +++?include=slides/ICLR2017/Towards_Principled_Methods_for_Training_Generative_Adversarial_Networks.md
 
 ---
+### NIPS 2017
++++?include=slides/NIPS2017/Improved_Training_of_Wasserstein_GANs.md
+
+---
 ### BMVC 2017
 +++?include=slides/BMVC2017/Superpixel-based_Semantic_Segmentation_trained_by_Statistical_Process_Control.md
 
