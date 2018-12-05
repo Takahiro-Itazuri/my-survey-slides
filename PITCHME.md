@@ -109,6 +109,7 @@
 ---
 ### ICML 2017
 +++?include=slides/ICML2017/Conditional_Image_Synthesis_with_Auxiliary_Classifier_GANs.md
++++?include=slides/ICML2017/Wasserstein_Generative_Adversarial_Networks.md
 
 ---
 ### ICLR 2017
