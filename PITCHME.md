@@ -108,7 +108,11 @@
 
 ---
 ### ICML 2017
-+++?include=slides/arXiv2016/Conditional_Image_Synthesis_with_Auxiliary_Classifier_GANs.md
++++?include=slides/ICML2017/Conditional_Image_Synthesis_with_Auxiliary_Classifier_GANs.md
+
+---
+### ICLR 2017
++++?include=slides/ICLR2017/Towards_Principled_Methods_for_Training_Generative_Adversarial_Networks.md
 
 ---
 ### BMVC 2017
