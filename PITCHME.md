@@ -13,7 +13,7 @@
 +++?include=slides/ECCV2018/Tracking_Emerges_by_Colorizing_Videos.md
 +++?include=slides/ECCV2018/TrackingNet_A_Large-Scale_Dataset_and_Benchmark_for_Object_Tracking_in_the_Wild.md
 
----?image=assets/conference_img/cvpr2018.jpg&opacity=50&size=contain
+---?image=assets/conference_img/cvpr2018.jpg&opacity=20&size=contain
 ### CVPR 2018
 #### June 18 - June 22
 +++?include=slides/CVPR2018/A_Twofold_Siamese_Network_for_Real-Time_Object_Tracking.md
