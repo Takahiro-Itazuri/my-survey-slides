@@ -4,6 +4,7 @@
 <!------------------------ 2018 --------------------------->
 ---
 ### ECCV 2018
+#### September 8 - September 14
 +++?include=slides/ECCV2018/Bayesian_Semantic_Instance_Segmentation_in_Open_Set_World.md
 +++?include=slides/ECCV2018/Deep_Clustering_for_Unsupervised_Learning_of_Visual_Features.md
 +++?include=slides/ECCV2018/Distractor-aware_Siamese_Networks_for_Visual_object_Tracking.md
@@ -14,6 +15,7 @@
 
 ---
 ### CVPR 2018
+#### June 18 - June 22
 +++?include=slides/CVPR2018/A_Twofold_Siamese_Network_for_Real-Time_Object_Tracking.md
 +++?include=slides/CVPR2018/A_Two-Step_Disentanglement_Method.md
 +++?include=slides/CVPR2018/Adversarial_Feature_Augmentation_for_Unsupervised_Domain_Adaptation.md
@@ -65,6 +67,7 @@
 
 ---
 ### ICRA 2018
+#### May 21 - May 25
 +++?include=slides/ICRA2018/SceneCut_Joint_Geometric_and_Object_Segmentation_for_Indoor_Scenes.md
 +++?include=slides/ICRA2018/Social_Attention_Modeling_Attention_in_Human_Crowds.md
 
@@ -84,6 +87,7 @@
 
 ---
 ### ICLR 2018
+#### May 6 - May 9
 +++?include=slides/ICLR2018/cGANs_with_Projection_Discriminator.md
 +++?include=slides/ICLR2018/Spectral_Normalization_for_Generative_Adversarial_Networks.md
 
@@ -98,33 +102,30 @@
 
 <!------------------------ 2017 --------------------------->
 ---
-### TPAMI 2017
-+++?include=slides/TPAMI2017/SegNet_A_Deep_Convolutional_Encoder-Decoder_Architecture_for_Image_Segmentation.md
+### NIPS 2017
+#### December 4 - December 9
++++?include=slides/NIPS2017/Improved_Training_of_Wasserstein_GANs.md
 
 ---
 ### ICCV 2017
+#### October 22 - October 29
 +++?include=slides/ICCV2017/Learning_Spatio-Temporal_Features_with_3D_Residual_Networks_for_Action_Recognition.md
 +++?include=slides/ICCV2017/Cut_Paste_and_Learn_Surprisingly_Easy_Synthesis_for_Instance_Detection.md
 
 ---
+### BMVC 2017
+#### September 4 - September 7
++++?include=slides/BMVC2017/Superpixel-based_Semantic_Segmentation_trained_by_Statistical_Process_Control.md
+
+---
 ### ICML 2017
+#### August 6 - August 11
 +++?include=slides/ICML2017/Conditional_Image_Synthesis_with_Auxiliary_Classifier_GANs.md
 +++?include=slides/ICML2017/Wasserstein_Generative_Adversarial_Networks.md
 
 ---
-### ICLR 2017
-+++?include=slides/ICLR2017/Towards_Principled_Methods_for_Training_Generative_Adversarial_Networks.md
-
----
-### NIPS 2017
-+++?include=slides/NIPS2017/Improved_Training_of_Wasserstein_GANs.md
-
----
-### BMVC 2017
-+++?include=slides/BMVC2017/Superpixel-based_Semantic_Segmentation_trained_by_Statistical_Process_Control.md
-
----
 ### CVPR 2017
+#### July 21 - July 26
 +++?include=slides/CVPR2017/Dilated_Residual_Networks.md
 +++?include=slides/CVPR2017/End-to-End_Representation_Learning_for_Correlation_Filter_Based_Tracking.md
 +++?include=slides/CVPR2017/Image-to-Image_Translation_with_Conditional_Adversarial_Networks.md
@@ -141,21 +142,14 @@
 ### SIGGRAPH 2017 -->
 <!-- +++?include=slides/SIGGRAPH2017/VNect.md -->
 
-<!-- ---
-### CHI 2017 -->
-<!-- +++?include=slides/CHI2017/Designing_Gamified_Applications_that_Make_Safe_Driving_More_Engaging.md -->
-<!-- +++?include=slides/CHI2017/Empowered_Participation.md -->
-<!-- +++?include=slides/CHI2017/Explaining_the_Gap.md -->
-<!-- +++?include=slides/CHI2017/Fingertip_Tactile_Devices.md -->
-<!-- +++?include=slides/CHI2017/Illumination_Aesthetics.md -->
-<!-- +++?include=slides/CHI2017/Kinecting_with_Orangutans.md -->
-<!-- +++?include=slides/CHI2017/MakerWear.md -->
-<!-- +++?include=slides/CHI2017/Modelling_Learning_of_New_Keyboard_Layouts.md -->
-<!-- +++?include=slides/CHI2017/Organic_Primitives.md -->
-<!-- +++?include=slides/CHI2017/ShareVR.md -->
-<!-- +++?include=slides/CHI2017/Stories_from_Survivors.md -->
-<!-- +++?include=slides/CHI2017/Supporting_Expressive_Procedural_Art_Creation.md -->
-<!-- +++?include=slides/CHI2017/What_Can_Be_Predicted_from_Six_Seconds_of_Drivers_Glances.md -->
+---
+### ICLR 2017
+#### April 24 - April 26
++++?include=slides/ICLR2017/Towards_Principled_Methods_for_Training_Generative_Adversarial_Networks.md
+
+---
+### TPAMI 2017
++++?include=slides/TPAMI2017/SegNet_A_Deep_Convolutional_Encoder-Decoder_Architecture_for_Image_Segmentation.md
 
 ---
 ### arXiv 2017
@@ -166,20 +160,24 @@
 <!------------------------ 2016 --------------------------->
 ---
 ### NIPS 2016
+#### December 5 - December 10
 +++?include=slides/NIPS2016/Improved_Techniques_for_Training_GANs.md
 
 ---
 ### ECCV 2016
+#### October 8 - October 16
 +++?include=slides/ECCV2016/Beyond_Correlation_Filters.md
 +++?include=slides/ECCV2016/SSD_Single_Shot_MultiBox_Detector.md
 <!-- +++?include=slides/ECCV2016/Video_Summarization_with_Long_Short-term_Memory.md -->
 
 ---
 ### ECCVW 2016
+#### October 8 - October 16
 +++?include=slides/ECCVW2016/Fully-Convolutional_Siamese_Networks_for_Object_Tracking.md
 
 ---
 ### CVPR 2016
+#### June 26 - July 1
 +++?include=slides/CVPR2016/DeepFool_A_Simple_and_Accurate_Method_to_Fool_Deep_Neural_Networks.md
 +++?include=slides/CVPR2016/Deep_Residual_Learning_for_Image_Recognition.md
 +++?include=slides/CVPR2016/Siamese_Instance_Search_for_Tracking.md
@@ -187,26 +185,26 @@
 
 ---
 ### ICML 2016
+#### June 19 - June 24
 +++?include=slides/ICML2016/Autoencoding_Beyond_Pixels_using_a_Learned_Similarity_Metric.md
 
 ---
 ### ICLR 2016
+#### May 2 - May 4
 +++?include=slides/ICLR2016/Multi-Scale_Context_Aggregation_by_Dialted_Convolutions.md
 +++?include=slides/ICLR2016/Unsupervised_Representation_Learning_with_Deep_Convolutional_Generative_Adversarial_Networks.md
 
 <!------------------------ 2015 --------------------------->
 ---
 ### NIPS 2015
+#### December 7 - December 12
 +++?include=slides/NIPS2015/Faster_R-CNN.md
 <!-- +++?include=slides/NIPS2015/mQA.md -->
 <!-- +++?include=slides/NIPS2015/COCO-QA.md -->
 
 ---
-### ICML 2015
-+++?include=slides/ICML2015/Siamese_Neural_Networks_for_One-shot_Image_Recognition.md
-
----
 ### ICCV 2015
+#### December 11 - December 18
 +++?include=slides/ICCV2015/Fast_R-CNN.md
 +++?include=slides/ICCV2015/Hierarchical_Convolutional_Features_for_Visual_Tracking.md
 +++?include=slides/ICCV2015/Learning_Spatially_Regularized_Correlation_Filters_for_Visual_Tracking.md
@@ -214,15 +212,14 @@
 +++?include=slides/ICCV2015/Visual_Tracking_with_Fully_Convolutional_Networks.md
 
 ---
-### ICCVW 2015
-
----
 ### ICML 2015
+#### July 6 - July 11
 +++?include=slides/ICML2015/Batch_Normalization.md
 +++?include=slides/ICML2015/Siamese_Neural_Networks_for_One-shot_Image_Recognition.md
 
 ---
 ### CVPR 2015
+#### June 7 - June 12
 +++?include=slides/CVPR2015/Fully_Convolutional_Networks_for_Sementic_Segmentation.md
 +++?include=slides/CVPR2015/Learning_to_Compare_Image_Patches_via_Convolutional_Neural_Networks.md
 <!-- +++?include=slides/CVPR2015/Real-time_Patch-based_Visual_Tracking_via_Adaptive_Correlation_Filters.md -->
@@ -240,17 +237,20 @@
 <!------------------------ 2014 --------------------------->
 ---
 ### NIPS 2014
+#### December 8 - December 13
 +++?include=slides/NIPS2014/Generative_Adversarial_Nets.md
 +++?include=slides/NIPS2014/Two-Stream_Convolutional_Networks_for_Action_Recognition_in_Videos.md
 <!-- +++?include=sldies/NIPS2014/A_Multi-World_Approach_to_Question_Answering_about_Real-World_Scenes_based_on_Uncertain_Input.md -->
 
 ---
 ### CVPR 2014
+#### June 23 - June 28
 +++?include=slides/CVPR2014/Large-scale_Video_Classification_with_Convolutional_Neural_Networks.md
 +++?include=slides/CVPR2014/Rich_Feature_Hierarchies_for_Accurate_Object_Detection_and_Semantic_Segmentation.md
 
 ---
 ### ICLR 2014
+#### April 14 - April 16
 +++?include=slides/ICLR2014/Auto-Encoding_Variational_Bayes.md
 +++?include=slides/ICLR2014/Intriguing_Properties_of_Neural_Networks.md
 
@@ -261,42 +261,36 @@
 <!------------------------ 2013 --------------------------->
 ---
 ### ICCV 2013
+#### December 1 - December 8
 +++?include=slides/ICCV2013/Multi-channel_Correlation_Filters.md
 
 ---
 ### CVPR 2013
+#### June 23 - June 28
 +++?include=slides/CVPR2013/Online_Object_Tracking_A_Benchmark.md
 
 <!------------------------ 2012 --------------------------->
 ---
 ### NIPS 2012
+#### December 3 - December 8
 +++?include=slides/NIPS2012/ImageNet_Classification_with_Deep_Convolutional_Neural_Networks.md
 
 ---
 ### ECCV 2012
+#### October 7-13
 +++?include=slides/ECCV2012/Exploiting_the_Circulant_Structure_of_Tracking-by-Detection_with_Kernels.md
 
 <!------------------------ 2010 --------------------------->
 ---
 ### CVPR 2010
+#### June 13 - June 18
 +++?include=slides/CVPR2010/Tracking_the_Invisible_Learning_Where_the_Object_Might_be.md
 +++?include=slides/CVPR2010/Visual_Object_Tracking_using_Adaptive_Correlation_Filters.md
 
 ---
 ### CVPR 2009
+#### June 20 - June 25
 +++?include=slides/CVPR2009/Average_of_Synthetic_Exact_Filters.md
-
----
-### Database of Databse
-<!-- +++?include=slides/Database/Sports-1M.md -->
-<!-- +++?include=slides/Database/UCF101.md -->
-
----
-### Survey of Visual Tracking
-<!-- +++?include=slides/Survey_of_Visual_Tracking/Framework.md  -->
-<!-- +++?include=slides/Survey_of_Visual_Tracking/Evaluation.md -->
-<!-- +++?include=slides/Survey_of_Visual_Tracking/Database.md -->
-<!-- +++?include=slides/Survey_of_Visual_Tracking/SpeedComparison.md -->
 
 ---
 ### Technical Survey of Visual Tracking
