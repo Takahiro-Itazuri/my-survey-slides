@@ -26,5 +26,6 @@ Lipschitz制約をニューラルネットが満たすためにはコンパク�
 
 __リンク__<br>
 ・[論文](http://proceedings.mlr.press/v70/arjovsky17a/arjovsky17a.pdf)<br>
+・[GitHub](https://github.com/martinarjovsky/WassersteinGAN)<br>
 
 @divend
