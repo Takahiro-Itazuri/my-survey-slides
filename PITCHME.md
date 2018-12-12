@@ -7,6 +7,7 @@
 <!------------------------ 2018 --------------------------->
 ---
 ### NeurIPS 2018
++++?include=slides/NeurIPS2018/Constructing_Unrestircted_Adversarial_Examples_with_Generative_Models.md
 +++?include=slides/NeurIPS2018/Video-to-Video_Synthesis.md
 
 ---
