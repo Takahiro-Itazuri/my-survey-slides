@@ -1,7 +1,14 @@
 # Survey Slides
 ### Takahiro Itazuri (Waseda University)
++++
+### Caution
+Note that slides are not always accurate because they are created based on my interpretation.
 
 <!------------------------ 2018 --------------------------->
+---
+### NeurIPS 2018
+++++?include=slides/NeurIPS2018/Video-to-Video_Synthesis.md
+
 ---
 ### ECCV 2018
 #### September 8 - September 14
@@ -98,7 +105,6 @@
 +++?include=slides/arXiv2018/Efficient_Semantic_Image_Segmentation_with_Superpixel_Pooling.md
 +++?include=slides/arXiv2018/Generating_Adversarial_Examples_with_Adversarial_Networks.md
 +++?include=slides/arXiv2018/Learning_to_Detect_Fake_Face_Images_in_the_Wild.md
-+++?include=slides/arXiv2018/Video-to-Video_Synthesis.md
 
 <!------------------------ 2017 --------------------------->
 ---
