@@ -4,7 +4,7 @@
 @div[left]
 
 __概要__<br>
-Faster R-CNNはBounding Box Proposalの生成やそれに伴う特徴量やピクセルのリサンプリングがあるために高速性が損なわれている。本論文では、そのようなプロセスを必要としない物体検出手法（SSD：Single Shot MultiBox Detector）を提案した。SSDはYOLOよりも高い精度を出し、Faster R-CNより速い速度で同等の精度を出した。<br>
+Faster R-CNNはBounding Box Proposalの生成やそれに伴う特徴量やピクセルのリサンプリングがあるために高速性が損なわれている。本論文では、Bounding Box Proposalの生成をしない物体検出手法（SSD：Single Shot MultiBox Detector）を提案した。Faster R-CNNは7fpsでmAP 73.2%、YOLOは45fpsでmAP 63.4%であるのに対して、SSDは59fpsでmAP 74.3%を実現した。<br>
 <br>
 __手法・新規性__<br>
 SSDは複数の特徴量マップ上の各位置で異なるアスペクト比を持つ複数のdefault boxを持ち、そのdefault boxごとにboxの形のoffsetと物体のカテゴリの確率を出力する。損失は位置についてはSmooth L1 Lossを用い、カテゴリについてはSoftmax Lossを適用する。<br>
@@ -14,7 +14,7 @@ SSDは複数の特徴量マップ上の各位置で異なるアスペクト比�
 
 @div[right]
 
-![SSD](assets/img/SSD_Single_Shot_MultiBox_Detector =full)<br>
+![SSD](assets/img/SSD_Single_Shot_MultiBox_Detector.png =full)<br>
 <br>
 
 __リンク__<br>
