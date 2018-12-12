@@ -10,7 +10,7 @@ __手法・新規性__<br>
 通常のSGDでは、モデルのパラメータ`$\theta$`は`$t$`ステップ目のミニバッチ`$\boldsymbol{X}_t$`に対して、以下の式でモデルが更新される。<br>
 `\begin{align} \theta_{t+1} = \theta_t - \eta \nabla_{\theta_t} l(\boldsymbol{x}_t, \theta_t) \end{align}`
 提案手法はこれに対して、少量のデータ`$\hat{\boldsymbol{x}}=\left\{ \hat{x}_i \right\}_{i=1}^{M} (M \ll N)$`と学習率`$\hat{\eta}$`を用いてモデルのパラメータを以下のように更新する。<br>
-`\begin{} \theta_1 = \theta_0 - \hat{\eta} \nabla_{\theta_0} l (\hat{\boldsymbol{x}}, \theta_0) \end{align}`
+`\begin{align} \theta_1 = \theta_0 - \hat{\eta} \nabla_{\theta_0} l (\hat{\boldsymbol{x}}, \theta_0) \end{align}`
 このような更新に基づいて学習されたパラメータが最適になるように少量のデータ`$\hat{\boldsymbol{x}}$`と学習率`$\hat{\eta}$`を以下の式で最適化する。<br>
 `\begin{align} \min_{\hat{\boldsymbol{x}}, \hat{\eta}} \mathcal{L} (\hat{\boldsymbol{x}}, \hat{\eta}; \theta_0) &= \min_{\hat{\boldsymbol{x}}, \hat{\eta}} l(\boldsymbol{x}, \theta_1) \\ &= \min_{\hat{\boldsymbol{x}}, \hat{\eta}} l(\boldsymbol{x}, \theta_0 - \hat{\eta} \nabla_{\theta_0} l (\hat{\boldsymbol{x}}, \theta_0)) \end{align}`
 上式の定式化においては固定された初期値に対する最適化を行っているが、ある確率分布`$p(\theta_0)$`によって初期化されたモデルに対する最適化についても次式のように定式化することが可能である。<br>
