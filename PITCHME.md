@@ -1,13 +1,13 @@
 # Survey Slides
 ### Takahiro Itazuri (Waseda University)
 +++
-### Caution
-Note that slides are not always accurate because they are created based on my interpretation.
+### Caution!
+#### Note that slides are not always accurate because they are created based on my interpretation.
 
 <!------------------------ 2018 --------------------------->
 ---
 ### NeurIPS 2018
-++++?include=slides/NeurIPS2018/Video-to-Video_Synthesis.md
++++?include=slides/NeurIPS2018/Video-to-Video_Synthesis.md
 
 ---
 ### ECCV 2018
