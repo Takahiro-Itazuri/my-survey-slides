@@ -102,9 +102,9 @@
 
 <!------------------------ 2017 --------------------------->
 ---
-### NIPS 2017
+### NeurIPS 2017
 #### December 4 - December 9
-+++?include=slides/NIPS2017/Improved_Training_of_Wasserstein_GANs.md
++++?include=slides/NeurIPS2017/Improved_Training_of_Wasserstein_GANs.md
 
 ---
 ### ICCV 2017
@@ -159,9 +159,9 @@
 
 <!------------------------ 2016 --------------------------->
 ---
-### NIPS 2016
+### NeurIPS 2016
 #### December 5 - December 10
-+++?include=slides/NIPS2016/Improved_Techniques_for_Training_GANs.md
++++?include=slides/NeurIPS2016/Improved_Techniques_for_Training_GANs.md
 
 ---
 ### ECCV 2016
@@ -196,11 +196,11 @@
 
 <!------------------------ 2015 --------------------------->
 ---
-### NIPS 2015
+### NeurIPS 2015
 #### December 7 - December 12
-+++?include=slides/NIPS2015/Faster_R-CNN.md
-<!-- +++?include=slides/NIPS2015/mQA.md -->
-<!-- +++?include=slides/NIPS2015/COCO-QA.md -->
++++?include=slides/NeurIPS2015/Faster_R-CNN.md
+<!-- +++?include=slides/NeurIPS2015/mQA.md -->
+<!-- +++?include=slides/NeurIPS2015/COCO-QA.md -->
 
 ---
 ### ICCV 2015
@@ -236,11 +236,11 @@
 
 <!------------------------ 2014 --------------------------->
 ---
-### NIPS 2014
+### NeurIPS 2014
 #### December 8 - December 13
-+++?include=slides/NIPS2014/Generative_Adversarial_Nets.md
-+++?include=slides/NIPS2014/Two-Stream_Convolutional_Networks_for_Action_Recognition_in_Videos.md
-<!-- +++?include=sldies/NIPS2014/A_Multi-World_Approach_to_Question_Answering_about_Real-World_Scenes_based_on_Uncertain_Input.md -->
++++?include=slides/NeurIPS2014/Generative_Adversarial_Nets.md
++++?include=slides/NeurIPS2014/Two-Stream_Convolutional_Networks_for_Action_Recognition_in_Videos.md
+<!-- +++?include=sldies/NeurIPS2014/A_Multi-World_Approach_to_Question_Answering_about_Real-World_Scenes_based_on_Uncertain_Input.md -->
 
 ---
 ### CVPR 2014
@@ -271,9 +271,9 @@
 
 <!------------------------ 2012 --------------------------->
 ---
-### NIPS 2012
+### NeurIPS 2012
 #### December 3 - December 8
-+++?include=slides/NIPS2012/ImageNet_Classification_with_Deep_Convolutional_Neural_Networks.md
++++?include=slides/NeurIPS2012/ImageNet_Classification_with_Deep_Convolutional_Neural_Networks.md
 
 ---
 ### ECCV 2012
