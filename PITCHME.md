@@ -97,6 +97,7 @@
 ### ICLR 2018
 #### May 6 - May 9
 +++?include=slides/ICLR2018/cGANs_with_Projection_Discriminator.md
++++?include=slides/ICLR2018/Generating_Natural_Adversarial_Examples.md
 +++?include=slides/ICLR2018/Spectral_Normalization_for_Generative_Adversarial_Networks.md
 
 ---
