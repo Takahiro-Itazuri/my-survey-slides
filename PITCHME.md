@@ -141,6 +141,7 @@
 +++?include=slides/CVPR2017/Learning_from_Synthetic_Humans.md
 +++?include=slides/CVPR2017/One-Shot_Video_Object_Segmentation.md
 +++?include=slides/CVPR2017/The_World_of_Fast_Moving_Objects.md
++++?include=slides/CVPR2017/Universal_Adversarial_Perturbations.md
 
 <!-- ---
 ### CVPRW 2017 -->
