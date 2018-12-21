@@ -172,6 +172,7 @@
 ### NeurIPS 2016
 #### December 5 - December 10
 +++?include=slides/NeurIPS2016/Improved_Techniques_for_Training_GANs.md
++++?include=slides/NeurIPS2016/Robustness_of_Classifiers_from_Adversarial_to_Random_Noise.md
 
 ---
 ### ECCV 2016
