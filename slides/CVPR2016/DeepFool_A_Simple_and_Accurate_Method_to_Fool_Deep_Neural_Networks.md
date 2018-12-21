@@ -11,7 +11,7 @@ DeepFoolは、入力サンプル`$\boldsymbol{x}$`に関する勾配情報を求
 `\begin{align} \boldsymbol{r}_{\ast}(\boldsymbol{x}) = - \frac{f(\boldsymbol{x})}{\|\boldsymbol{w}\|_{2}^{2}} \boldsymbol{w} \end{align}`
 実際には識別結果を変化させるにはboundaryをわずかに超える必要があるため、`$1+\eta (\eta << 1)$`倍（論文中では`$\eta=0.02$`）する必要がある。また実際の識別器は線形ではないため、上述の計算を反復的に繰り返すことによって解を得る。<br>
 またadversarial robustnessの指標として以下の指標を利用した。<br>
-`\begin{align} \rho_{adv} (\hat{k}) \mathbb{E}_{\boldsymbol{x}} \frac{\Delta (\boldsymbol{x}; \hat{k})}{\|\boldsymbol{x}\|_2} \end{align`
+`\begin{align} \rho_{adv} (\hat{k}) \mathbb{E}_{\boldsymbol{x}} \frac{\Delta (\boldsymbol{x}; \hat{k})}{\|\boldsymbol{x}\|_2} \end{align}`
 
 @divend
 
